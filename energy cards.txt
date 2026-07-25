@@ -1,0 +1,65 @@
+Basic Water Energy (Basic Energy) – x∞
+
+Effect: Provides Water Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Basic Fighting Energy (Basic Energy) – x∞
+
+Effect: Provides Fighting Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Basic Grass Energy (Basic Energy) – x∞
+
+Effect: Provides Grass Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Basic Lightning Energy (Basic Energy) – x∞
+
+Effect: Provides Lightning Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Basic Metal Energy (Basic Energy) – x∞
+
+Effect: Provides Metal Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Basic Psychic Energy (Basic Energy) – x∞
+
+Effect: Provides Psychic Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Basic Fire Energy (Basic Energy) – x∞
+
+Effect: Provides Fire Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Basic Darkness Energy (Basic Energy) – x∞
+
+Effect: Provides Darkness Energy.
+
+Bottom Card Details: You may play any number of Basic Energy cards during your turn.
+
+Legacy Energy (Special Energy) – x1
+
+Effect: As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 
+Energy at a time. If the Pokémon this card is attached to is Knocked Out, that player draws a card until they 
+have 6 Prize cards remaining. The effect of your Legacy Energy can't be applied more than once at a time.
+
+Bottom Card Details: You may play any number of Energy cards during your turn. You can't attach more than 1 
+Energy card to a Pokémon during your turn.
+
+Neo Upper Energy (Special Energy) – x1
+
+Effect: As long as this card is attached to a Pokémon, it provides Colorless Energy. When you attach this card 
+from your hand to a Pokémon, you may choose 1 of the following to apply: It provides every type of Energy but 
+provides only 1 Energy at a time; or it provides Colorless Energy but provides 2 Energy at a time.
+
+Bottom Card Details: You may play any number of Energy cards during your turn. You can't attach more than 1 
+Energy card to a Pokémon during your turn.

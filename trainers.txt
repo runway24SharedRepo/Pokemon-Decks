@@ -1,0 +1,482 @@
+Academy at Night (Stadium) – x4 Effect: Once during each player's turn, that player may put a card from their 
+hand on top of their deck.
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Air Balloon (Pokémon Tool) – x3
+
+Effect: The Retreat Cost of the Pokémon this card is attached to is Colorless Colorless.
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Area Zero Underdepths (Stadium) – x3
+
+Effect: Each player who has any Tera Pokémon in play can have up to 8 Pokémon on their Bench.
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Battle Cage (Stadium) – x2
+
+Effect: Prevent all damage counters from being placed on Benched Pokémon (both yours and your opponent's) from 
+attacks of your opponent's Pokémon. (Damage from attacks is still applied.)
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Bianca's Devotion (Supporter) – x1
+
+Effect: Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Binding Mochi (Pokémon Tool) – x3
+
+Effect: Attacks used by the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon 
+(before applying Weakness and Resistance).
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Boss's Orders (Supporter) – x2
+
+Effect: Switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Buddy-Buddy Poffin (Item) – x4
+
+Effect: Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, 
+shuffle your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Bug Catching Set (Item) – x4
+
+Effect: Look at the top 7 cards of your deck. You may reveal up to 2 Pokémon you find there and put them into 
+your hand. Shuffle the other cards back into your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Canari (Supporter) – x1
+
+Effect: You can use this card only if you discard another card from your hand. Search your deck for up to 2 
+Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Carmine (Supporter) – x2
+
+Effect: If you go first, you may use this card during your first turn. Discard your hand and draw 3 cards.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Ciphermaniac's Codebreakers (Supporter) – x3
+
+Effect: Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Colress's Tenacity (Supporter) – x1
+
+Effect: Search your deck for a Stadium card and an Energy card, reveal them, and put them into your hand. Then, 
+shuffle your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Crispin (Supporter) – x2
+
+Effect: Search your deck for up to 2 Basic Energy cards of different types, reveal them, and put 1 of them into 
+your hand and the other to 1 of your Pokémon. Then, shuffle your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Cyrano (Supporter) – x3
+
+Effect: Search your deck for up to 3 Pokémon ex, reveal them, and put them into your hand. Then, shuffle your 
+deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Dangerous Laser (Item) – x1
+
+Effect: Your opponent's Active Pokémon is now Burned and Confused.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Dark Bell (Item) - x2
+Effect: both active non dark pokemon are now confused.
+Bottom card details: you may play any number of item cards during your turn.
+
+
+Dawn (Supporter) – x2
+
+Effect: Search your deck for a Basic Pokémon, a Stage 1 Pokémon, and a Stage 2 Pokémon, reveal them, and put 
+them into your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Energy Recycler (Item) – x2
+
+Effect: Shuffle up to 5 Basic Energy cards from your discard pile into your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Energy Retrieval (Item) – x2
+
+Effect: Put up to 2 Basic Energy cards from your discard pile into your hand.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Energy Search (Item) – x1
+
+Effect: Search your deck for a Basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Energy Search Pro (Item) – x1
+
+Effect: Search your deck for any number of Basic Energy cards of different types, reveal them, and put them into 
+your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Fighting Gong (Item) – x4
+
+Effect: Search your deck for a Basic Fighting Energy card or a Basic Fighting pokemon, reveal it, and put it 
+into your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Firebreather (Supporter) – x2
+
+Effect: Search your deck for up to 7 Basic [R] Energy cards, reveal them, and put them into your hand. Then, 
+shuffle 
+your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Forest of Vitality (Stadium) – x4
+
+Effect: Each player's Basic Grass Pokémon can evolve into Grass Pokémon during the turn they play those Pokémon, 
+except during their first turn.
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Full Metal Lab (Stadium) – x2
+
+Effect: Basic Metal Pokémon (both yours and your opponent's) take 30 less damage from attacks from your 
+opponent's Pokémon (after applying Weakness and Resistance).
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Glass Trumpet (Item) – x3
+
+Effect: You can use this card only if you have any Tera Pokémon in play. Choose up to 2 of your Benched Pokémon 
+and attach a Basic Energy card from your discard pile to each of them.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Grand Tree (Stadium) – x1
+
+Effect: Once during each player's turn, that player may search their deck for a Stage 1 or Stage 2 Pokémon that 
+evolves from 1 of their Basic Pokémon in play and put it onto that Pokémon to evolve it. (They can't evolve a 
+Basic Pokémon into a Stage 1 or Stage 2 Pokémon during their first turn or on a Basic Pokémon that was put into 
+play this turn.)
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Gravity Mountain (Stadium) – x2
+
+Effect: Each Stage 2 Pokémon in play (both yours and your opponent's) gets +30 HP.
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Grimsley's Move (Supporter) – x4
+
+Effect: Look at the top 7 cards of your deck and put a Pokémon from among them into your hand. Then, shuffle the 
+other cards into your deck. You can't use this card during your first turn.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Hero's Cape (Pokémon Tool) – x1
+
+Effect: The Pokémon this card is attached to gets +100 HP.
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Hilda (Supporter) – x1
+
+Effect: Search your deck for an Evolution Pokémon and an Energy card, reveal them, and put them into your hand. 
+Then, shuffle your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Iris's Fighting Spirit (Supporter) – x2
+
+Effect: You can use this card only if you discard another card from your hand. Draw cards until you have 6 cards 
+in your hand.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Jamming Tower (Stadium) – x2
+
+Effect: Pokémon Tools attached to each Pokémon (both yours and your opponent's) have no effect.
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Janine's Secret Art (Supporter) – x2
+
+Effect: Choose up to 2 of your Poisoned Pokémon. For each of those Pokémon, search your deck for a Basic Energy 
+card and attach it to that Pokémon. Then, shuffle your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Judge (Supporter) – x2
+
+Effect: Each player shuffles their hand into their deck and draws 4 cards.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Lana's Aid (Supporter) – x1
+
+Effect: Put up to 3 in any combination of Pokémon that don't have a Rule Box and Basic Energy cards from your 
+discard pile into your hand. (Pokémon ex, Pokémon V, have Rule Boxes.)
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Levincia (Stadium) – x3
+
+Effect: Once during each player's turn, that player may put up to 2 Basic Energy cards from their discard pile 
+into their hand.
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+Lillie's Determination (Supporter) – x4
+
+Effect: Shuffle your hand into your deck. Then, draw 6 cards. If you have exactly 6 Prize cards remaining, draw 
+8 cards instead.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Lisia's Appeal (Supporter) – x1
+
+Effect: Switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot. If you do, the new Active 
+Pokémon is now Confused.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Max Rod (Item) – x1
+
+Effect: Put up to 2 in any combination of Pokémon and Basic Energy cards from your discard pile into your hand.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Maximum Belt (Pokémon Tool) – x1
+
+Effect: Attacks used by the Pokémon this card is attached to do 30 more damage to your opponent's Active Pokémon 
+ex (before applying Weakness and Resistance).
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Mega Signal (Item) – x1
+
+Effect: Search your deck for a Mega Evolution Pokémon ex, reveal it, and put it into your hand. Then, shuffle 
+your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Misty's vitality (Supporter) -x1
+Effect:Search your deck for up to 4 basic water energy cards and attach them to 1 of your pokemon. Then, shuffle 
+your 
+deck. Your turn ends.
+Bottom card details: you may play only 1 supported card during your turn.
+
+Night Stretcher (Item) – x3
+
+Effect: Put a Pokémon or a Basic Energy card from your discard pile into your hand.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+N's Castle (Stadium) – x2
+
+Effect: N's Pokémon in play (both yours and your opponent's) have no Retreat Cost.
+
+Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
+discard it if another Stadium comes into play. A Stadium with the same name can't be played.
+
+N's PP Up (Item) – x4
+
+Effect: Attach a Basic Energy card from your discard pile to 1 of your Benched N's Pokémon.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Poké Pad (Item) – x4
+
+Effect: Search your deck for a Pokémon that doesn't have a Rule Box and put it into your hand. Then, shuffle 
+your deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Powerglass (Pokémon Tool) – x2
+
+Effect: At the end of your turn (after your attack), if the Pokémon this card is attached to is in the Active 
+Spot, you may attach a Basic Energy card from your discard pile to it.
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Precious Trolley (Item) – x1
+
+Effect: Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Premium Power Pro (Item) – x4
+
+Effect: During this turn, attacks used by your Pokémon do 30 more damage to your opponent's Active Pokémon ex 
+(before applying Weakness and Resistance).
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Prime Catcher (Item - ACE SPEC) – x1
+
+Effect: Switch in 1 of your opponent's Benched Pokémon ex to the Active Spot. If you do, your opponent's Active 
+Pokémon is now Confused.
+
+Bottom Card Details: You may play any number of Item cards during your turn. You can't have more than 1 ACE SPEC 
+card in your deck.
+
+Rare Candy (Item) – x4
+
+Effect: Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that 
+Pokémon, put that card onto the Basic Pokémon to evolve it. You can't use this card during your first turn or on 
+a Basic Pokémon that was put into play this turn.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Redeemable Ticket (Item) – x1
+
+Effect: Count your Prize cards, shuffle them, and put them on the bottom of your deck. Then, put them down as 
+your Prize cards.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Rescue Board (Pokémon Tool) – x2
+
+Effect: The Retreat Cost of the Pokémon this card is attached to is 0. If the Pokémon this card is attached to 
+has 30 HP or less, it has no Retreat Cost.
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Sacred Charm (Pokémon Tool) – x1
+
+Effect: The Pokémon this card is attached to takes 30 less damage from attacks from your opponent's Pokémon 
+(after applying Weakness and Resistance).
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Salvatore (Supporter) – x1
+
+Effect: Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto 
+that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you 
+were setting up to play or on a Pokémon that was put into play this turn.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Secret Box (Item - ACE SPEC) – x1
+
+Effect: You can use this card only if you discard 3 other cards from your hand. Search your deck for an Item 
+card, a Pokémon Tool card, and a Supporter card, reveal them, and put them into your hand. Then, shuffle your 
+deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn. You can't have more than 1 ACE SPEC 
+card in your deck.
+
+Sparkling Crystal (Pokémon Tool) – x1
+
+Effect: When the Tera Pokémon this card is attached to uses an attack, it doesn't need any Energy of the types 
+listed in that attack's cost.
+
+Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
+doesn't already have a Pokémon Tool attached.
+
+Special Red Card (Item) – x1
+
+Effect: You can use this card only if your opponent has 3 or fewer Prize cards remaining. Your opponent shuffles 
+their hand and puts it on the bottom of their deck. In this way, they draw 3 cards.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Surfer (Supporter) – x2
+
+Effect: Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw cards until you have 5 cards 
+in your hand.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Switch (Item) – x2
+
+Effect: Switch your Active Pokémon with 1 of your Benched Pokémon.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Tarragon (Supporter) – x1
+
+Effect: Put up to 4 in any combination of Grass Pokémon and Basic Grass Energy cards from your discard pile into 
+your hand.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Team Rocket's Petrel (Supporter) – x4
+
+Effect: Search your deck for a Trainer card, reveal it, and put it into your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.
+
+Tera Orb (Item) – x1
+
+Effect: Search your deck for a Tera Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Tremendous Bomb (pokemon tool) x1
+Effect: If the Pokémon this card is attached to isn't a Mega Evolution Pokémon ex, is in the Active Spot, and 
+takes 240 or more damage from an attack from your opponent's Mega Evolution ex Pokémon (even if this Pokémon is 
+Knocked Out), place 1 2 damage counters on the Attacking Pokémon. If you placed any damage counters in this way, 
+discard this card.
+Bottom card effect: you may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach 
+only. 1 pokemon tool to each pokemon aid it stays attached.
+
+Ultra Ball (Item) – x4
+
+Effect: You can use this card only if you discard 2 other cards from your hand. Search your deck for a Pokémon, 
+reveal it, and put it into your hand. Then, shuffle your deck.
+
+Bottom Card Details: You may play any number of Item cards during your turn.
+
+Unfair Stamp (Item - ACE SPEC) – x1
+
+Effect: You can use this card only if 1 of your Pokémon was Knocked Out during your opponent's last turn. Each 
+player shuffles their hand into their deck. Then, you draw 3 cards, and your opponent draws 2 cards.
+
+Bottom Card Details: You may play any number of Item cards during your turn. You can't have more than 1 ACE SPEC 
+card in your deck.
+
+Wally's Compassion (Supporter) – x1
+
+Effect: Heal all damage from 1 of your Mega Evolution Pokémon ex. If you do, put up to 3 of the Energy cards 
+attached to that Pokémon into your hand.
+
+Bottom Card Details: You may play only 1 Supporter card during your turn.

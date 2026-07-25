@@ -1,0 +1,458 @@
+Here is the full key you can use for your reference:
+
+[C] = Colorless (This is a wildcard. Any type of Energy can be used to pay for a Colorless cost).
+
+[R] = Fire Energy
+
+[W] = Water Energy
+
+[G] = Grass Energy
+
+[L] = Lightning Energy
+
+[P] = Psychic Energy
+
+[F] = Fighting Energy
+
+[D] = Darkness Energy
+
+[M] = Metal Energy (Note: Although it's technically "Metal" in the TCG, Energy cards are often printed as 
+"Steel" type, but the symbol is M).
+
+Annihilape (x1) – HP 150 | Attacks: Ghostly Blow [P][P] (100) Place 5 damage counters on 1 of your opponent's 
+Benched Pokémon. | Weakness: Darkness x2 | Retreat: 2 | Ability: Durable Body – If this Pokémon would be Knocked 
+Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP 
+becomes 10. | Resistance: Fighting -30
+
+Arven's Greedent (x1) – HP 120 | Attacks: Rolling Tackle [C][C] (50) | Weakness: Fighting x2 | Retreat: 2 | 
+Ability: Greedy Order – When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, 
+you may search your deck for up to 2 Arven's Sandwich cards and put them into your hand.
+
+Arven's Maschiff (x1) – HP 70 | Attacks: Stampede [C] (10), Confront [C][C] [C] (50) | Weakness: Grass x2 | 
+Retreat: 
+2 | Ability: None.
+
+Bayleef (x2) – HP 110 | Attacks: Push Down [G][C] (50) | Weakness: Fire x2 | Retreat: 2 | Ability: None.
+
+Blaziken EX (x3) – HP 320 | Attacks: Smolder-sault [R][C] (200) | Weakness: Water x2 | Retreat: 2 | 
+Ability: Seething Spirit – Once during your turn, you may attach a Basic [R] Energy card from your hand to 1 of 
+your Pokémon. If you do, discard a card from your hand.
+
+Blissey EX (x3) – HP 300 | Attacks: Return [C][C][C] (180) | Weakness: Fighting x2 | Retreat: 4 | Ability: Happy 
+Switch – Once during your turn, you may move a Basic Energy from 1 of your Pokémon to another of your Pokémon.
+
+Brambleghast (x1) – HP 100 | Attacks: Psychic Sphere [P][C] [C] (80) | Weakness: Darkness x2 | Retreat: 2 | 
+Ability: 
+Prison Panic – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you 
+may make your opponent's Active Pokémon Confused.
+
+Bulbasaur (x3) – HP 80 | Attacks: Bind Down [G] (10) | Weakness: Fire x2 | Retreat: 2 | Ability: None.
+
+Carvanha (x1) – HP 70 | Attacks: Reckless Charge [D] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
+
+Charmander (x4) – HP 80 | Attacks: Live Coal [R] (20) | Weakness: Water x2 | Retreat: 2 | Ability: Agile – If 
+this Pokémon has no Energy attached, it has no Retreat Cost.
+
+Charmeleon (x2) – HP 110 | Attacks: Steady Firebreathing [R] (90) | Weakness: Water x2 | Retreat: 2 | 
+Ability: None.
+
+Chikorita (x2) – HP 70 | Attacks: Razor Leaf [G] (20) | Weakness: Fire x2 | Retreat: 1 | Ability: None.
+
+Combusken (x1 HP 90) – HP 90 | Attacks: Slash [R][C] (50) | Weakness: Water x2 | Retreat: 2 | Ability: None.
+
+Combusken (x1 HP 100) – HP 100 | Attacks: Combustion [C] (20), Double Kick [R][C] (40)x flip two
+coins. This attack does 40 damage foe each heads. | Weakness: Water x2 | Retreat: 2 | Ability: None.
+
+Deino (x4) – HP 70 | Attacks: Stomp Off [D], Bite [D][C] (20) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
+
+Dragapult EX (x3) – HP 320 | Attacks: Jet Headbutt [C] (70), Phantom Dive [R][P] (200) put 6 damage counters on 
+your opponent's benched pokemon in any way you like | Weakness: none | 
+Retreat: 1 | Ability: None. 
+
+Drakloak (x4) – HP 90 | Attacks: Dragon Headbutt [R][P] (70) | Weakness:  | Retreat: 1 | Ability: 
+Recon Directive – Once during your turn, you may look at the top 2 cards of your deck, put 1 of them into your 
+hand, and put the other on the bottom of your deck.
+
+Dreepy (x4) – HP 70 | Attacks: Petty Grudge [P] (10), Bite [R][P] (40) | Weakness:  | Retreat: 1 | 
+Ability: None.
+
+Dudunsparce (x3) – HP 140 | Attacks: Land Crush [C][C][C] (90) | Weakness: Fighting x2 | Retreat: 3 | Ability: 
+Run Away Draw – Once during your turn, if you draw a card in this way, shuffle this Pokémon and all attached 
+cards into your deck.
+
+Dunsparce (x3) – HP 60 | Attacks: Gnaw [C] (10), Dig [C][C] (30) Flip a coin if heads, during your opponet's 
+turn prevent all damage from and effects of attacks done to this pokemon | Weakness: Fighting x2 | Retreat:  | 
+Ability: None.
+
+Dusclops (x2) – HP 90 | Attacks: Will-O-Wisp [P][P] (50) | Weakness: Darkness x2 | Retreat: 2 | Ability: Cursed 
+Blast – Once during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon. If you use this 
+Ability, this Pokémon is Knocked Out.|resistance -30 fighting
+
+Dusknoir (x2) – HP 160 | Attacks: Shadow Bind [P][P][C] (150) | Weakness: Darkness x2 | Retreat: 3 | Ability: 
+Cursed Blast – Once during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon. If you use 
+this Ability, this Pokémon is Knocked Out.|resistance -30 fighting
+
+Duskull (x2) – HP 60 | Attacks: Mumble [P] [P] (30) | Weakness: Darkness x2 | Retreat: 1 | Ability: Come and Get 
+You – Put up to 3 Duskull from your discard pile into your hand cost [P]
+
+Eelektrik (x4) – HP 90 | Attacks: Electric Ball [L] [L][C] (50) | Weakness: Fighting x2 | Retreat: 2 | Ability: 
+Dynamotor – Once during your turn, you may attach a Basic [L] Energy card from your discard pile to 1 of your 
+Benched Pokémon.
+
+Electrike (x3) – HP 70 | Attacks: Thunder Jolt [L] (30) | Weakness: Fighting x2 | Retreat: 1 | Ability: None.
+
+Fan Rotom (x3) – HP 70 | Attacks: Thunder Jolt [C] (10) | Weakness: Fighting x2 | Retreat: 1 | Ability: None.
+
+Fan Rotom (x1) – HP 70 | Attacks: Assault Landing [C] (70) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
+Fan Call – Once during your turn, you may search your deck for up to 3 Pokémon with 100 HP or less, reveal them, 
+and put them into your hand. Then, shuffle your deck. You can't use more than 1 Fan Call Ability during your 
+turn.|resistance -30 fighting
+
+Fezandipiti EX (x2) – HP 210 | Attacks: Cruel Arrow [C][C][C] (90) | Weakness: Fighting x2 | Retreat: 1 | 
+Ability: Flip the Script – Once during your turn, if any of your Pokémon were Knocked Out during your opponent's 
+last turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck.
+
+Flygon (x1) – HP 150 | Attacks: Cutting Wind [F][F] (130) | Weakness: Grass x2 | Retreat: 1 | Ability: Sandy 
+Flapping – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may 
+use this Ability. You may also use this Ability if this Pokémon is in your hand. Discard the top 5 cards of your 
+deck.
+
+Forretress (x1) – HP 130 | Attacks: Iron Shake-Up [C] (20), Hurricane of Needles [M][C][C] [C] (80) | Weakness: 
+Fire x2 | Retreat: 2 | Ability: None. |Resistance -30 [G]
+
+Frillish (x2) – HP 80 | Attacks: Oceanic Gloom [P] (20) | Weakness: Dark x2 | Retreat: 3 | Ability: None.| 
+Resistance -30 [F]
+
+Frogadier (x1) – HP 90 | Attacks: Numbing Water [W] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: None.
+
+Gastly (x1) – HP 70 | Attacks: Surprise Attack [D] (30) | Weakness: Fighting x2 | Retreat: 1 | Ability: None.
+
+Genesect EX (x1) – HP 220 | Attacks: Protect Charge [M][M][C] (150) | Weakness: Fire x2 | Retreat: 2 | Ability: 
+Metallic Signal – Once during your turn, you may search your deck for up to 2 Evolution Pokémon, reveal them, 
+and put them into your hand. Then, shuffle your deck. |resistance -30 [G]
+
+Greninja EX (x2) – HP 310 | Attacks: Shinobi Blade [W] (170), Mirage Barrage [W][C][C] (120) | Weakness: 
+Dark x2 | Retreat: 1 | Ability: None.
+
+Hariyama (x2) – HP 150 | Attacks: Wild Press [F][F][F] (210) | Weakness: Psychic x2 | Retreat: 3 | Ability: 
+Heavy-Ho Catcher – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon 
+during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
+
+Haunter (x1) – HP 100 | Attacks: Spooky Shot [P] (40) | Weakness: Darkness x2 | Retreat: 1 | Ability: None.
+
+Hoothoot (x3) – HP 70 | Attacks: Triple Stab [C] (10+) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
+None.|Resistance -30 [F]
+
+Hydreigon EX (x3) – HP 330 | Attacks: Crashing Headbutt [D][C] (200), Obsidian [D][C][M] [C] (130) | Weakness: 
+Grass x 2
+| Retreat: 3 | Ability: None.
+
+Ivysaur (x3) – HP 110 | Attacks: Razor Leaf [G][G] (60) | Weakness: Fire x2 | Retreat: 3 | Ability: None.
+
+Jellicent EX (x2) – HP 270 | Attacks: Power Press [P][C] (80+) | Weakness: Darkness x2 | Retreat: 3 | 
+Ability: Oceanic Curse – As long as this Pokémon is in the Active Spot, your opponent can't play any Item cards 
+from their hand.
+
+Kilowattrel (x2) – HP 120 | Attacks: Mach Bolt [L][C][C] (70) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
+Flashing Draw – Once during your turn, you may search your deck for a Basic [L] Energy card and put it into your 
+hand. Then, shuffle your deck. | Resistance -30 [F]
+
+Lokix (x1) – HP 120 | Attacks: Low Kick [G] (30), Jumping Shot [C][C][C] (150) | Weakness: Fire x2 | Retreat: 1 
+| Ability: None.
+
+Lombre (x1) – HP 90 | Attacks: Mega Drain [G][C] (30) | Weakness: Fire x2 | Retreat: 1 | Ability: None.
+
+Lunatone (x2) – HP 110 | Attacks: Power Gem [F][F] (50) | Weakness: Grass x2 | Retreat: 1 | Ability: Lunar 
+Cycle – Once during your turn if you have Solrock in play, you mai discard a basic [F] energy card from your 
+hand in oder to use this ability. draw 3 cards. you cant use more than 1 lunar cycle ability each turn.
+
+Makuhita (x2) – HP 80 | Attacks: Corkscrew Punch [F] (10), Confront [F][F] (30) | Weakness: Psychic x2 | 
+Retreat: 2 | Ability: None.
+
+Mamoswine (x3) – HP 340 | Attacks: Rumbling March [F][F] (180+) | Weakness: Grass x2 | Retreat: 4 | Ability: 
+Mammoth Hunter – Once during your turn, you may search your deck for a pokemon and put it into your hand. Then, 
+shuffle your deck.
+
+Mandibuzz (x1) – HP 120 | Attacks: Bone Sniper [D] (70) This attack does 70 damage to 1 of your opponent's 
+Pokémon that has any Special Energy attached. (Don't apply Weakness and Resistance for Benched Pokémon.), 
+Blasting Wind [D][D][C] (120) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30
+
+Mankey (x1) – HP 50 | Attacks: Low Kick [C] (20) | Weakness: Psychic x2 | Retreat: 1 | Ability: None. | 
+Resistance: none
+
+Maschiff (x1) – HP 70 | Attacks: Bite [D][D] (40) | Weakness: Grass x2 | Retreat: 2 | Ability: None. | 
+Resistance: 
+none
+
+Mega Charizard X EX (x4) – HP 360 | Attacks: Inferno X [R][R] (90+) discard any amount of fire energy from among 
+your pokemon and this attack does 90 damage for each card you discarded in this way| Weakness: Water x2 | 
+Retreat: 2 | 
+Ability: None.
+
+Mega Charizard Y EX (x1) – HP 360 | Attacks: Explosion Y [R][R][C] (90+) Discard 3 energy from this pokemon and 
+this attack does 280 damage to 1 of your opponent pokemon (dont apply weakness and resistance for benched 
+pokemon) | Weakness: Water x2 | Retreat: 1 | 
+Ability: None.
+
+Mega Darkrai (x1) – HP 280 | Attacks: Dusk Raid [D][D] (110+) If your Benched Pokémon have any damage counters 
+on them, this attack does 110 more damage. | Weakness: Fighting x2 | Retreat: 2 | Ability: Abyss Eye [D][D][D] – 
+If your opponent's Active Pokémon is affected by a Special Condition, it is Knocked Out. | Resistance: none
+
+Mega Eelektross EX (x1) – HP 350 | Attacks: Spill Bomb [L][L] This attack does 60 damage to each of 2 of your 
+opponents pokemon (dont apply weakness and resistance for benched pokemon)| Disaster Shock [L][L][L] 
+(190) you may discard 2 [L] energy from this poekemon and make your opponent active pokemon paralyzed. | 
+Weakness: Fighting x2 | Retreat: 2 | Ability: None.
+
+Mega Gengar EX (x1) – HP 350 | Attacks: Void Gale [D][D] (230) move an energy from this pokemon to 1 of your 
+benched pokemon. | Weakness: Fighting x2 | Retreat: 2 | 
+Ability:If one of your darkness pokemon is knowcked out by damage from an attack from your opponent pokemon EX, 
+that player takes 1 fewer prize card. The effect of shadowy concealment doesn't stack.
+
+Mega Lucario EX (x3) – HP 340 | Attacks: Aura Jab [F] (130) attach up to 3 basic [F] energy cards from your 
+discard pile to your benched pokemon in any way you like, Mega Brave [F][F] (270) during your next turn, this 
+pokemon cant use Mega Brake | Weakness: 
+Psychic x2 | Retreat: 2 | Ability: None.
+
+Mega Manectric EX (x3) – HP 330 | Attacks: Flash Ray [L][C] (120) During your opponent next turn, prevent all 
+damage done to this pokemon by attacks from basic pokemon, Riotous Blasting [L][L][L] (200) you may discard all 
+energy from thsi pokemon and have this attack do 130 more damage | 
+Weakness: Fighting x2 | Retreat: 0 | Ability: None.
+
+Mega Mawile EX (x1) – HP 270 | Attacks: Gobble Down  [M][M] (80) This attack does 80 damage for each Prize card 
+you have taken. | Huge bite [M][M][C] (260) If your opponent's active pokemon already has any damage counters on 
+it, 
+this attack's base damage is 30. | Weakness: Fire x2 | Retreat: 2 | Resistance -30x[G]
+
+Mega Sharpedo EX (x3) – HP 330 | Attacks: Greedy Fang [D] (70) draw 2 cards, Hungry Jaws [D][D] (150) If this 
+pokemon has any damage counters on it, this attack does 150 more damage.| Weakness: Grass 
+x2 | Retreat: 10 | Ability: None.
+
+Mega Skarmory EX (x1) – HP 260 | | Ability: Sonic Ripper [M][M][C] Shuffle all energy attached to this pokemon 
+into your deck and this attack, does 220 damage to 1 of your opponent's pokemon (dont apply weakness and 
+resistance for benched pokemon)| Weakness: Fire x2 | Retreat: 1 | Resistance -30x[F] 
+
+Mega Venusaur EX (x3) – HP 380 | Attacks: Jungle Dump [G][G][G][G] (240) Heal 30 damage from this pokemon | 
+Weakness: Fire x2 | Retreat: 4 | 
+Ability: Solar Transfer – As often as you like during your turn, you may move a Basic [G] Energy attached to 1 
+of your Pokémon to another of your Pokémon.
+
+Meganium (x2) – HP 160 | Attacks: Solar Beam [G][G][C][C] (140) | Weakness: Fire x2 | Retreat: 2 | Ability: Wild 
+Growth – Each [G] Energy attached to all of your Pokémon provides [G][G] Energy. The effect of Wild Growth 
+doesn't stack.
+
+Meowth EX (x2) – HP 170 | Attacks: Tackle Tail [C][C][C] (60) Put this pokemon and all attached cards into your 
+hand.| Weakness: Fighting x2 | Retreat: 1 | Ability:Last Ditch Catch – Once during your turn, if you have 4 or 
+fewer cards in your hand, you may search your deck for a Supporter card, reveal it, and put it into your hand. 
+Then, shuffle your deck.
+
+Munkidori (x3) – HP 110 | Attacks: Mind Bend [P][C] (60) Your opponent's active pokemon is now confused| 
+Weakness: Darkness x2 | Retreat: 1 | Ability: 
+Adrena-Brain – Once during your turn, if this Pokémon has any [P] Energy attached to it, you may move 1 damage 
+counter from 1 of your Pokémon to 1 of your opponent's Pokémon. |Resistance [F] x2
+
+Noctowl (x3) – HP 100 | Attacks: Speed Wing [C][C] (60) | Weakness: Lightning x2 | Retreat: 1 | Ability: Jewel 
+Seeker – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may 
+search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.
+|Resistance [F]x2
+
+N's Darmanitan (x2) – HP 140 | Attacks: Back Draft [C][C] (30x) This attack does 30 damage for each basic 
+eberngy card in your opponent's discard pile, Flamebody Cannon [R][R][C] (90) discard all energy from this 
+pokemon and this attack also does 90 damage to 1 of your opponents benched poekmon(dont apply weakness and 
+resistance fro benched pokemon)| Weakness: 
+Water x2 | Retreat: 3 | Ability: None.
+
+N's Darumaka (x2) – HP 80 | Attacks: Rolling Tackle [C][C] (20), Flare [R][R][C] (50) | Weakness: Water x2 | 
+Retreat:2 | Ability: None.
+
+N's Reshiram (x1) – HP 130 | Attacks: Powerful Rage [R][L] (20+), Virtuous Flame [R][R][L][C] (170) | Weakness: 
+0 | Retreat: 2 | Ability: None.
+
+N's Zekrom (x1) – HP 130 | Attacks: Shred [C][C][C] (70) this attack's damage isn't affected by any effects on 
+your opponent's active pokemon, Rampaging Thunder [R][L][L][C] (250) during your next turn this pokemon can't 
+use attacks. | Weakness: Fighting x2 
+| Retreat: 2 | Ability: None.
+
+N's Zoroark EX (x4) – HP 280 | Attacks: Night Joker [D][D] (150) Choose 1 of your benched N's pokemons attacks 
+and use it as this attack | Weakness: Grass x2 | Retreat: 2 | Ability: Night Joker – You must discard a card 
+from your hand in order to use this Ability. Once during your turn, you 
+may search your deck for a card and put it into your hand. Then, shuffle your deck.
+
+N's Zorua (x4) – HP 70 | Attacks: Scratch [D] (20) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
+
+Okidogi (x1) – HP 140 | Attacks: Light Punch [F] (20), Settle the Score [F][F][C] (80+) This attack does 60 more 
+damage for each Prize card your opponent took during their last turn| Weakness: Psychicx2 | Retreat: 3 | 
+Ability: None.
+
+Oricorio EX (x2) – HP 190 | Attacks: Fire Wing [R][R][C] (110) | Weakness: Darkness x2 | Retreat: 1 | Ability: 
+Excited Turbo – As often as you like during your turn, if you have any Mega Evolution pokemon EX in play, you 
+may use this ability. attach a basic [R] energy card from your hand to 1 of your benched [R] pokemons. 
+
+Paldean Tauros (x1) – HP 130 | Attacks: Raging Charge [F] (40x)this attack does 40 damage for each of your 
+pokemon that has "Tauros" in its name that has any damage counters on it., Double-Edge [F][F] (70)this pokemon 
+also does 20 damage to itself. | Weakness: 
+Psychic x2 | Retreat: 2 | Ability: None.
+
+Pawmi (x1) – HP 60 | Attacks: Growl [L] during your opponent's next turn, attacks used by the defending pokemon 
+do 30 less damage(before applying wekness and resistance)| Tiny Charge [L] (10) | Weakness: Fighting x2 | 
+Retreat: 1 | Ability: 
+None.
+
+Pecharunt EX (x2) – HP 190 | Attacks: Irritated Outburst [D][D] (60x)this attack does 60 damage for each Prize 
+card your opponent has taken | Weakness: Fighting x2 | Retreat: 1 | 
+Ability: Subjugating Chains – Once during your turn, you may switch I of your Benched Pokémon, except any 
+PecharunteX, with your Active Pokémon. If you do, the new Active Pokémon is now poisoned. You can't use more 
+than 
+I Subjugating Chains Ability each turn.
+
+Pikachu EX (x3) – HP 200 | Attacks: Topaz Bolt [G][L][M] (300) Discard 3 energy from this pokemon| Weakness: 
+Fighting x2 | Retreat: 2 | Ability: Resolute Heart – if this Pokémon has full HP and would be Knocked Out by 
+damagefrom an attack, it is not Knocked Out, and its remaining HP becomes 10.
+
+Pikipek (x1) – HP 70 | Attacks: Double Stab [C] (10x) Flip 2 coins. This attack does 10 damage for each heads. | 
+Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
+
+Piloswine (x2) – HP 100 | Attacks: Strength [C] (20), Impaling Tusk [F][F] (50) | Weakness: Grass x2 | Retreat: 
+3 | Ability: None.
+
+Popplio (x1) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
+Resistance: 
+none
+
+Primeape (x1) – HP 110 | Attacks: Corkscrew Punch [C][C] (50) | Weakness: Psychic x2 | Retreat: 2 | Ability: 
+None. 
+| Resistance: none
+
+Quaquaval (x2) – HP 170 | Attacks: Hydro Splash [W][C] (120) | Weakness: Lightning x2 | Retreat: 2 | Ability: 
+Up-Tempo – You must put a card from your hand on the bottom of your deck in order to use this Ability. Once 
+during your turn, you may use this Ability. If you do, you may draw cards until you have 5 cards in your hand.
+
+Quaxwell (x2) – HP 100 | Attacks: Aqua Edge [W] (40) | Weakness: Lightning x2 | Retreat: 1 | Ability: None.
+
+Rabsca (x1) – HP 70 | Attacks: Psychic [G] (10+)This attack does 30 more damage for each Energy attached to your 
+opponent's Active Pokémon. | Weakness: Fire x2 | Retreat: 1 | Ability: Spherical 
+Shield – Prevent all damage from and effects of attacks from your opponent's Pokémon done to your Benched 
+Pokémon.
+
+Raging Bolt EX (x4) – HP 240 | Attacks: Burst Roar [C] discard your hand and draw 6 cards | Belching Thunder 
+[L][F] (70x)You may discard any amount of Basic Energy from your Pokémon. This'attack does 70 damage_ for_each 
+card you discarded in this way. | Weakness:0 | Retreat: 3 | Ability: None.
+
+Relicanth (x1) – HP 100 | Attacks: Fossil Beatdown [W] (10+) This attack does 30 more damage for each of your 
+Benched Pokémon that has "Antique" in its name. | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
+Resistance: 
+none
+
+Rellor (x1) – HP 40 | Attacks: Collect [C], Rollout [G] (10) | Weakness: Fire x2 | Retreat: 1 | Ability: None.
+
+Reshiram (x1) – HP 130 | Attacks: Combustion [R] (30), Burning Flare [R][R][R][R] (240) this pokemon also does 
+60 damage itself| Weakness: Water x2 Retreat: 2 | Ability: None.
+
+Riolu (x4) – HP 80 | Attacks: Accelerating Stab [F] (30)During your next turn, this Pokémon cant use 
+Accelerating Stab. | Weakness: Psychic x2 | Retreat: 1 | Ability: None.
+
+Sableye (x1) – HP 80 | Attacks: Cackly Claw [D] (20+)If you have any Stage 2 dark Pokémon on your Bench, this 
+attack does 70 more damage.| Weakness: Grass x2 | Retreat: 1 | Ability: None.
+
+Seviper (x2) – HP 120 | Attacks: Pitch-Black Fangs [D][D][D] (120) | Weakness: Fighting x2 | Retreat: 1 | 
+Ability: 
+Excited Power – If you have any darkness Mega Evolution Pokémon in play, attacks used by this Pokémon do 120 
+more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+
+Solrock (x2) – HP 110 | Attacks: Cosmic Beam [F] (70) If you don't have Lunatone on your Bench, this attack does 
+nothing. This attack's damage isn't affected by VVeakness or Resistance.| Weakness: Grass x2 | Retreat: 1 | 
+Ability: None.
+
+Spiritomb (x1) – HP 60 | Attacks: Spiritual End [P] If you have 13 or more Pokémon that have the Hide'n Sneak 
+Ability in your discard pile, choose 2 of your opponent's Pokémon and quadruple the number of damage counters on 
+each of them. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
+
+Squawkabilly (x1) – HP 70 | Attacks: Push Down [C] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: None.
+|Resistance -30[F]
+
+Steven's Beldum (x3) – HP 70 | Attacks: Ram [M][C] (30) | Weakness: Fire x2 | Retreat: 1 | Ability: None.
+|Resistance [G]-30
+
+Steven's Metagross EX (x3) – HP 340 | Attacks: Metal Stomp [M][C][C] (200) | Weakness: Fire x2 | Retreat: 3 | 
+Ability: X-Boost – Once during your turn, you may search your deck for a Basic Dark Energy card, a Basic Matal 
+Energy 
+card, or 1 of each and attaCh them to your darkness or metal Pokémomand Pokémon in any way you like. 
+Thgm-shuffle your deql'.
+
+Steven's Metang (x2) – HP 100 | Attacks: Metal Slash [M][C] (70) During your next turn, this Pokémon can't 
+attack.| Weakness: Fire x2 | Retreat: 2 | Ability: 
+None.
+
+Swinub (x4) – HP 70 | Attacks: Call for Family [C]Search your deck for up to 2 Basic Pokémon and put them onto 
+your Bench. Then, shuffle your deck., Lunge Out [F] (10) | Weakness: Grass x2 | Retreat: 2 | 
+Ability: None.
+
+Teal Mask Ogerpon EX (x4) – HP 210 | Attacks: Myriad Leaf Shower [G][G][G] (30+)This attack does 30 more damage 
+for each energy attached to both active pokemon | Weakness: Fire x2 | Retreat:1 | Ability: Teal Dance – Once 
+during your turn, you may attach a Basic [G] Energy card from your hand to this 
+pokemon. If you do, draw a card.
+
+Team Rocket's Houndoom (x1) – HP 130 | Attacks: Cruel Coal [R] Your opponent's active pokemon is now burned and 
+confused., Scorching Fire [R][C] (120) discard an energy from this pokemon|Weakness: [W] x2 | Retreat: 2 | 
+Ability: None.
+
+Team Rocket's Nidoran (x1) – HP 70 | Attacks: Pierce [D] (10), Hammer in [D][C] (30) | Weakness: 
+Fighting x2 | Retreat: 1 | Ability: None.
+
+Team Rocket's Nidorina (x1) – HP 90 | Attacks: Scratch [D][D] (50), Dark Awakening [D] Choose up to 2 of your e 
+Pokémon. For each of those Pokémon. search your deck for a card that evolves from that Pokémon and put it onto 
+that Pokémon to evolve it. Then. shuffle your decks | Weakness: Fighting x2 | 
+Retreat: 2 | Ability: None.
+
+Team Rocket's Porygon-Z (x1) – HP 140 | Attacks: R Command [C][C] (20x)This attack does 20 damage for each 
+Supporter card that has "Team Rocket" in its name in your discard pile. | Weakness: Fighting x2 | Retreat: 1 | 
+Ability: Reconstitute – You must discard 2 cards from your hand in order to use this Ability. Once during your 
+turn, you may draw a card.
+
+Team Rocket's Spidops (x1) – HP 130 | Attacks: Rocket Rush [G][C] (30x) This attack does 30 damage for each of 
+your Team Rocket's Pokémon in play.| Weakness: Fire x2 | Retreat: 2 | Ability: Charging Up – Once during your 
+turn, you may attach a Basic Energy card from your discard oile to this pokemon.
+
+Togekiss (x1) – HP 140 | Attacks: Speed Wing [C][C][C] (140) | Weakness: Metal x2 | Retreat: 1 | Ability: 
+Wonder Kiss – When your opponent's Active Pokémon is Knocked Out, flip a coin. If heads, take I more Prize card. 
+The effect of Wonder Kiss doesn't stack.
+
+Torchic (x3) – HP 60 | Attacks: Scratch [R][C] (30) | Weakness: Water x2 | Retreat: 1 | Ability: None.
+
+Toucannon (x1) - HP 150 | Attacks: Feather Rondo [C] (60+) This attack does 20 more damage for each Benched 
+Pokémon (both yours and your opponent's).| Weakness [L]x2 | Resistance [F]-30| Retreat: 2| Ability: Aerial Draw: 
+Once during your turn, you may use this ability. Draw a card.
+
+Toxel (x4) – HP 70 | Attacks: Call for Family [D] Search your deck for up to 2 Basic Pokémon and put them onto 
+your Bench. Then, shuffle your deck.| Playful Kick [D][C] (20) | Weakness: Fighting x2 | Retreat: 1 | 
+Ability: None.
+
+Toxtricity (x4) – HP 140 | Attacks: Gentle Slap [D][D][C] (100) | Weakness: Fighting x2 | Retreat: 2 | Ability: 
+Sinister Noise – Once during your turn, you may use this Ability. Search your deck for a Basic [D] Energy card 
+and attach it to I of your Benched [D] e Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon 
+in this way, place 2 damage counters on that Pokémon.
+
+Trumbeak (x1) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
+your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.| Weakness [L]x2| 
+Resistance[F]-30| Retreat:1
+
+Tynamo (x4) – HP 40 | Attacks: Hold Still [C] Heal 10 damage from this Pokemon. | Weakness: Fighting x2 | 
+Retreat: 0 | Ability: None.
+
+Varoom (x2) – HP 70 | Attacks: Rigidify [M] During your opponent's next turn, this Pokémon takes 30 less damage 
+from attacks (after applying Weakness and Resistance).| Headbutt Bounce [M][M] (20) | Weakness: Fire x2 | 
+Retreat: 1 | Resistance: [G]-30| Ability: None.
+
+Iono's Wattrel (x2) – HP 60 | Attacks: Quick Attack [L] (10+) Flip a coin. If heads, this attack does 20 more 
+damage.| Weakness: Lightning x2 | Retreat: 1 | Ability: 
+None.|Resistance -30 x [F]
+
+Zekrom EX (x1) – HP 230 | Attacks: Slash [C][C] (50), Voltage Burst [L][L][C] (130+)this attack does 50 more 
+damage for each Prize card your 11 opponent has taken. This Pokémon also does 30 damage to itself. | Weakness: 
+Fighting x2 | Retreat: 2 | Ability: None.
+
+Zeraora (x1) – HP 100 | Attacks: Scratch [C] (20), Thunder Raid [L][L][L] (bench damage)Discard all Energy from 
+this Pokémon, and this attack does 210 damage to 1 of your opponentS Benched Pokémon (Don't apply Weakness and 
+Resistance for Benched Pokémon.) | Weakness: Fighting x2 | Retreat: 1 | Ability: None.| Resistance:none
+
+Zigzagoon (x1) – HP 70 | Attacks: Surprise Attack [C] (30) Flip a coin. If tail, this attack does nothing. | 
+Weakness: Fighting x2 | Retreat: 1 | Ability: None.
