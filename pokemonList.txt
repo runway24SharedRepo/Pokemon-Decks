@@ -19,7 +19,7 @@ Here is the full key you can use for your reference:
 [M] = Metal Energy (Note: Although it's technically "Metal" in the TCG, Energy cards are often printed as 
 "Steel" type, but the symbol is M).
 
-Annihilape (x1) – HP 150 | Attacks: Ghostly Blow [P][P] (100) Place 5 damage counters on 1 of your opponent's 
+Annihilape (x2) – HP 150 | Attacks: Ghostly Blow [P][P] (100) Place 5 damage counters on 1 of your opponent's 
 Benched Pokémon. | Weakness: Darkness x2 | Retreat: 2 | Ability: Durable Body – If this Pokémon would be Knocked 
 Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP 
 becomes 10. | Resistance: Fighting -30
@@ -40,7 +40,7 @@ hand. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: H
 effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.) | 
 Resistance: Fighting -30
 
-Bastiodon (x1) – HP 160 | Attacks: Hammer In [M][M][C] (160) | Weakness: Fire x2 | Retreat: 4 | Ability: Ancient 
+Bastiodon (x2) – HP 160 | Attacks: Hammer In [M][M][C] (160) | Weakness: Fire x2 | Retreat: 4 | Ability: Ancient 
 Bulwark – As long as this Pokémon is on your Bench, prevent all damage done to each of your Pokémon by attacks 
 from your opponent's Pokémon that have 2 or less Energy attached. | Resistance: Grass -30
 
@@ -167,12 +167,12 @@ Genesect EX (x1) – HP 220 | Attacks: Protect Charge [M][M][C] (150) | Weakness
 Metallic Signal – Once during your turn, you may search your deck for up to 2 Evolution Pokémon, reveal them, 
 and put them into your hand. Then, shuffle your deck. |resistance -30 [G]
 
-Goldeen (x3) – HP 70 | Attacks: Pierce [C][C] (30) | Weakness: Lightning x2 | Retreat: 1 | Ability: None.
+Goldeen (x4) – HP 70 | Attacks: Pierce [C][C] (30) | Weakness: Lightning x2 | Retreat: 1 | Ability: None.
 
 Greninja EX (x2) – HP 310 | Attacks: Shinobi Blade [W] (170), Mirage Barrage [W][C][C] (120) | Weakness: 
 Dark x2 | Retreat: 1 | Ability: None.
 
-Grubbin (x3) – HP 70 | Attacks: String Shot [C] (10) Flip a coin. If heads, your opponent's Active Pokémon is 
+Grubbin (x4) – HP 70 | Attacks: String Shot [C] (10) Flip a coin. If heads, your opponent's Active Pokémon is 
 now Paralyzed. | Weakness: Fire x2 | Retreat: 2 | Ability: None.
 
 Hariyama (x2) – HP 150 | Attacks: Wild Press [F][F][F] (210) | Weakness: Psychic x2 | Retreat: 3 | Ability: 
@@ -192,7 +192,7 @@ Hydreigon EX (x3) – HP 330 | Attacks: Crashing Headbutt [D][C] (200), Obsidian
 Grass x 2
 | Retreat: 3 | Ability: None.
 
-Inkay (x1) – HP 60 | Attacks: Procurement [D] Search your deck for an Item card, reveal it, and put it into your 
+Inkay (x2) – HP 60 | Attacks: Procurement [D] Search your deck for an Item card, reveal it, and put it into your 
 hand. Then, shuffle your deck., Spinning Attack [D][D] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
 
 Ivysaur (x3) – HP 110 | Attacks: Razor Leaf [G][G] (60) | Weakness: Fire x2 | Retreat: 3 | Ability: None.
@@ -228,7 +228,7 @@ Mandibuzz (x1) – HP 120 | Attacks: Bone Sniper [D] (70) This attack does 70 da
 Pokémon that has any Special Energy attached. (Don't apply Weakness and Resistance for Benched Pokémon.), 
 Blasting Wind [D][D][C] (120) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30
 
-Manectric (x3) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
+Manectric (x4) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
 damage done to this Pokémon by attacks from Evolution Pokémon., Sonic Edge [L][L][L] (110) This attack's damage 
 isn't affected by any effects on your opponent's Active Pokémon. | Weakness: Fighting x2 | Retreat: 1 | Ability: 
 None.
@@ -431,7 +431,7 @@ more damage to your opponent's Active Pokémon (before applying Weakness and Res
 Shieldon (x1) – HP 100 | Attacks: Smithereen Smash [M][C] (50) Discard an Energy from your opponent's Active 
 Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30
 
-Shuppet (x2) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' 
+Shuppet (x3) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' 
 Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is 
 not an effect.) | Resistance: Fighting -30
 
@@ -458,7 +458,7 @@ Slowbro (x4) – HP 130 | Attacks: All Out [P] (50+) If you have no cards in you
 damage., Zen Headbutt [C][C][C] (110) | Weakness: Darkness x2 | Retreat: 3 | Ability: None. | Resistance: 
 Fighting -30
 
-Slowpoke (x2) – HP 70 | Attacks: All-You-Can-Yeet [P] You may discard any number of cards from your hand., 
+Slowpoke (x3) – HP 70 | Attacks: All-You-Can-Yeet [P] You may discard any number of cards from your hand., 
 Headbutt [C][C] (20) | Weakness: Darkness x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30
 
 Solrock (x2) – HP 110 | Attacks: Cosmic Beam [F] (70) If you don't have Lunatone on your Bench, this attack does 
@@ -542,7 +542,7 @@ Tropius (x1) – HP 110 | Attacks: Fruity Aroma [C] Look at the top 6 cards of y
 number of Pokémon you find and put them into your hand. Shuffle the other cards back into your deck., Solar Beam 
 [G][C] (60) | Weakness: Fire x2 | Retreat: 1 | Ability: None.
 
-Trumbeak (x1) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
+Trumbeak (x2) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
 your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.| Weakness [L]x2| 
 Resistance[F]-30| Retreat:1
 
