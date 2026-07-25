@@ -24,6 +24,9 @@ Benched Pokémon. | Weakness: Darkness x2 | Retreat: 2 | Ability: Durable Body �
 Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP 
 becomes 10. | Resistance: Fighting -30
 
+Armarouge (x1) – HP 140 | Attacks: Flame Legion [R] (40+) This attack does 40 more damage for each of your 
+Benched Pokémon that has any [R] Energy attached. | Weakness: Water x2 | Retreat: 2 | Ability: None.
+
 Arven's Greedent (x1) – HP 120 | Attacks: Rolling Tackle [C][C] (50) | Weakness: Fighting x2 | Retreat: 2 | 
 Ability: Greedy Order – When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, 
 you may search your deck for up to 2 Arven's Sandwich cards and put them into your hand.
@@ -49,6 +52,13 @@ may make your opponent's Active Pokémon Confused.
 Bulbasaur (x3) – HP 80 | Attacks: Bind Down [G] (10) | Weakness: Fire x2 | Retreat: 2 | Ability: None.
 
 Carvanha (x1) – HP 70 | Attacks: Reckless Charge [D] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
+
+Centiskorch (x1) – HP 140 | Attacks: Controlled Burn [R] Discard the top 2 cards of your opponent's deck., Heat 
+Tackle [R][C][C][C] (160) This Pokémon also does 30 damage to itself. | Weakness: Water x2 | Retreat: 3 | 
+Ability: None.
+
+Charcadet (x1) – HP 80 | Attacks: Best Punch [R] (40) Flip a coin. If tails, this attack does nothing. | 
+Weakness: Water x2 | Retreat: 2 | Ability: None.
 
 Charmander (x4) – HP 80 | Attacks: Live Coal [R] (20) | Weakness: Water x2 | Retreat: 2 | Ability: Agile – If 
 this Pokémon has no Energy attached, it has no Retreat Cost.
@@ -353,6 +363,10 @@ Accelerating Stab. | Weakness: Psychic x2 | Retreat: 1 | Ability: None.
 Sableye (x1) – HP 80 | Attacks: Cackly Claw [D] (20+)If you have any Stage 2 dark Pokémon on your Bench, this 
 attack does 70 more damage.| Weakness: Grass x2 | Retreat: 1 | Ability: None.
 
+Seaking (x1) – HP 110 | Attacks: Hydro Jet [C][C][C] This attack does 30 damage to 1 of your opponent's Pokémon 
+for each [W] Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) | 
+Weakness: Lightning x2 | Retreat: 1 | Ability: None.
+
 Seviper (x2) – HP 120 | Attacks: Pitch-Black Fangs [D][D][D] (120) | Weakness: Fighting x2 | Retreat: 1 | 
 Ability: 
 Excited Power – If you have any darkness Mega Evolution Pokémon in play, attacks used by this Pokémon do 120 
@@ -431,6 +445,10 @@ Sinister Noise – Once during your turn, you may use this Ability. Search your 
 and attach it to I of your Benched [D] e Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon 
 in this way, place 2 damage counters on that Pokémon.
 
+Tropius (x1) – HP 110 | Attacks: Fruity Aroma [C] Look at the top 6 cards of your deck, and you may reveal any 
+number of Pokémon you find and put them into your hand. Shuffle the other cards back into your deck., Solar Beam 
+[G][C] (60) | Weakness: Fire x2 | Retreat: 1 | Ability: None.
+
 Trumbeak (x1) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
 your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.| Weakness [L]x2| 
 Resistance[F]-30| Retreat:1
@@ -456,3 +474,4 @@ Resistance for Benched Pokémon.) | Weakness: Fighting x2 | Retreat: 1 | Ability
 
 Zigzagoon (x1) – HP 70 | Attacks: Surprise Attack [C] (30) Flip a coin. If tail, this attack does nothing. | 
 Weakness: Fighting x2 | Retreat: 1 | Ability: None.
+```
