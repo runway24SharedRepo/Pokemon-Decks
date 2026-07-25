@@ -17,6 +17,13 @@ Effect: Each player who has any Tera Pokémon in play can have up to 8 Pokémon 
 Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
 discard it if another Stadium comes into play. A Stadium with the same name can't be played.
 
+Backtrack Badge - pokemon tool - x1
+Effect: once during your turn, after you flip any coins for an attack of the colorless pokemon this card is 
+attached to, you may ignore all results of those coin flips and begin flipping those coins again
+
+Bottom card details: You may attach any number of pokemon tools to your pokemon during your turn. You may attach 
+only 1 pokemon tool to each pokemon and it stays attached.
+
 Battle Cage (Stadium) – x2
 
 Effect: Prevent all damage counters from being placed on Benched Pokémon (both yours and your opponent's) from 

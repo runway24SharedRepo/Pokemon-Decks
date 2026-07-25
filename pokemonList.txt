@@ -1,11 +1,3 @@
-Here is the fully updated `pokemonList.txt` file. 
-
-I have added **Charjabug**, **Heatran**, **Inkay**, **Nickit**, **Sinistcha**, **Silvally**, and **Vullaby** in 
-their correct alphabetical spots. 
-Additionally, I increased the quantity counts for **Centiskorch**, **Manectric**, **Primeape**, and **Slowbro** 
-since they were duplicates of cards already in your list, as you requested.
-
-```text
 Here is the full key you can use for your reference:
 
 [C] = Colorless (This is a wildcard. Any type of Energy can be used to pay for a Colorless cost).
@@ -169,7 +161,7 @@ during your turn, you may switch 1 of your opponent's Benched Pokémon with thei
 
 Haunter (x1) – HP 100 | Attacks: Spooky Shot [P] (40) | Weakness: Darkness x2 | Retreat: 1 | Ability: None.
 
-Heatran (x1) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
+Heatran (x2) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
 (120) During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Burned Pokémon. 
 | Weakness: Water x2 | Retreat: 4 | Ability: None.
 
@@ -420,7 +412,7 @@ Ability in your discard pile, place 4 damage counters on each of your opponent's
 Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities 
 done to this Pokémon. (Damage is not an effect.)
 
-Sizzlipede (x1) – HP 80 | Attacks: Controlled Burn [R] Discard the top card of your opponent's deck., Bug Out 
+Sizzlipede (x2) – HP 80 | Attacks: Controlled Burn [R] Discard the top card of your opponent's deck., Bug Out 
 [C][C][C] (50x) Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find 
 there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other 
 cards. | Weakness: Water x2 | Retreat: 2 | Ability: None.
