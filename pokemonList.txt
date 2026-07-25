@@ -94,6 +94,10 @@ Cranidos (x1) – HP 100 | Attacks: Push Down [F][F] (70) Switch out your oppone
 
 Deino (x4) – HP 70 | Attacks: Stomp Off [D], Bite [D][C] (20) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
 
+Dhelmise (x1) – HP 140 | Attacks: Vengeful Anchor [P] (30+) If you have 4 or more Pokémon that have the Hide 'n' 
+Sneak Ability in your discard pile, this attack does 140 more damage. | Weakness: Darkness x2 | Retreat: 3 | 
+Ability: None. | Resistance: Fighting -30
+
 Dragapult EX (x3) – HP 320 | Attacks: Jet Headbutt [C] (70), Phantom Dive [R][P] (200) put 6 damage counters on 
 your opponent's benched pokemon in any way you like | Weakness: none | 
 Retreat: 1 | Ability: None. 
@@ -217,6 +221,10 @@ Lunatone (x2) – HP 110 | Attacks: Power Gem [F][F] (50) | Weakness: Grass x2 |
 Cycle – Once during your turn if you have Solrock in play, you mai discard a basic [F] energy card from your 
 hand in oder to use this ability. draw 3 cards. you cant use more than 1 lunar cycle ability each turn.
 
+Mabosstiff (x1) – HP 140 | Attacks: Bite [D][D] (60), Plunging Headbutt [D][D][D] (210) During your opponent's 
+next turn, this Pokémon takes 100 more damage from attacks (after applying Weakness and Resistance). | Weakness: 
+Grass x2 | Retreat: 3 | Ability: None.
+
 Makuhita (x2) – HP 80 | Attacks: Corkscrew Punch [F] (10), Confront [F][F] (30) | Weakness: Psychic x2 | 
 Retreat: 2 | Ability: None.
 
@@ -254,7 +262,11 @@ this attack does 280 damage to 1 of your opponent pokemon (dont apply weakness a
 pokemon) | Weakness: Water x2 | Retreat: 1 | 
 Ability: None.
 
-Mega Darkrai (x1) – HP 280 | Attacks: Dusk Raid [D][D] (110+) If your Benched Pokémon have any damage counters 
+Mega Chandelure EX (x1) – HP 350 | Attacks: Phantom Maze [P][P] (130+) This attack does 50 more damage for each 
+[C] in your opponent's Active Pokémon's Retreat Cost. | Weakness: Darkness x2 | Retreat: 2 | Ability: Binding 
+Flame – Your opponent's Active Pokémon's Retreat Cost is [C] more. | Resistance: Fighting -30
+
+Mega Darkrai (x2) – HP 280 | Attacks: Dusk Raid [D][D] (110+) If your Benched Pokémon have any damage counters 
 on them, this attack does 110 more damage. | Weakness: Fighting x2 | Retreat: 2 | Ability: Abyss Eye [D][D][D] – 
 If your opponent's Active Pokémon is affected by a Special Condition, it is Knocked Out. | Resistance: none
 
@@ -558,9 +570,17 @@ Retreat: 1 | Resistance: [G]-30| Ability: None.
 Vullaby (x1) – HP 70 | Attacks: Flap [D] (10), Gust [D][C] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
 None. | Resistance: Fighting -30
 
+Wailord EX (x1) – HP 380 | Attacks: Surf [W][W][W] (120), Falling Down [W][W][W][W][W] (270) This Pokémon is now 
+Asleep. | Weakness: Lightning x2 | Retreat: 4 | Ability: None.
+
 Iono's Wattrel (x2) – HP 60 | Attacks: Quick Attack [L] (10+) Flip a coin. If heads, this attack does 20 more 
 damage.| Weakness: Lightning x2 | Retreat: 1 | Ability: 
 None.|Resistance -30 x [F]
+
+Zarude (x2) – HP 130 | Attacks: Overhead Throw [D] (30) This attack also does 30 damage to 1 of your Benched 
+Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.), Shadowy Whip [D][D][D] (100+) If your 
+Benched Pokémon have any Shadowy [D] Energy attached, this attack does 70 more damage. | Weakness: Grass x2 | 
+Retreat: 2 | Ability: None.
 
 Zekrom EX (x1) – HP 230 | Attacks: Slash [C][C] (50), Voltage Burst [L][L][C] (130+)this attack does 50 more 
 damage for each Prize card your 11 opponent has taken. This Pokémon also does 30 damage to itself. | Weakness: 
