@@ -40,6 +40,10 @@ hand. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: H
 effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.) | 
 Resistance: Fighting -30
 
+Bastiodon (x1) – HP 160 | Attacks: Hammer In [M][M][C] (160) | Weakness: Fire x2 | Retreat: 4 | Ability: Ancient 
+Bulwark – As long as this Pokémon is on your Bench, prevent all damage done to each of your Pokémon by attacks 
+from your opponent's Pokémon that have 2 or less Energy attached. | Resistance: Grass -30
+
 Bayleef (x2) – HP 110 | Attacks: Push Down [G][C] (50) | Weakness: Fire x2 | Retreat: 2 | Ability: None.
 
 Blaziken EX (x3) – HP 320 | Attacks: Smolder-sault [R][C] (200) | Weakness: Water x2 | Retreat: 2 | 
@@ -53,6 +57,10 @@ Brambleghast (x1) – HP 100 | Attacks: Psychic Sphere [P][C] [C] (80) | Weaknes
 Ability: 
 Prison Panic – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you 
 may make your opponent's Active Pokémon Confused.
+
+Bronzong (x1) – HP 130 | Attacks: Gentle Slap [M] (40), Metal Block [M][M][C] (120) During your opponent's next 
+turn, this Pokémon takes 100 less damage from attacks from Evolution Pokémon (after applying Weakness and 
+Resistance). | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30
 
 Bulbasaur (x3) – HP 80 | Attacks: Bind Down [G] (10) | Weakness: Fire x2 | Retreat: 2 | Ability: None.
 
@@ -81,6 +89,9 @@ Combusken (x1 HP 90) – HP 90 | Attacks: Slash [R][C] (50) | Weakness: Water x2
 Combusken (x1 HP 100) – HP 100 | Attacks: Combustion [C] (20), Double Kick [R][C] (40)x flip two
 coins. This attack does 40 damage foe each heads. | Weakness: Water x2 | Retreat: 2 | Ability: None.
 
+Cranidos (x1) – HP 100 | Attacks: Push Down [F][F] (70) Switch out your opponent's Active Pokémon to the Bench. 
+(Your opponent chooses the new Active Pokémon.) | Weakness: Grass x2 | Retreat: 2 | Ability: None.
+
 Deino (x4) – HP 70 | Attacks: Stomp Off [D], Bite [D][C] (20) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
 
 Dragapult EX (x3) – HP 320 | Attacks: Jet Headbutt [C] (70), Phantom Dive [R][P] (200) put 6 damage counters on 
@@ -93,6 +104,9 @@ hand, and put the other on the bottom of your deck.
 
 Dreepy (x4) – HP 70 | Attacks: Petty Grudge [P] (10), Bite [R][P] (40) | Weakness:  | Retreat: 1 | 
 Ability: None.
+
+Drilbur (x1) – HP 70 | Attacks: Call for Family [C] Search your deck for up to 2 Basic Pokémon and put them onto 
+your Bench. Then, shuffle your deck., Dig Claws [C][C][C] (50) | Weakness: Grass x2 | Retreat: 2 | Ability: None.
 
 Dudunsparce (x3) – HP 140 | Attacks: Land Crush [C][C][C] (90) | Weakness: Fighting x2 | Retreat: 3 | Ability: 
 Run Away Draw – Once during your turn, if you draw a card in this way, shuffle this Pokémon and all attached 
@@ -135,6 +149,9 @@ Flygon (x1) – HP 150 | Attacks: Cutting Wind [F][F] (130) | Weakness: Grass x2
 Flapping – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may 
 use this Ability. You may also use this Ability if this Pokémon is in your hand. Discard the top 5 cards of your 
 deck.
+
+Fomantis (x1) – HP 70 | Attacks: Reckless Charge [G] (30) This Pokémon also does 10 damage to itself. | 
+Weakness: Fire x2 | Retreat: 1 | Ability: None.
 
 Forretress (x1) – HP 130 | Attacks: Iron Shake-Up [C] (20), Hurricane of Needles [M][C][C] [C] (80) | Weakness: 
 Fire x2 | Retreat: 2 | Ability: None. |Resistance -30 [G]
@@ -188,6 +205,9 @@ Kilowattrel (x2) – HP 120 | Attacks: Mach Bolt [L][C][C] (70) | Weakness: Ligh
 Flashing Draw – Once during your turn, you may search your deck for a Basic [L] Energy card and put it into your 
 hand. Then, shuffle your deck. | Resistance -30 [F]
 
+Lampent (x1) – HP 90 | Attacks: Spreading Light [P] Search your deck for up to 3 Lampent and put them onto your 
+Bench. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
+
 Lokix (x1) – HP 120 | Attacks: Low Kick [G] (30), Jumping Shot [C][C][C] (150) | Weakness: Fire x2 | Retreat: 1 
 | Ability: None.
 
@@ -215,6 +235,10 @@ None.
 
 Mankey (x1) – HP 50 | Attacks: Low Kick [C] (20) | Weakness: Psychic x2 | Retreat: 1 | Ability: None. | 
 Resistance: none
+
+Marshadow (x1) – HP 90 | Attacks: Shadowy Knot [P] (30x) This attack does 30 damage for each [C] in your 
+opponent's Active Pokémon's Retreat Cost. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: 
+Fighting -30
 
 Maschiff (x2) – HP 70 | Attacks: Bite [D][D] (40) | Weakness: Grass x2 | Retreat: 2 | Ability: None. | 
 Resistance: 
@@ -490,6 +514,10 @@ turn, you may draw a card.
 Team Rocket's Spidops (x1) – HP 130 | Attacks: Rocket Rush [G][C] (30x) This attack does 30 damage for each of 
 your Team Rocket's Pokémon in play.| Weakness: Fire x2 | Retreat: 2 | Ability: Charging Up – Once during your 
 turn, you may attach a Basic Energy card from your discard oile to this pokemon.
+
+Thievul (x1) – HP 100 | Attacks: Skill Thief [C][C] If you have no cards in your hand, choose an attack from 1 
+of your opponent's Pokémon in play and use it as this attack., Sharp Fang [D][C][C] (80) | Weakness: Grass x2 | 
+Retreat: 1 | Ability: None.
 
 Togekiss (x1) – HP 140 | Attacks: Speed Wing [C][C][C] (140) | Weakness: Metal x2 | Retreat: 1 | Ability: 
 Wonder Kiss – When your opponent's Active Pokémon is Knocked Out, flip a coin. If heads, take I more Prize card. 
