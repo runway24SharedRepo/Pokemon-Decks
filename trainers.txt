@@ -105,7 +105,7 @@ Effect: Your opponent's Active Pokémon is now Burned and Confused.
 
 Bottom Card Details: You may play any number of Item cards during your turn.
 
-Dark Bell (Item) - x2
+Dark Bell (Item) - x3
 Effect: both active non dark pokemon are now confused.
 Bottom card details: you may play any number of item cards during your turn.
 

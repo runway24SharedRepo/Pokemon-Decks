@@ -1,3 +1,11 @@
+Here is the fully updated `pokemonList.txt` file. 
+
+I have added **Charjabug**, **Heatran**, **Inkay**, **Nickit**, **Sinistcha**, **Silvally**, and **Vullaby** in 
+their correct alphabetical spots. 
+Additionally, I increased the quantity counts for **Centiskorch**, **Manectric**, **Primeape**, and **Slowbro** 
+since they were duplicates of cards already in your list, as you requested.
+
+```text
 Here is the full key you can use for your reference:
 
 [C] = Colorless (This is a wildcard. Any type of Energy can be used to pay for a Colorless cost).
@@ -24,7 +32,8 @@ Benched Pokémon. | Weakness: Darkness x2 | Retreat: 2 | Ability: Durable Body �
 Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP 
 becomes 10. | Resistance: Fighting -30
 
-Armarouge (x1) – HP 140 | Attacks: Flame Legion [R] (40+) This attack does 40 more damage for each of your Benched Pokémon that has any [R] Energy attached. | Weakness: Water x2 | Retreat: 2 | Ability: None.
+Armarouge (x1) – HP 140 | Attacks: Flame Legion [R] (40+) This attack does 40 more damage for each of your 
+Benched Pokémon that has any [R] Energy attached. | Weakness: Water x2 | Retreat: 2 | Ability: None.
 
 Arven's Greedent (x1) – HP 120 | Attacks: Rolling Tackle [C][C] (50) | Weakness: Fighting x2 | Retreat: 2 | 
 Ability: Greedy Order – When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, 
@@ -34,7 +43,10 @@ Arven's Maschiff (x1) – HP 70 | Attacks: Stampede [C] (10), Confront [C][C] [C
 Retreat: 
 2 | Ability: None.
 
-Banette (x1) – HP 80 | Attacks: Puppet Pull [P] (80) You may search your deck for a card and put it into your hand. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.) | Resistance: Fighting -30
+Banette (x1) – HP 80 | Attacks: Puppet Pull [P] (80) You may search your deck for a card and put it into your 
+hand. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all 
+effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.) | 
+Resistance: Fighting -30
 
 Bayleef (x2) – HP 110 | Attacks: Push Down [G][C] (50) | Weakness: Fire x2 | Retreat: 2 | Ability: None.
 
@@ -54,9 +66,15 @@ Bulbasaur (x3) – HP 80 | Attacks: Bind Down [G] (10) | Weakness: Fire x2 | Ret
 
 Carvanha (x1) – HP 70 | Attacks: Reckless Charge [D] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
 
-Centiskorch (x1) – HP 140 | Attacks: Controlled Burn [R] Discard the top 2 cards of your opponent's deck., Heat Tackle [R][C][C][C] (160) This Pokémon also does 30 damage to itself. | Weakness: Water x2 | Retreat: 3 | Ability: None.
+Centiskorch (x2) – HP 140 | Attacks: Controlled Burn [R] Discard the top 2 cards of your opponent's deck., Heat 
+Tackle [R][C][C][C] (160) This Pokémon also does 30 damage to itself. | Weakness: Water x2 | Retreat: 3 | 
+Ability: None.
 
-Charcadet (x1) – HP 80 | Attacks: Best Punch [R] (40) Flip a coin. If tails, this attack does nothing. | Weakness: Water x2 | Retreat: 2 | Ability: None.
+Charcadet (x1) – HP 80 | Attacks: Best Punch [R] (40) Flip a coin. If tails, this attack does nothing. | 
+Weakness: Water x2 | Retreat: 2 | Ability: None.
+
+Charjabug (x1) – HP 100 | Attacks: Vise Grip [L] (30), Ram [L][L] (50) | Weakness: Fighting x2 | Retreat: 2 | 
+Ability: None.
 
 Charmander (x4) – HP 80 | Attacks: Live Coal [R] (20) | Weakness: Water x2 | Retreat: 2 | Ability: Agile – If 
 this Pokémon has no Energy attached, it has no Retreat Cost.
@@ -107,7 +125,8 @@ Eelektrik (x4) – HP 90 | Attacks: Electric Ball [L] [L][C] (50) | Weakness: Fi
 Dynamotor – Once during your turn, you may attach a Basic [L] Energy card from your discard pile to 1 of your 
 Benched Pokémon.
 
-Electrike (x3) – HP 70 | Attacks: Collect [L] Draw a card., Tackle [L][L] (30) | Weakness: Fighting x2 | Retreat: 1 | Ability: None.
+Electrike (x3) – HP 70 | Attacks: Collect [L] Draw a card., Tackle [L][L] (30) | Weakness: Fighting x2 | 
+Retreat: 1 | Ability: None.
 
 Fan Rotom (x3) – HP 70 | Attacks: Thunder Jolt [C] (10) | Weakness: Fighting x2 | Retreat: 1 | Ability: None.
 
@@ -150,12 +169,19 @@ during your turn, you may switch 1 of your opponent's Benched Pokémon with thei
 
 Haunter (x1) – HP 100 | Attacks: Spooky Shot [P] (40) | Weakness: Darkness x2 | Retreat: 1 | Ability: None.
 
+Heatran (x1) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
+(120) During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Burned Pokémon. 
+| Weakness: Water x2 | Retreat: 4 | Ability: None.
+
 Hoothoot (x3) – HP 70 | Attacks: Triple Stab [C] (10+) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
 None.|Resistance -30 [F]
 
 Hydreigon EX (x3) – HP 330 | Attacks: Crashing Headbutt [D][C] (200), Obsidian [D][C][M] [C] (130) | Weakness: 
 Grass x 2
 | Retreat: 3 | Ability: None.
+
+Inkay (x1) – HP 60 | Attacks: Procurement [D] Search your deck for an Item card, reveal it, and put it into your 
+hand. Then, shuffle your deck., Spinning Attack [D][D] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
 
 Ivysaur (x3) – HP 110 | Attacks: Razor Leaf [G][G] (60) | Weakness: Fire x2 | Retreat: 3 | Ability: None.
 
@@ -187,7 +213,7 @@ Mandibuzz (x1) – HP 120 | Attacks: Bone Sniper [D] (70) This attack does 70 da
 Pokémon that has any Special Energy attached. (Don't apply Weakness and Resistance for Benched Pokémon.), 
 Blasting Wind [D][D][C] (120) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30
 
-Manectric (x2) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
+Manectric (x3) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
 damage done to this Pokémon by attacks from Evolution Pokémon., Sonic Edge [L][L][L] (110) This attack's damage 
 isn't affected by any effects on your opponent's Active Pokémon. | Weakness: Fighting x2 | Retreat: 1 | Ability: 
 None.
@@ -265,6 +291,9 @@ Weakness: Darkness x2 | Retreat: 1 | Ability:
 Adrena-Brain – Once during your turn, if this Pokémon has any [P] Energy attached to it, you may move 1 damage 
 counter from 1 of your Pokémon to 1 of your opponent's Pokémon. |Resistance [F] x2
 
+Nickit (x1) – HP 70 | Attacks: Gnaw [D] (10), Rear Kick [D][C] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: 
+None.
+
 Noctowl (x3) – HP 100 | Attacks: Speed Wing [C][C] (60) | Weakness: Lightning x2 | Retreat: 1 | Ability: Jewel 
 Seeker – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may 
 search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.
@@ -333,7 +362,7 @@ Popplio (x1) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retr
 Resistance: 
 none
 
-Primeape (x1) – HP 110 | Attacks: Corkscrew Punch [C][C] (50) | Weakness: Psychic x2 | Retreat: 2 | Ability: 
+Primeape (x2) – HP 110 | Attacks: Corkscrew Punch [C][C] (50) | Weakness: Psychic x2 | Retreat: 2 | Ability: 
 None. 
 | Resistance: none
 
@@ -377,11 +406,28 @@ Ability:
 Excited Power – If you have any darkness Mega Evolution Pokémon in play, attacks used by this Pokémon do 120 
 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
 
-Shuppet (x1) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.) | Resistance: Fighting -30
+Shuppet (x1) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' 
+Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is 
+not an effect.) | Resistance: Fighting -30
 
-Sizzlipede (x1) – HP 80 | Attacks: Controlled Burn [R] Discard the top card of your opponent's deck., Bug Out [C][C][C] (50x) Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards. | Weakness: Water x2 | Retreat: 2 | Ability: None.
+Silvally (x1) – HP 140 | Attacks: Air Slash [C][C][C] (130) Discard an Energy from this Pokémon. | Weakness: 
+Fighting x2 | Retreat: 2 | Ability: Call a Buddy – Once during your turn, if you have no cards in your hand, you 
+may use this Ability. Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle 
+your deck.
 
-Slowbro (x2) – HP 130 | Attacks: All Out [P] (50+) If you have no cards in your hand, this attack does 160 more damage., Zen Headbutt [C][C][C] (110) | Weakness: Darkness x2 | Retreat: 3 | Ability: None. | Resistance: Fighting -30
+Sinistcha (x1) – HP 60 | Attacks: Matcha Spin [C] If you have 6 or more Pokémon that have the Hide 'n' Sneak 
+Ability in your discard pile, place 4 damage counters on each of your opponent's Pokémon. | Weakness: Fire x2 | 
+Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities 
+done to this Pokémon. (Damage is not an effect.)
+
+Sizzlipede (x1) – HP 80 | Attacks: Controlled Burn [R] Discard the top card of your opponent's deck., Bug Out 
+[C][C][C] (50x) Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find 
+there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other 
+cards. | Weakness: Water x2 | Retreat: 2 | Ability: None.
+
+Slowbro (x3) – HP 130 | Attacks: All Out [P] (50+) If you have no cards in your hand, this attack does 160 more 
+damage., Zen Headbutt [C][C][C] (110) | Weakness: Darkness x2 | Retreat: 3 | Ability: None. | Resistance: 
+Fighting -30
 
 Slowpoke (x1) – HP 70 | Attacks: All-You-Can-Yeet [P] You may discard any number of cards from your hand., 
 Headbutt [C][C] (20) | Weakness: Darkness x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30
@@ -473,6 +519,9 @@ Retreat: 0 | Ability: None.
 Varoom (x2) – HP 70 | Attacks: Rigidify [M] During your opponent's next turn, this Pokémon takes 30 less damage 
 from attacks (after applying Weakness and Resistance).| Headbutt Bounce [M][M] (20) | Weakness: Fire x2 | 
 Retreat: 1 | Resistance: [G]-30| Ability: None.
+
+Vullaby (x1) – HP 70 | Attacks: Flap [D] (10), Gust [D][C] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
+None. | Resistance: Fighting -30
 
 Iono's Wattrel (x2) – HP 60 | Attacks: Quick Attack [L] (10+) Flip a coin. If heads, this attack does 20 more 
 damage.| Weakness: Lightning x2 | Retreat: 1 | Ability: 
