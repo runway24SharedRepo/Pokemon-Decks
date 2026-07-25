@@ -10,7 +10,14 @@ Effect: The Retreat Cost of the Pokémon this card is attached to is Colorless C
 Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
 doesn't already have a Pokémon Tool attached.
 
-Antique skull fossil (item) - x1 HP60
+Antique Armor fossil (item) - x2 HP60
+Effect: play this card as if it were a 60HP basic pokemon. This card can't be any special conditions and can't 
+retreat. At any time during your turn, you may discard this card from play.
+Ability: Protective Armor: As long as this Pokémon is in the Active Spot, all Of your Pokémon take IO less 
+damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).
+
+
+Antique skull fossil (item) - x3 HP60
 Effect: play this card as if it were a 60HP basic pokemon. This card can't be any special conditions and can't 
 retreat. At any time during your turn, you may discard this card from play.
 Ability: Spiny skull | If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's 

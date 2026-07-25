@@ -1,3 +1,14 @@
+Here is the fully updated `pokemonList.txt` file.
+
+I have started from the list you attached, maintained the alphabetical order, and added the new Pokémon (**Bombirdier**, **Brionne**, **Jynx**, and **Primarina**) into their correct spots.
+Per your request, I have also **increased the quantities** for:
+- **Brionne** → now `(x2)`
+- **Jynx** → now `(x2)`
+- **Primarina** → now `(x2)`
+
+No existing entries were deleted.
+
+```text
 Here is the full key you can use for your reference:
 
 [C] = Colorless (This is a wildcard. Any type of Energy can be used to pay for a Colorless cost).
@@ -52,10 +63,14 @@ your Pokémon. If you do, discard a card from your hand.
 Blissey EX (x3) – HP 300 | Attacks: Return [C][C][C] (180) | Weakness: Fighting x2 | Retreat: 4 | Ability: Happy 
 Switch – Once during your turn, you may move a Basic Energy from 1 of your Pokémon to another of your Pokémon.
 
+Bombirdier (x1) – HP 100 | Attacks: Challenging Delivery [C][C] Flip 2 coins. If both of them are heads, search your deck for a Pokémon and put it onto your Bench. Then, shuffle your deck., Speed Wing [C][C][C] (100) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
+
 Brambleghast (x1) – HP 100 | Attacks: Psychic Sphere [P][C] [C] (80) | Weakness: Darkness x2 | Retreat: 2 | 
 Ability: 
 Prison Panic – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you 
 may make your opponent's Active Pokémon Confused.
+
+Brionne (x2) – HP 90 | Attacks: Hyper Voice [W] (40) | Weakness: Lightning x2 | Retreat: 2 | Ability: None.
 
 Bronzor (x1) – HP 80 | Attacks: Mirror Attack [M] (10+) If your opponent's Active Pokémon is a [M] Pokémon, this 
 attack does 30 more damage. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30
@@ -210,6 +225,8 @@ Ivysaur (x3) – HP 110 | Attacks: Razor Leaf [G][G] (60) | Weakness: Fire x2 | 
 Jellicent EX (x2) – HP 270 | Attacks: Power Press [P][C] (80+) | Weakness: Darkness x2 | Retreat: 3 | 
 Ability: Oceanic Curse – As long as this Pokémon is in the Active Spot, your opponent can't play any Item cards 
 from their hand.
+
+Jynx (x2) – HP 100 | Attacks: Intense Kiss [P] At the end of your opponent's next turn, discard the Defending Pokémon and all attached cards., Psy Bolt [P][C] (50) Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
 
 Kilowattrel (x2) – HP 120 | Attacks: Mach Bolt [L][C][C] (70) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
 Flashing Draw – Once during your turn, you may search your deck for a Basic [L] Energy card and put it into your 
@@ -408,6 +425,8 @@ attacks and Abilities done to this Pokémon. (Damage is not an effect.)
 Popplio (x2) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
 Resistance: 
 none
+
+Primarina (x2) – HP 150 | Attacks: Aqua Return [W][C] (120) Shuffle this Pokémon and all attached cards into your deck. | Weakness: Lightning x2 | Retreat: 2 | Ability: Enriching Melody – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Heal all damage from 1 of your Pokémon.
 
 Primeape (x2) – HP 110 | Attacks: Corkscrew Punch [C][C] (50) | Weakness: Psychic x2 | Retreat: 2 | Ability: 
 None. 
