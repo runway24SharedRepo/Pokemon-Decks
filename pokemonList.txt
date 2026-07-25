@@ -58,6 +58,9 @@ Ability:
 Prison Panic – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you 
 may make your opponent's Active Pokémon Confused.
 
+Bronzor (x1) – HP 80 | Attacks: Mirror Attack [M] (10+) If your opponent's Active Pokémon is a [M] Pokémon, this 
+attack does 30 more damage. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30
+
 Bronzong (x1) – HP 130 | Attacks: Gentle Slap [M] (40), Metal Block [M][M][C] (120) During your opponent's next 
 turn, this Pokémon takes 100 less damage from attacks from Evolution Pokémon (after applying Weakness and 
 Resistance). | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30
@@ -149,6 +152,9 @@ Fezandipiti EX (x2) – HP 210 | Attacks: Cruel Arrow [C][C][C] (90) | Weakness:
 Ability: Flip the Script – Once during your turn, if any of your Pokémon were Knocked Out during your opponent's 
 last turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck.
 
+Finizen (x1) – HP 80 | Attacks: Draining Fin [W][W] (20) Heal 20 damage from this Pokémon. | Weakness: Lightning 
+x2 | Retreat: 2 | Ability: None.
+
 Flygon (x1) – HP 150 | Attacks: Cutting Wind [F][F] (130) | Weakness: Grass x2 | Retreat: 1 | Ability: Sandy 
 Flapping – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may 
 use this Ability. You may also use this Ability if this Pokémon is in your hand. Discard the top 5 cards of your 
@@ -211,6 +217,9 @@ hand. Then, shuffle your deck. | Resistance -30 [F]
 
 Lampent (x2) – HP 90 | Attacks: Spreading Light [P] Search your deck for up to 3 Lampent and put them onto your 
 Bench. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
+
+Litwick (x1) – HP 70 | Attacks: Will-O-Wisp [P] (20) | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | 
+Resistance: Fighting -30
 
 Lokix (x1) – HP 120 | Attacks: Low Kick [G] (30), Jumping Shot [C][C][C] (150) | Weakness: Fire x2 | Retreat: 1 
 | Ability: None.
@@ -392,6 +401,10 @@ Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
 Piloswine (x2) – HP 100 | Attacks: Strength [C] (20), Impaling Tusk [F][F] (50) | Weakness: Grass x2 | Retreat: 
 3 | Ability: None.
 
+Poltchageist (x1) – HP 30 | Attacks: Furtive Drop [C] Place 1 damage counter on your opponent's Active Pokémon. 
+| Weakness: Fire x2 | Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all effects of your opponent's Pokémon's 
+attacks and Abilities done to this Pokémon. (Damage is not an effect.)
+
 Popplio (x2) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
 Resistance: 
 none
@@ -466,7 +479,8 @@ Skarmory (x2) – HP 120 | Attacks: Steel Cutter [M] (40x) Discard up to 2 Basic
 and this attack does 40 damage for each card you discarded in this way. | Weakness: Fire x2 | Retreat: 1 | 
 Ability: None. | Resistance: Fighting -30
 
-Slowbro (x5) – HP 130| Evolves from Slowpoke | Attacks: All Out [P] (50+) If you have no cards in your hand, this attack does 160 more 
+Slowbro (x5) – HP 130| Evolves from Slowpoke | Attacks: All Out [P] (50+) If you have no cards in your hand, 
+this attack does 160 more 
 damage., Zen Headbutt [C][C][C] (110) | Weakness: Darkness x2 | Retreat: 3 | Ability: None. | Resistance: 
 Fighting -30
 
@@ -566,6 +580,10 @@ Type: Null (x3) – HP 110 | Attacks: Power Edge [C][C] (40) | Weakness: Fightin
 Varoom (x2) – HP 70 | Attacks: Rigidify [M] During your opponent's next turn, this Pokémon takes 30 less damage 
 from attacks (after applying Weakness and Resistance).| Headbutt Bounce [M][M] (20) | Weakness: Fire x2 | 
 Retreat: 1 | Resistance: [G]-30| Ability: None.
+
+Vikavolt (x2) – HP 160 | Attacks: Quick Dive [L] This attack does 50 damage to 1 of your opponent's Pokémon. 
+(Don't apply Weakness and Resistance for Benched Pokémon.), Giga Railgun [L][L] (260) If this Pokémon has no 
+Voltaic [L] Energy attached, this attack does nothing. | Weakness: Fighting x2 | Retreat: 2 | Ability: None.
 
 Vullaby (x1) – HP 70 | Attacks: Flap [D] (10), Gust [D][C] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
 None. | Resistance: Fighting -30
