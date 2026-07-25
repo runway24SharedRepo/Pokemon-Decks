@@ -64,7 +64,7 @@ provides only 1 Energy at a time; or it provides Colorless Energy but provides 2
 Bottom Card Details: You may play any number of Energy cards during your turn. You can't attach more than 1 
 Energy card to a Pokémon during your turn.
 
-Voltaic Energy (Special energy) - x3
+Voltaic Energy (Special energy) - x5
 Effect: As long as this card is attached to a pokemon, it provides electric energy.
 Attacks used by the electric pokemon this card is attached to do 20 more damage to your opponent's active 
 pokemon(before applying weakness and resistance) 

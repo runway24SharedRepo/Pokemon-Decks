@@ -19,7 +19,7 @@ Here is the full key you can use for your reference:
 [M] = Metal Energy (Note: Although it's technically "Metal" in the TCG, Energy cards are often printed as 
 "Steel" type, but the symbol is M).
 
-Annihilape (x2) – HP 150 | Attacks: Ghostly Blow [P][P] (100) Place 5 damage counters on 1 of your opponent's 
+Annihilape (x4) – HP 150 | Attacks: Ghostly Blow [P][P] (100) Place 5 damage counters on 1 of your opponent's 
 Benched Pokémon. | Weakness: Darkness x2 | Retreat: 2 | Ability: Durable Body – If this Pokémon would be Knocked 
 Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP 
 becomes 10. | Resistance: Fighting -30
@@ -89,7 +89,7 @@ Combusken (x1 HP 90) – HP 90 | Attacks: Slash [R][C] (50) | Weakness: Water x2
 Combusken (x1 HP 100) – HP 100 | Attacks: Combustion [C] (20), Double Kick [R][C] (40)x flip two
 coins. This attack does 40 damage foe each heads. | Weakness: Water x2 | Retreat: 2 | Ability: None.
 
-Cranidos (x1) – HP 100 | Attacks: Push Down [F][F] (70) Switch out your opponent's Active Pokémon to the Bench. 
+Cranidos (x3) – HP 100 | Attacks: Push Down [F][F] (70) Switch out your opponent's Active Pokémon to the Bench. 
 (Your opponent chooses the new Active Pokémon.) | Weakness: Grass x2 | Retreat: 2 | Ability: None.
 
 Deino (x4) – HP 70 | Attacks: Stomp Off [D], Bite [D][C] (20) | Weakness: Grass x2 | Retreat: 1 | Ability: None.
@@ -154,7 +154,7 @@ Flapping – Once during your turn, when you play this Pokémon from your hand t
 use this Ability. You may also use this Ability if this Pokémon is in your hand. Discard the top 5 cards of your 
 deck.
 
-Fomantis (x1) – HP 70 | Attacks: Reckless Charge [G] (30) This Pokémon also does 10 damage to itself. | 
+Fomantis (x2) – HP 70 | Attacks: Reckless Charge [G] (30) This Pokémon also does 10 damage to itself. | 
 Weakness: Fire x2 | Retreat: 1 | Ability: None.
 
 Forretress (x1) – HP 130 | Attacks: Iron Shake-Up [C] (20), Hurricane of Needles [M][C][C] [C] (80) | Weakness: 
@@ -185,7 +185,7 @@ during your turn, you may switch 1 of your opponent's Benched Pokémon with thei
 
 Haunter (x1) – HP 100 | Attacks: Spooky Shot [P] (40) | Weakness: Darkness x2 | Retreat: 1 | Ability: None.
 
-Heatran (x1) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
+Heatran (x2) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
 (120) During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Burned Pokémon. 
 | Weakness: Water x2 | Retreat: 4 | Ability: None.
 
@@ -209,7 +209,7 @@ Kilowattrel (x2) – HP 120 | Attacks: Mach Bolt [L][C][C] (70) | Weakness: Ligh
 Flashing Draw – Once during your turn, you may search your deck for a Basic [L] Energy card and put it into your 
 hand. Then, shuffle your deck. | Resistance -30 [F]
 
-Lampent (x1) – HP 90 | Attacks: Spreading Light [P] Search your deck for up to 3 Lampent and put them onto your 
+Lampent (x2) – HP 90 | Attacks: Spreading Light [P] Search your deck for up to 3 Lampent and put them onto your 
 Bench. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
 
 Lokix (x1) – HP 120 | Attacks: Low Kick [G] (30), Jumping Shot [C][C][C] (150) | Weakness: Fire x2 | Retreat: 1 
@@ -221,7 +221,7 @@ Lunatone (x2) – HP 110 | Attacks: Power Gem [F][F] (50) | Weakness: Grass x2 |
 Cycle – Once during your turn if you have Solrock in play, you mai discard a basic [F] energy card from your 
 hand in oder to use this ability. draw 3 cards. you cant use more than 1 lunar cycle ability each turn.
 
-Mabosstiff (x1) – HP 140 | Attacks: Bite [D][D] (60), Plunging Headbutt [D][D][D] (210) During your opponent's 
+Mabosstiff (x2) – HP 140 | Attacks: Bite [D][D] (60), Plunging Headbutt [D][D][D] (210) During your opponent's 
 next turn, this Pokémon takes 100 more damage from attacks (after applying Weakness and Resistance). | Weakness: 
 Grass x2 | Retreat: 3 | Ability: None.
 
@@ -248,7 +248,7 @@ Marshadow (x1) – HP 90 | Attacks: Shadowy Knot [P] (30x) This attack does 30 d
 opponent's Active Pokémon's Retreat Cost. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: 
 Fighting -30
 
-Maschiff (x2) – HP 70 | Attacks: Bite [D][D] (40) | Weakness: Grass x2 | Retreat: 2 | Ability: None. | 
+Maschiff (x4) – HP 70 | Attacks: Bite [D][D] (40) | Weakness: Grass x2 | Retreat: 2 | Ability: None. | 
 Resistance: 
 none
 
@@ -322,7 +322,7 @@ Weakness: Darkness x2 | Retreat: 1 | Ability:
 Adrena-Brain – Once during your turn, if this Pokémon has any [P] Energy attached to it, you may move 1 damage 
 counter from 1 of your Pokémon to 1 of your opponent's Pokémon. |Resistance [F] x2
 
-Nickit (x1) – HP 70 | Attacks: Gnaw [D] (10), Rear Kick [D][C] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: 
+Nickit (x3) – HP 70 | Attacks: Gnaw [D] (10), Rear Kick [D][C] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: 
 None.
 
 Noctowl (x3) – HP 100 | Attacks: Speed Wing [C][C] (60) | Weakness: Lightning x2 | Retreat: 1 | Ability: Jewel 
@@ -362,7 +362,7 @@ Oricorio EX (x2) – HP 190 | Attacks: Fire Wing [R][R][C] (110) | Weakness: Dar
 Excited Turbo – As often as you like during your turn, if you have any Mega Evolution pokemon EX in play, you 
 may use this ability. attach a basic [R] energy card from your hand to 1 of your benched [R] pokemons. 
 
-Palafin (x1) – HP 150 | Attacks: Knuckle Justice [W][W] (80+) If your opponent has exactly 1 Prize card 
+Palafin (x2) – HP 150 | Attacks: Knuckle Justice [W][W] (80+) If your opponent has exactly 1 Prize card 
 remaining, this attack does 200 more damage. | Weakness: Lightning x2 | Retreat: 2 | Ability: None.
 
 Paldean Tauros (x1) – HP 130 | Attacks: Raging Charge [F] (40x)this attack does 40 damage for each of your 
@@ -386,13 +386,13 @@ Pikachu EX (x3) – HP 200 | Attacks: Topaz Bolt [G][L][M] (300) Discard 3 energ
 Fighting x2 | Retreat: 2 | Ability: Resolute Heart – if this Pokémon has full HP and would be Knocked Out by 
 damagefrom an attack, it is not Knocked Out, and its remaining HP becomes 10.
 
-Pikipek (x2) – HP 70 | Attacks: Double Stab [C] (10x) Flip 2 coins. This attack does 10 damage for each heads. | 
+Pikipek (x3) – HP 70 | Attacks: Double Stab [C] (10x) Flip 2 coins. This attack does 10 damage for each heads. | 
 Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
 
 Piloswine (x2) – HP 100 | Attacks: Strength [C] (20), Impaling Tusk [F][F] (50) | Weakness: Grass x2 | Retreat: 
 3 | Ability: None.
 
-Popplio (x1) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
+Popplio (x2) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
 Resistance: 
 none
 
@@ -431,7 +431,7 @@ Accelerating Stab. | Weakness: Psychic x2 | Retreat: 1 | Ability: None.
 Sableye (x1) – HP 80 | Attacks: Cackly Claw [D] (20+)If you have any Stage 2 dark Pokémon on your Bench, this 
 attack does 70 more damage.| Weakness: Grass x2 | Retreat: 1 | Ability: None.
 
-Seaking (x2) – HP 110 | Attacks: Hydro Jet [C][C][C] This attack does 30 damage to 1 of your opponent's Pokémon 
+Seaking (x3) – HP 110 | Attacks: Hydro Jet [C][C][C] This attack does 30 damage to 1 of your opponent's Pokémon 
 for each [W] Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) | 
 Weakness: Lightning x2 | Retreat: 1 | Ability: None.
 
@@ -440,7 +440,7 @@ Ability:
 Excited Power – If you have any darkness Mega Evolution Pokémon in play, attacks used by this Pokémon do 120 
 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
 
-Shieldon (x1) – HP 100 | Attacks: Smithereen Smash [M][C] (50) Discard an Energy from your opponent's Active 
+Shieldon (x2) – HP 100 | Attacks: Smithereen Smash [M][C] (50) Discard an Energy from your opponent's Active 
 Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30
 
 Shuppet (x3) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' 
@@ -452,7 +452,7 @@ Fighting x2 | Retreat: 2 | Ability: Call a Buddy – Once during your turn, if y
 may use this Ability. Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle 
 your deck.
 
-Sinistcha (x1) – HP 60 | Attacks: Matcha Spin [C] If you have 6 or more Pokémon that have the Hide 'n' Sneak 
+Sinistcha (x2) – HP 60 | Attacks: Matcha Spin [C] If you have 6 or more Pokémon that have the Hide 'n' Sneak 
 Ability in your discard pile, place 4 damage counters on each of your opponent's Pokémon. | Weakness: Fire x2 | 
 Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities 
 done to this Pokémon. (Damage is not an effect.)
@@ -462,11 +462,11 @@ Sizzlipede (x2) – HP 80 | Attacks: Controlled Burn [R] Discard the top card of
 there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other 
 cards. | Weakness: Water x2 | Retreat: 2 | Ability: None.
 
-Skarmory (x1) – HP 120 | Attacks: Steel Cutter [M] (40x) Discard up to 2 Basic [M] Energy cards from your hand, 
+Skarmory (x2) – HP 120 | Attacks: Steel Cutter [M] (40x) Discard up to 2 Basic [M] Energy cards from your hand, 
 and this attack does 40 damage for each card you discarded in this way. | Weakness: Fire x2 | Retreat: 1 | 
 Ability: None. | Resistance: Fighting -30
 
-Slowbro (x4) – HP 130 | Attacks: All Out [P] (50+) If you have no cards in your hand, this attack does 160 more 
+Slowbro (x5) – HP 130| Evolves from Slowpoke | Attacks: All Out [P] (50+) If you have no cards in your hand, this attack does 160 more 
 damage., Zen Headbutt [C][C][C] (110) | Weakness: Darkness x2 | Retreat: 3 | Ability: None. | Resistance: 
 Fighting -30
 
@@ -477,7 +477,7 @@ Solrock (x2) – HP 110 | Attacks: Cosmic Beam [F] (70) If you don't have Lunato
 nothing. This attack's damage isn't affected by VVeakness or Resistance.| Weakness: Grass x2 | Retreat: 1 | 
 Ability: None.
 
-Spiritomb (x1) – HP 60 | Attacks: Spiritual End [P] If you have 13 or more Pokémon that have the Hide'n Sneak 
+Spiritomb (x2) – HP 60 | Attacks: Spiritual End [P] If you have 13 or more Pokémon that have the Hide'n Sneak 
 Ability in your discard pile, choose 2 of your opponent's Pokémon and quadruple the number of damage counters on 
 each of them. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
 
@@ -550,11 +550,11 @@ Sinister Noise – Once during your turn, you may use this Ability. Search your 
 and attach it to I of your Benched [D] e Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon 
 in this way, place 2 damage counters on that Pokémon.
 
-Tropius (x1) – HP 110 | Attacks: Fruity Aroma [C] Look at the top 6 cards of your deck, and you may reveal any 
+Tropius (x2) – HP 110 | Attacks: Fruity Aroma [C] Look at the top 6 cards of your deck, and you may reveal any 
 number of Pokémon you find and put them into your hand. Shuffle the other cards back into your deck., Solar Beam 
 [G][C] (60) | Weakness: Fire x2 | Retreat: 1 | Ability: None.
 
-Trumbeak (x2) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
+Trumbeak (x4) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
 your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.| Weakness [L]x2| 
 Resistance[F]-30| Retreat:1
 
