@@ -1,3 +1,10 @@
+Here is the fully updated `pokemonList.txt` file. 
+
+I have added **Grubbin**, **Palafin**, **Shieldon**, and **Skarmory** in their correct alphabetical spots. 
+Additionally, I have increased the quantity for **Type: Null** to `x2` as requested, and added the new cards 
+with `x1` (since none of them were already in the list).
+
+```text
 Here is the full key you can use for your reference:
 
 [C] = Colorless (This is a wildcard. Any type of Energy can be used to pay for a Colorless cost).
@@ -155,13 +162,16 @@ Goldeen (x1) – HP 70 | Attacks: Pierce [C][C] (30) | Weakness: Lightning x2 | 
 Greninja EX (x2) – HP 310 | Attacks: Shinobi Blade [W] (170), Mirage Barrage [W][C][C] (120) | Weakness: 
 Dark x2 | Retreat: 1 | Ability: None.
 
+Grubbin (x1) – HP 70 | Attacks: String Shot [C] (10) Flip a coin. If heads, your opponent's Active Pokémon is 
+now Paralyzed. | Weakness: Fire x2 | Retreat: 2 | Ability: None.
+
 Hariyama (x2) – HP 150 | Attacks: Wild Press [F][F][F] (210) | Weakness: Psychic x2 | Retreat: 3 | Ability: 
 Heavy-Ho Catcher – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon 
 during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
 
 Haunter (x1) – HP 100 | Attacks: Spooky Shot [P] (40) | Weakness: Darkness x2 | Retreat: 1 | Ability: None.
 
-Heatran (x2) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
+Heatran (x1) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
 (120) During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Burned Pokémon. 
 | Weakness: Water x2 | Retreat: 4 | Ability: None.
 
@@ -323,6 +333,9 @@ Oricorio EX (x2) – HP 190 | Attacks: Fire Wing [R][R][C] (110) | Weakness: Dar
 Excited Turbo – As often as you like during your turn, if you have any Mega Evolution pokemon EX in play, you 
 may use this ability. attach a basic [R] energy card from your hand to 1 of your benched [R] pokemons. 
 
+Palafin (x1) – HP 150 | Attacks: Knuckle Justice [W][W] (80+) If your opponent has exactly 1 Prize card 
+remaining, this attack does 200 more damage. | Weakness: Lightning x2 | Retreat: 2 | Ability: None.
+
 Paldean Tauros (x1) – HP 130 | Attacks: Raging Charge [F] (40x)this attack does 40 damage for each of your 
 pokemon that has "Tauros" in its name that has any damage counters on it., Double-Edge [F][F] (70)this pokemon 
 also does 20 damage to itself. | Weakness: 
@@ -398,6 +411,9 @@ Ability:
 Excited Power – If you have any darkness Mega Evolution Pokémon in play, attacks used by this Pokémon do 120 
 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
 
+Shieldon (x1) – HP 100 | Attacks: Smithereen Smash [M][C] (50) Discard an Energy from your opponent's Active 
+Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30
+
 Shuppet (x1) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' 
 Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is 
 not an effect.) | Resistance: Fighting -30
@@ -412,10 +428,14 @@ Ability in your discard pile, place 4 damage counters on each of your opponent's
 Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities 
 done to this Pokémon. (Damage is not an effect.)
 
-Sizzlipede (x2) – HP 80 | Attacks: Controlled Burn [R] Discard the top card of your opponent's deck., Bug Out 
+Sizzlipede (x1) – HP 80 | Attacks: Controlled Burn [R] Discard the top card of your opponent's deck., Bug Out 
 [C][C][C] (50x) Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find 
 there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other 
 cards. | Weakness: Water x2 | Retreat: 2 | Ability: None.
+
+Skarmory (x1) – HP 120 | Attacks: Steel Cutter [M] (40x) Discard up to 2 Basic [M] Energy cards from your hand, 
+and this attack does 40 damage for each card you discarded in this way. | Weakness: Fire x2 | Retreat: 1 | 
+Ability: None. | Resistance: Fighting -30
 
 Slowbro (x3) – HP 130 | Attacks: All Out [P] (50+) If you have no cards in your hand, this attack does 160 more 
 damage., Zen Headbutt [C][C][C] (110) | Weakness: Darkness x2 | Retreat: 3 | Ability: None. | Resistance: 
@@ -507,6 +527,8 @@ Resistance[F]-30| Retreat:1
 
 Tynamo (x4) – HP 40 | Attacks: Hold Still [C] Heal 10 damage from this Pokemon. | Weakness: Fighting x2 | 
 Retreat: 0 | Ability: None.
+
+Type: Null (x2) – HP 110 | Attacks: Power Edge [C][C] (40) | Weakness: Fighting x2 | Retreat: 2 | Ability: None.
 
 Varoom (x2) – HP 70 | Attacks: Rigidify [M] During your opponent's next turn, this Pokémon takes 30 less damage 
 from attacks (after applying Weakness and Resistance).| Headbutt Bounce [M][M] (20) | Weakness: Fire x2 | 
