@@ -222,7 +222,7 @@ discard it if another Stadium comes into play. A Stadium with the same name can'
 
 Gravity Mountain (Stadium) – x2
 
-Effect: Each Stage 2 Pokémon in play (both yours and your opponent's) gets +30 HP.
+Effect: Each Stage 2 Pokémon in play (both yours and your opponent's) gets -30 HP.
 
 Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
 discard it if another Stadium comes into play. A Stadium with the same name can't be played.

@@ -1,0 +1,98 @@
+MATCH #1 | RESULT: WIN | OPPONENT DECK: Teal Mask Ogerpon EX
+TURNS: 8 | PRIZE CARDS LEFT: 3-0 | TIME: 15min
+KEY MOMENTS: Hero's Cape allowed Mega Lucario to survive an Ogerpon attack; Aura Jab accelerated Energy for 
+follow-up KO. Opponent couldn't recover after losing their main attacker.
+MVP CARD: Mega Lucario EX (270 damage OHKO)
+LEARNINGS: Hero's Cape + Mega Lucario creates 440 HP wall that Ogerpon decks struggle to break.
+RATING: 8/10
+
+MATCH #2 | RESULT: WIN | OPPONENT DECK: Teal Mask Ogerpon EX
+TURNS: 10 | PRIZE CARDS LEFT: 2-0 | TIME: 18min
+KEY MOMENTS: Similar to Match #1 but opponent played smarter - forced two Mega Lucario knockouts. Unfair Stamp 
+at crucial moment disrupted their hand, allowing comeback.
+MVP CARD: Unfair Stamp (won the hand-disruption war)
+LEARNINGS: Against Ogerpon, save Unfair Stamp for when they're about to take their 5th/6th Prize.
+RATING: 7/10
+
+MATCH #3 | RESULT: WIN | OPPONENT DECK: N's Zoroark EX / N's Reshiram
+TURNS: 12 | PRIZE CARDS LEFT: 1-0 | TIME: 22min
+KEY MOMENTS: Opponent's Zoroark EX copied Reshiram's Virtuous Flame (170 damage). Mega Lucario responded with 
+Mega Brave + Premium Power Pro for 300 damage. Close game decided by late-game Boss's Orders.
+MVP CARD: Boss's Orders (switched in their damaged Zoroark for final KO)
+LEARNINGS: N's Zoroark is dangerous because it copies ANY attack. Keep an extra Premium Power Pro in hand for 
+unexpected damage situations.
+RATING: 9/10
+
+MATCH #4 | RESULT: LOSS | OPPONENT DECK: Dragapult EX
+TURNS: 9 | PRIZE CARDS LEFT: 0-3 | TIME: 20min
+KEY MOMENTS: Phantom Dive (200 damage + 6 damage counters on Bench) systematically picked apart my Bench. No 
+Battle Cage meant I couldn't protect Solrock/Lunatone. Lost despite having Hero's Cape on Lucario.
+MVP CARD: Dragapult EX (spread damage was overwhelming)
+LEARNINGS: NEED Battle Cage against Dragapult. Also need to limit Bench to 3 Pokémon in this matchup.
+RATING: 5/10 (frustrating loss)
+
+MATCH #5 | RESULT: WIN | OPPONENT DECK: Mega Charizard X EX
+TURNS: 7 | PRIZE CARDS LEFT: 3-0 | TIME: 14min
+KEY MOMENTS: Opponent discarded 3 Fire Energy for 270 damage (90x3). Mega Lucario survived with 10 HP (340 HP - 
+270 damage = 70 remaining). Used Wally's Compassion next turn for full heal + Energy recovery, then OHKO'd 
+Charizard.
+MVP CARD: Wally's Compassion (game-winning heal)
+LEARNINGS: Hero's Cape is CRITICAL against Charizard - without it, Mega Lucario would've been KO'd.
+RATING: 9/10
+
+MATCH #6 | RESULT: LOSS | OPPONENT DECK: Mega Gengar EX
+TURNS: 6 | PRIZE CARDS LEFT: 2-0 | TIME: 12min
+KEY MOMENTS: Void Gale (230 damage) KO'd my Mega Lucario. Opponent's Shadowy Concealment Ability meant they took 
+1 fewer Prize, giving them an advantage. My Psychic weakness made it impossible to trade evenly.
+MVP CARD: Mega Gengar EX (perfect counter to my deck)
+LEARNINGS: Against Psychic, need to prioritize Solrock as attacker (1-Prize) rather than Lucario. Or use Judge 
+early to disrupt their setup.
+RATING: 4/10
+
+MATCH #7 | RESULT: WIN | OPPONENT DECK: Greninja EX
+TURNS: 11 | PRIZE CARDS LEFT: 1-0 | TIME: 19min
+KEY MOMENTS: Opponent's Shinobi Blade (170 damage) took out my first Lucario. Used Okidogi as comeback attacker 
+- Settle the Score did 260 damage (80 base + 60x3 for their last-turn Prizes). Won on the final turn.
+MVP CARD: Okidogi (unexpected hero)
+LEARNINGS: Okidogi's value is REAL - keep it as emergency backup against decks that can OHKO Lucario.
+RATING: 8/10
+
+MATCH #8 | RESULT: WIN | OPPONENT DECK: Steven's Metagross EX
+TURNS: 14 | PRIZE CARDS LEFT: 2-0 | TIME: 25min
+KEY MOMENTS: Mirror-ish match (both have Metagross). Opponent's X-Boost accelerated Metal Energy better than my 
+setup. Won through pure value - used Lunatone draw engine to outlast them. Final KO was Boss's Orders on their 
+Benched Beldum.
+MVP CARD: Lunatone/Solrock (draw engine won the attrition war)
+LEARNINGS: In control matchups, draw power > raw damage. Need to keep Solrock/Lunatone alive.
+RATING: 7/10
+
+MATCH #9 | RESULT: LOSS | OPPONENT DECK: Mega Lucario EX (Mirror)
+TURNS: 5 | PRIZE CARDS LEFT: 0-4 | TIME: 10min
+KEY MOMENTS: Opponent went first, evolved faster, and used Mega Brave + 2 Premium Power Pro for 330 damage. My 
+Hero's Cape wasn't enough (440 HP max, but they hit for 330). Couldn't recover.
+MVP CARD: Premium Power Pro (opponent's stack was unbeatable)
+LEARNINGS: In mirror matches, Speed is everything. Need to prioritize Riolu setup and discard Premium Power Pro 
+search. Consider running 4 PP Pro (I had 3).
+RATING: 3/10 (unfortunate but deserved loss)
+
+MATCH #10 | RESULT: WIN | OPPONENT DECK: Mamoswine EX
+TURNS: 13 | PRIZE CARDS LEFT: 2-0 | TIME: 23min
+KEY MOMENTS: Mammoth Hunter searched their deck for key Pokémon every turn. Mega Lucario's Fighting Energy 
+advantage (Mamoswine is weak to Fighting? No, Mamoswine is weak to Grass - but my damage output was higher). 
+Used Gravity Mountain to reduce their Mamoswine HP from 340 to 310.
+MVP CARD: Gravity Mountain (turned 340 HP into OHKO range)
+LEARNINGS: Gravity Mountain is amazing against Stage 2 opponents. Need to prioritize Stadium war more.
+RATING: 6/10
+
+MATCH #11 | RESULT: LOSS | OPPONENT DECK: Mega Lucario EX (Mirror)
+TURNS: 11 | PRIZE CARDS LEFT: 2-0 | TIME: Not provided
+KEY MOMENTS: Took 2 mulligans, giving the opponent 2 extra cards. Opponent evolved first and knocked out Riolu 
+before it could become Mega Lucario. I recovered and took a 3-Prize knockout on their first Mega Lucario, but 
+they had a second Riolu prepared. Fezandipiti ex and Lunar Cycle rebuilt their hand, then Maximum Belt boosted 
+Aura Jab to 180 damage and knocked out my damaged Hero's Cape Mega Lucario for the final 3 Prizes.
+MVP CARD: Maximum Belt (raised Aura Jab to exactly enough damage for the final knockout)
+LEARNINGS: In the mirror match, removing the first Mega Lucario is not enough if the opponent has a second Riolu 
+ready. Keep a backup Riolu of my own, track the opponent's replacement attacker, and consider using Boss's 
+Orders or Hariyama to remove their benched Riolu before taking the first 3-Prize knockout. Mulligans also gave 
+the opponent a significant setup advantage.
+RATING: 6/10 (strong comeback, but opponent had the better second-attacker setup)
