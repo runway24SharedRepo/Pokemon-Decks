@@ -96,3 +96,54 @@ ready. Keep a backup Riolu of my own, track the opponent's replacement attacker,
 Orders or Hariyama to remove their benched Riolu before taking the first 3-Prize knockout. Mulligans also gave 
 the opponent a significant setup advantage.
 RATING: 6/10 (strong comeback, but opponent had the better second-attacker setup)
+
+MATCH #12 | RESULT: WIN | OPPONENT DECK: Mega Charizard X EX / Oricorio EX
+TURNS: 9 | PRIZE CARDS LEFT: 4-6 (opponent conceded) | TIME: Not provided
+KEY MOMENTS: Opened Solrock Active with Lunatone on the Bench and used Lunar Cycle three times to draw 9 cards.
+Poké Pad found Riolu, then Team Rocket's Petrel found Mega Signal for Mega Lucario ex. Built three Riolu and
+multiple Mega Lucario attackers, used Switch to promote Lucario, and knocked out Oricorio ex with Mega Brave
+for 2 Prizes. Boss's Orders then brought Charmeleon Active before it could become Mega Charizard X ex; Aura Jab
+for 130 caused the opponent to concede.
+MVP CARD: Lunatone (Lunar Cycle supplied 9 cards and made the entire setup consistent)
+LEARNINGS: Establish Solrock and Lunatone early, secure a backup Riolu before attacking, and use Boss's Orders
+or Hariyama to remove Charmeleon before Mega Charizard X ex can enter play.
+RATING: 9/10 (excellent setup, attacker redundancy, and target selection)
+
+MATCH #13 | RESULT: WIN | OPPONENT DECK: Mega Sharpedo EX / Tyranitar EX / Spiritomb
+OPPONENT: Cruxieh | DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 0-4 | TIME: Not provided
+KEY MOMENTS: Started Mega Skarmory ex Active without Beldum in the opening hand, but recovered through Ultra
+Ball, Team Rocket's Petrel, Precious Trolley and Genesect ex. Steven's Metagross ex used Metal Stomp to knock
+out Spiritomb for 1 Prize. Mega Sharpedo ex answered with Hungry Jaws for 120 and then 270, knocking out the
+first Metagross for 2 Prizes. Fezandipiti ex used Flip the Script to rebuild the hand; Energy Recycler and
+X-Boot powered a replacement Metagross, which knocked out Mega Sharpedo ex for 3 Prizes. Boss's Orders then
+brought Tyranitar ex Active for the final 200-damage Metal Stomp and 2 Prizes.
+MVP CARD: Steven's Metagross EX (the replacement attacker recovered the Prize race and completed both major KOs)
+LEARNINGS: The deck can recover from an opening without Beldum, but the crucial sequence is Energy Recycler
+before X-Boot and preparing the replacement Metagross before investing in optional attackers.
+RATING: 9/10 (strong recovery, correct Energy sequencing, and precise final gust)
+
+MATCH #14 | RESULT: WIN | OPPONENT DECK: Teal Mask Ogerpon EX / Grass
+OPPONENT: Alexandl | DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 2-4 (opponent conceded) | TIME: Not provided
+KEY MOMENTS: Took the first 2 Prizes, then Teal Mask Ogerpon ex attacked Steven's Metagross ex for 180 and 210
+damage across two attacks, eventually taking 2 Prizes. The prepared board maintained pressure and answered with
+another 2-Prize knockout, moving the Prize progression from 2-0 to 2-2 to 4-2 before the opponent conceded.
+MVP CARD: Steven's Metagross EX (established the Energy engine and sustained the central Prize trade)
+LEARNINGS: A 340-HP Metagross does not survive the combined 390 damage from Ogerpon's two attacks. Build the
+replacement attacker first; healing 80 between those attacks would reduce the total to 310 and preserve
+Metagross for another turn.
+RATING: 8/10 (strong Prize mapping and board pressure, with a clear future use case for healing)
+
+MATCH #15 | RESULT: WIN | OPPONENT DECK: Electrike
+OPPONENT: Améliepbp | DECK USED: Steven's Metagross EX toolbox
+TURNS: 3 | PRIZE CARDS LEFT: 5-6 (no Benched Pokémon for backup) | TIME: Not provided
+KEY MOMENTS: Went first with Steven's Beldum Active. Buddy-Buddy Poffin filled the Bench with two more Beldum,
+and Genesect ex used Metallic Signal on consecutive turns to secure two Metang and two Metagross ex. Evolved
+the Active and one Benched Beldum into Metang, attached Psychic then Metal Energy to the Active, and used Metal
+Slash for 70 to knock out Electrike. The opponent had no Benched Pokémon, so the knockout ended the game.
+MVP CARD: Genesect EX (secured both Evolution stages for two future Metagross attackers)
+LEARNINGS: Three Beldum plus repeated Metallic Signal creates exceptional redundancy. Avoid unnecessary Ultra
+Ball use when the Evolution pieces are already secured, and recognise the immediate win when the opponent has
+no Benched Pokémon.
+RATING: 9/10 execution; limited matchup evidence because the opponent took no meaningful action
