@@ -63,7 +63,9 @@ your Pokémon. If you do, discard a card from your hand.
 Blissey EX (x3) – HP 300 | Attacks: Return [C][C][C] (180) | Weakness: Fighting x2 | Retreat: 4 | Ability: Happy 
 Switch – Once during your turn, you may move a Basic Energy from 1 of your Pokémon to another of your Pokémon.
 
-Bombirdier (x1) – HP 100 | Attacks: Challenging Delivery [C][C] Flip 2 coins. If both of them are heads, search your deck for a Pokémon and put it onto your Bench. Then, shuffle your deck., Speed Wing [C][C][C] (100) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
+Bombirdier (x1) – HP 100 | Attacks: Challenging Delivery [C][C] Flip 2 coins. If both of them are heads, search 
+your deck for a Pokémon and put it onto your Bench. Then, shuffle your deck., Speed Wing [C][C][C] (100) | 
+Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
 
 Brambleghast (x1) – HP 100 | Attacks: Psychic Sphere [P][C] [C] (80) | Weakness: Darkness x2 | Retreat: 2 | 
 Ability: 
@@ -226,7 +228,9 @@ Jellicent EX (x2) – HP 270 | Attacks: Power Press [P][C] (80+) | Weakness: Dar
 Ability: Oceanic Curse – As long as this Pokémon is in the Active Spot, your opponent can't play any Item cards 
 from their hand.
 
-Jynx (x3) – HP 100 | Attacks: Intense Kiss [P] At the end of your opponent's next turn, discard the Defending Pokémon and all attached cards., Psy Bolt [P][C] (50) Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
+Jynx (x3) – HP 100 | Attacks: Intense Kiss [P] At the end of your opponent's next turn, discard the Defending 
+Pokémon and all attached cards., Psy Bolt [P][C] (50) Flip a coin. If heads, your opponent's Active Pokémon is 
+now Paralyzed. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30
 
 Kilowattrel (x2) – HP 120 | Attacks: Mach Bolt [L][C][C] (70) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
 Flashing Draw – Once during your turn, you may search your deck for a Basic [L] Energy card and put it into your 
@@ -247,11 +251,20 @@ Lunatone (x2) – HP 110 | Attacks: Power Gem [F][F] (50) | Weakness: Grass x2 |
 Cycle – Once during your turn if you have Solrock in play, you mai discard a basic [F] energy card from your 
 hand in oder to use this ability. draw 3 cards. you cant use more than 1 lunar cycle ability each turn.
 
+Lurantis EX (x1) – HP 260 | Attacks: Lively Cutter [G] (60+) If this Pokémon was healed during this turn, this 
+attack does 200 more damage., Leaf Guard [G][C] (140) During your opponent's next turn, this Pokémon takes 50 
+less damage from attacks (after applying Weakness and Resistance). | Weakness: Fire x2 | Retreat: 1 | Ability: 
+None.
+
 Mabosstiff (x3) – HP 140 | Attacks: Bite [D][D] (60), Plunging Headbutt [D][D][D] (210) During your opponent's 
 next turn, this Pokémon takes 100 more damage from attacks (after applying Weakness and Resistance). | Weakness: 
 Grass x2 | Retreat: 3 | Ability: None.
 
 Makuhita (x2) – HP 80 | Attacks: Corkscrew Punch [F] (10), Confront [F][F] (30) | Weakness: Psychic x2 | 
+Retreat: 2 | Ability: None.
+
+Malamar (x2) – HP 120 | Attacks: Perplex [D] Your opponent's Active Pokémon is now Confused., Brain Crush [D] 
+(130) If your opponent's Active Pokémon isn't Confused, this attack does nothing. | Weakness: Grass x2 | 
 Retreat: 2 | Ability: None.
 
 Mamoswine (x3) – HP 340 | Attacks: Rumbling March [F][F] (180+) | Weakness: Grass x2 | Retreat: 4 | Ability: 
@@ -278,17 +291,20 @@ Maschiff (x4) – HP 70 | Attacks: Bite [D][D] (40) | Weakness: Grass x2 | Retre
 Resistance: 
 none
 
-Mega Charizard X EX (x4) |evolves from charmeleon – HP 360 | Attacks: Inferno X [R][R] (90+) discard any amount of fire energy from among 
+Mega Charizard X EX (x4) |evolves from charmeleon – HP 360 | Attacks: Inferno X [R][R] (90+) discard any amount 
+of fire energy from among 
 your pokemon and this attack does 90 damage for each card you discarded in this way| Weakness: Water x2 | 
 Retreat: 2 | 
 Ability: None.
 
-Mega Charizard Y EX (x1)evolves from charmeleon – HP 360 | Attacks: Explosion Y [R][R][C] (90+) Discard 3 energy from this pokemon and 
+Mega Charizard Y EX (x1)evolves from charmeleon – HP 360 | Attacks: Explosion Y [R][R][C] (90+) Discard 3 energy 
+from this pokemon and 
 this attack does 280 damage to 1 of your opponent pokemon (dont apply weakness and resistance for benched 
 pokemon) | Weakness: Water x2 | Retreat: 1 | 
 Ability: None.
 
-Mega Chandelure EX (x1)| evolves from lampent – HP 350 | Attacks: Phantom Maze [P][P] (130+) This attack does 50 more damage for each 
+Mega Chandelure EX (x1)| evolves from lampent – HP 350 | Attacks: Phantom Maze [P][P] (130+) This attack does 50 
+more damage for each 
 [C] in your opponent's Active Pokémon's Retreat Cost. | Weakness: Darkness x2 | Retreat: 2 | Ability: Binding 
 Flame – Your opponent's Active Pokémon's Retreat Cost is [C] more. | Resistance: Fighting -30
 
@@ -296,40 +312,48 @@ Mega Darkrai (x4) – HP 280 | Attacks: Dusk Raid [D][D] (110+) If your Benched 
 on them, this attack does 110 more damage. | Weakness: Fighting x2 | Retreat: 2 | Ability: Abyss Eye [D][D][D] – 
 If your opponent's Active Pokémon is affected by a Special Condition, it is Knocked Out. | Resistance: none
 
-Mega Eelektross EX (x1)|evolves from eelektrik – HP 350 | Attacks: Spill Bomb [L][L] This attack does 60 damage to each of 2 of your 
+Mega Eelektross EX (x1)|evolves from eelektrik – HP 350 | Attacks: Spill Bomb [L][L] This attack does 60 damage 
+to each of 2 of your 
 opponents pokemon (dont apply weakness and resistance for benched pokemon)| Disaster Shock [L][L][L] 
 (190) you may discard 2 [L] energy from this poekemon and make your opponent active pokemon paralyzed. | 
 Weakness: Fighting x2 | Retreat: 2 | Ability: None.
 
-Mega Gengar EX (x1) |evolves from Haunter – HP 350 | Attacks: Void Gale [D][D] (230) move an energy from this pokemon to 1 of your 
+Mega Gengar EX (x1) |evolves from Haunter – HP 350 | Attacks: Void Gale [D][D] (230) move an energy from this 
+pokemon to 1 of your 
 benched pokemon. | Weakness: Fighting x2 | Retreat: 2 | 
 Ability:If one of your darkness pokemon is knowcked out by damage from an attack from your opponent pokemon EX, 
 that player takes 1 fewer prize card. The effect of shadowy concealment doesn't stack.
 
-Mega Lucario EX (x3)|evolves from Rioiu – HP 340 | Attacks: Aura Jab [F] (130) attach up to 3 basic [F] energy cards from your 
+Mega Lucario EX (x3)|evolves from Rioiu – HP 340 | Attacks: Aura Jab [F] (130) attach up to 3 basic [F] energy 
+cards from your 
 discard pile to your benched pokemon in any way you like, Mega Brave [F][F] (270) during your next turn, this 
 pokemon cant use Mega Brake | Weakness: 
 Psychic x2 | Retreat: 2 | Ability: None.
 
-Mega Manectric EX (x3)|evolves from Electrike – HP 330 | Attacks: Flash Ray [L][C] (120) During your opponent next turn, prevent all 
+Mega Manectric EX (x3)|evolves from Electrike – HP 330 | Attacks: Flash Ray [L][C] (120) During your opponent 
+next turn, prevent all 
 damage done to this pokemon by attacks from basic pokemon, Riotous Blasting [L][L][L] (200) you may discard all 
 energy from thsi pokemon and have this attack do 130 more damage | 
 Weakness: Fighting x2 | Retreat: 0 | Ability: None.
 
-Mega Mawile EX (x1)|evolves from Mawile – HP 270 | Attacks: Gobble Down  [M][M] (80) This attack does 80 damage for each Prize card 
+Mega Mawile EX (x1)|evolves from Mawile – HP 270 | Attacks: Gobble Down  [M][M] (80) This attack does 80 damage 
+for each Prize card 
 you have taken. | Huge bite [M][M][C] (260) If your opponent's active pokemon already has any damage counters on 
 it, 
 this attack's base damage is 30. | Weakness: Fire x2 | Retreat: 2 | Resistance -30x[G]
 
-Mega Sharpedo EX (x3)|evolves from Carvanha – HP 330 | Attacks: Greedy Fang [D] (70) draw 2 cards, Hungry Jaws [D][D] (150) If this 
+Mega Sharpedo EX (x3)|evolves from Carvanha – HP 330 | Attacks: Greedy Fang [D] (70) draw 2 cards, Hungry Jaws 
+[D][D] (150) If this 
 pokemon has any damage counters on it, this attack does 150 more damage.| Weakness: Grass 
 x2 | Retreat: 10 | Ability: None.
 
-Mega Skarmory EX (x1)|evolves from Skarmory – HP 260 | | Ability: Sonic Ripper [M][M][C] Shuffle all energy attached to this pokemon 
+Mega Skarmory EX (x1)|evolves from Skarmory – HP 260 | | Ability: Sonic Ripper [M][M][C] Shuffle all energy 
+attached to this pokemon 
 into your deck and this attack, does 220 damage to 1 of your opponent's pokemon (dont apply weakness and 
 resistance for benched pokemon)| Weakness: Fire x2 | Retreat: 1 | Resistance -30x[F] 
 
-Mega Venusaur EX (x3)|evolves from Ivysaur – HP 380 | Attacks: Jungle Dump [G][G][G][G] (240) Heal 30 damage from this pokemon | 
+Mega Venusaur EX (x3)|evolves from Ivysaur – HP 380 | Attacks: Jungle Dump [G][G][G][G] (240) Heal 30 damage 
+from this pokemon | 
 Weakness: Fire x2 | Retreat: 4 | 
 Ability: Solar Transfer – As often as you like during your turn, you may move a Basic [G] Energy attached to 1 
 of your Pokémon to another of your Pokémon.
@@ -373,7 +397,8 @@ your opponent's active pokemon, Rampaging Thunder [R][L][L][C] (250) during your
 use attacks. | Weakness: Fighting x2 
 | Retreat: 2 | Ability: None.
 
-N's Zoroark EX (x4)|evolves from Zorua – HP 280 | Attacks: Night Joker [D][D] (150) Choose 1 of your benched N's pokemons attacks 
+N's Zoroark EX (x4)|evolves from Zorua – HP 280 | Attacks: Night Joker [D][D] (150) Choose 1 of your benched N's 
+pokemons attacks 
 and use it as this attack | Weakness: Grass x2 | Retreat: 2 | Ability: Night Joker – You must discard a card 
 from your hand in order to use this Ability. Once during your turn, you 
 may search your deck for a card and put it into your hand. Then, shuffle your deck.
@@ -426,7 +451,10 @@ Popplio (x3) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retr
 Resistance: 
 none
 
-Primarina (x2) – HP 150 | Attacks: Aqua Return [W][C] (120) Shuffle this Pokémon and all attached cards into your deck. | Weakness: Lightning x2 | Retreat: 2 | Ability: Enriching Melody – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Heal all damage from 1 of your Pokémon.
+Primarina (x2) – HP 150 | Attacks: Aqua Return [W][C] (120) Shuffle this Pokémon and all attached cards into 
+your deck. | Weakness: Lightning x2 | Retreat: 2 | Ability: Enriching Melody – Once during your turn, when you 
+play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Heal all damage from 1 
+of your Pokémon.
 
 Primeape (x3) – HP 110 | Attacks: Corkscrew Punch [C][C] (50) | Weakness: Psychic x2 | Retreat: 2 | Ability: 
 None. 
@@ -446,6 +474,12 @@ Pokémon.
 Raging Bolt EX (x4) – HP 240 | Attacks: Burst Roar [C] discard your hand and draw 6 cards | Belching Thunder 
 [L][F] (70x)You may discard any amount of Basic Energy from your Pokémon. This'attack does 70 damage_ for_each 
 card you discarded in this way. | Weakness:0 | Retreat: 3 | Ability: None.
+
+Rampardos EX (x1) – HP 330 | Attacks: Rowdy Hammer [F][F] (150) During your next turn, attacks used by this 
+Pokémon do 150 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). | 
+Weakness: Grass x2 | Retreat: 2 | Ability: Destructive Headbutting – Once during your turn, if this Pokémon is 
+in the Active Spot, you may use this Ability. Flip a coin. If heads, discard an Energy from your opponent's 
+Active Pokémon.
 
 Relicanth (x4) – HP 100 | Attacks: Fossil Beatdown [W] (10+) This attack does 30 more damage for each of your 
 Benched Pokémon that has "Antique" in its name. | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
