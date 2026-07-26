@@ -268,7 +268,8 @@ Inkay (x4) – HP 60 | Attacks: Procurement [D] Search your deck for an Item car
 hand. Then, shuffle your deck., Spinning Attack [D][D] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: None. | 
 type: darkness | Evolves to: Malamar | Evolves from: None | Status: Basic |
 
-Iono's Kilowattrel (x2) – HP 120 | Attacks: Mach Bolt [L][C][C] (70) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
+Iono's Kilowattrel (x2) – HP 120 | Attacks: Mach Bolt [L][C][C] (70) | Weakness: Lightning x2 | Retreat: 1 | 
+Ability: 
 Flashing Draw – Once during your turn, you may search your deck for a Basic [L] Energy card and put it into your 
 hand. Then, shuffle your deck. | Resistance -30 [F] | type: lightning | Evolves to: None | Evolves from: Iono's 
 Wattrel | Status: stage1 |
@@ -373,6 +374,11 @@ on them, this attack does 110 more damage. | Weakness: Fighting x2 | Retreat: 2 
 If your opponent's Active Pokémon is affected by a Special Condition, it is Knocked Out. | Resistance: none | 
 type: darkness | Evolves to: None | Evolves from: None | Status: Basic |
 
+Mega Delphox EX (x1) – HP 350 | Attacks: Trick Portal [R] Look at the top 9 cards of your deck, and you may put
+any number of Pokémon you find there onto your Bench. Shuffle the other cards back into your deck., Eerie Glow
+[R][C][C] (200) Your opponent's Active Pokémon is now Burned and Confused. | Weakness: Water x2 | Retreat: 2 |
+Ability: None. | Resistance: none | type: fire | Evolves to: None | Evolves from: Braixen | Status: stage2 |
+
 Mega Eelektross EX (x1)|evolves from eelektrik – HP 350 | Attacks: Spill Bomb [L][L] This attack does 60 damage 
 to each of 2 of your 
 opponents pokemon (dont apply weakness and resistance for benched pokemon)| Disaster Shock [L][L][L] 
@@ -434,6 +440,12 @@ Meowth EX (x2) – HP 170 | Attacks: Tackle Tail [C][C][C] (60) Put this pokemon
 hand.| Weakness: Fighting x2 | Retreat: 1 | Ability:Last Ditch Catch – Once during your turn, if you have 4 or 
 fewer cards in your hand, you may search your deck for a Supporter card, reveal it, and put it into your hand. 
 Then, shuffle your deck. | type: colorless | Evolves to: Persian | Evolves from: None | Status: Basic |
+
+Miraidon (x1) – HP 120 | Attacks: Thunder [L][L] (90) This Pokémon also does 30 damage to itself. | Weakness:
+Fighting x2 | Retreat: 1 | Ability: Photon Cord – If this Pokémon is in the Active Spot and is Knocked Out by
+damage from an attack from your opponent's Pokémon, move up to 2 Basic [L] Energy cards from this Pokémon to 1
+of your Benched Pokémon. | Resistance: none | type: lightning | Evolves to: None | Evolves from: None | Status:
+Basic |
 
 Munkidori (x3) – HP 110 | Attacks: Mind Bend [P][C] (60) Your opponent's active pokemon is now confused| 
 Weakness: Darkness x2 | Retreat: 1 | Ability: 
@@ -746,6 +758,10 @@ type: lightning | Evolves to: None | Evolves from: Charjabug | Status: stage2 |
 
 Vullaby (x2) – HP 70 | Attacks: Flap [D] (10), Gust [D][C] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
 None. | Resistance: Fighting -30 | type: darkness | Evolves to: Mandibuzz | Evolves from: None | Status: Basic |
+
+Wailmer (x2) – HP 130 | Attacks: Water Gun [W][W] (40), Wave Splash [W][W][W] (80) | Weakness: Lightning x2 |
+Retreat: 4 | Ability: None. | Resistance: none | type: water | Evolves to: Wailord | Evolves from: None | Status:
+Basic |
 
 Wailord EX (x3) – HP 380 | Attacks: Surf [W][W][W] (120), Falling Down [W][W][W][W][W] (270) This Pokémon is now 
 Asleep. | Weakness: Lightning x2 | Retreat: 4 | Ability: None. | type: water | Evolves to: None | Evolves from: 
