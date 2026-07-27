@@ -86,7 +86,7 @@ Status: stage1 |
 Brionne (x2) – HP 90 | Attacks: Hyper Voice [W] (40) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | 
 type: water | Evolves to: Primarina | Evolves from: Popplio | Status: stage1 |
 
-Bronzong (x2) – HP 130 | Attacks: Gentle Slap [M] (40), Metal Block [M][M][C] (120) During your opponent's next 
+Bronzong (x3) – HP 130 | Attacks: Gentle Slap [M] (40), Metal Block [M][M][C] (120) During your opponent's next 
 turn, this Pokémon takes 100 less damage from attacks from Evolution Pokémon (after applying Weakness and 
 Resistance). | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves 
 to: None | Evolves from: Bronzor | Status: stage1 |
@@ -335,7 +335,7 @@ Pokémon that has any Special Energy attached. (Don't apply Weakness and Resista
 Blasting Wind [D][D][C] (120) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30 
 | type: darkness | Evolves to: None | Evolves from: Vullaby | Status: stage1 |
 
-Manectric (x4) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
+Manectric (x5) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
 damage done to this Pokémon by attacks from Evolution Pokémon., Sonic Edge [L][L][L] (110) This attack's damage 
 isn't affected by any effects on your opponent's Active Pokémon. | Weakness: Fighting x2 | Retreat: 1 | Ability: 
 None. | type: lightning | Evolves to: None | Evolves from: Electrike | Status: stage1 |
@@ -575,7 +575,7 @@ Weakness: Grass x2 | Retreat: 2 | Ability: Destructive Headbutting – Once duri
 in the Active Spot, you may use this Ability. Flip a coin. If heads, discard an Energy from your opponent's 
 Active Pokémon. | type: fighting | Evolves to: None | Evolves from: Cranidos | Status: stage2 |
 
-Relicanth (x8) – HP 100 | Attacks: Fossil Beatdown [W] (10+) This attack does 30 more damage for each of your 
+Relicanth (x7) – HP 100 | Attacks: Fossil Beatdown [W] (10+) This attack does 30 more damage for each of your 
 Benched Pokémon that has "Antique" in its name. | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
 Resistance: 
 none | type: water | Evolves to: None | Evolves from: None | Status: Basic |
@@ -716,7 +716,7 @@ stage2 |
 Torchic (x3) – HP 60 | Attacks: Scratch [R][C] (30) | Weakness: Water x2 | Retreat: 1 | Ability: None. | type: 
 fire | Evolves to: Combusken | Evolves from: None | Status: Basic |
 
-Toucannon (x8) - HP 150 | Attacks: Feather Rondo [C] (60+) This attack does 20 more damage for each Benched 
+Toucannon (x7) - HP 150 | Attacks: Feather Rondo [C] (60+) This attack does 20 more damage for each Benched 
 Pokémon (both yours and your opponent's).| Weakness [L]x2 | Resistance [F]-30| Retreat: 2| Ability: Aerial Draw: 
 Once during your turn, you may use this ability. Draw a card. | type: colorless | Evolves to: None | Evolves 
 from: Trumbeak | Status: stage2 |
