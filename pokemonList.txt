@@ -291,9 +291,23 @@ Pokémon and all attached cards., Psy Bolt [P][C] (50) Flip a coin. If heads, yo
 now Paralyzed. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: psychic 
 | Evolves to: None | Evolves from: None | Status: Basic |
 
+Koraidon (x1) – HP 130 | Attacks: Battle Claw [F] (30+) If your opponent's Active Pokémon is an Evolution
+Pokémon, this attack does 30 more damage., Gaia Impact [F][F][C] (190) Discard all Energy from this Pokémon. |
+Weakness: Psychic x2 | Retreat: 2 | Ability: None. | Resistance: none | type: fighting | Evolves to: None |
+Evolves from: None | Status: Basic |
+
 Lampent (x4) – HP 90 | Attacks: Spreading Light [P] Search your deck for up to 3 Lampent and put them onto your 
 Bench. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 
 | type: psychic | Evolves to: Chandelure / Mega Chandelure EX | Evolves from: Litwick | Status: stage1 |
+
+Latias EX (x1) – HP 210 | Attacks: Eon Blade [P][P][C] (200) During your next turn, this Pokémon can't attack. |
+Weakness: Darkness x2 | Retreat: 2 | Ability: Skyliner – Your Basic Pokémon in play have no Retreat Cost. |
+Resistance: Fighting -30 | type: psychic | Evolves to: None | Evolves from: None | Status: Basic |
+
+Lillie's Clefairy EX (x1) – HP 190 | Attacks: Full Moon Rondo [P][C] (20+) This attack does 20 more damage for
+each Benched Pokémon (both yours and your opponent's). | Weakness: Metal x2 | Retreat: 1 | Ability: Fairy Zone –
+The Weakness of each of your opponent's Dragon Pokémon in play is now Psychic. (Apply Weakness as x2.) |
+Resistance: none | type: psychic | Evolves to: None | Evolves from: None | Status: Basic |
 
 Litwick (x2) – HP 70 | Attacks: Will-O-Wisp [P] (20) | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | 
 Resistance: Fighting -30 | type: psychic | Evolves to: Lampent | Evolves from: None | Status: Basic |
@@ -386,6 +400,11 @@ opponents pokemon (dont apply weakness and resistance for benched pokemon)| Disa
 Weakness: Fighting x2 | Retreat: 2 | Ability: None. | type: lightning | Evolves to: None | Evolves from: 
 Eelektrik | Status: stage2 |
 
+Mega Excadrill EX (x1) – HP 340 | Attacks: Undermine [M][M] (90) Discard the top 2 cards of your opponent's
+deck., Maximum Drilling [M][M][M] (200+) If this Pokémon has at least 2 extra Energy attached (in addition to
+this attack's cost), this attack does 130 more damage. | Weakness: Fire x2 | Retreat: 4 | Ability: None. |
+Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Drilbur | Status: stage1 |
+
 Mega Gengar EX (x2) |evolves from Haunter – HP 350 | Attacks: Void Gale [D][D] (230) move an energy from this 
 pokemon to 1 of your 
 benched pokemon. | Weakness: Fighting x2 | Retreat: 2 | 
@@ -432,6 +451,11 @@ Ability: Solar Transfer – As often as you like during your turn, you may move 
 of your Pokémon to another of your Pokémon. | type: grass | Evolves to: None | Evolves from: Ivysaur | Status: 
 stage2 |
 
+Mega Zeraora EX (x1) – HP 270 | Attacks: Thunderous Fist [L] (60x) This attack does 60 damage for each [L]
+Energy attached to this Pokémon., Zepto Turn [L][L][L] (150) Switch this Pokémon with 1 of your Benched
+Pokémon. | Weakness: Fighting x2 | Retreat: 1 | Ability: None. | Resistance: none | type: lightning | Evolves
+to: None | Evolves from: None | Status: Basic |
+
 Meganium (x2) – HP 160 | Attacks: Solar Beam [G][G][C][C] (140) | Weakness: Fire x2 | Retreat: 2 | Ability: Wild 
 Growth – Each [G] Energy attached to all of your Pokémon provides [G][G] Energy. The effect of Wild Growth 
 doesn't stack. | type: grass | Evolves to: None | Evolves from: Bayleef | Status: stage2 |
@@ -446,6 +470,11 @@ Fighting x2 | Retreat: 1 | Ability: Photon Cord – If this Pokémon is in the A
 damage from an attack from your opponent's Pokémon, move up to 2 Basic [L] Energy cards from this Pokémon to 1
 of your Benched Pokémon. | Resistance: none | type: lightning | Evolves to: None | Evolves from: None | Status:
 Basic |
+
+Morpeko EX (x3) – HP 180 | Attacks: Wheely Draw [D] Shuffle your hand into your deck. Then, draw 6 cards.,
+Hangry Blaster [D][D] (40+) This attack does 40 more damage for each damage counter on this Pokémon. |
+Weakness: Grass x2 | Retreat: 1 | Ability: None. | Resistance: none | type: darkness | Evolves to: None |
+Evolves from: None | Status: Basic |
 
 Munkidori (x3) – HP 110 | Attacks: Mind Bend [P][C] (60) Your opponent's active pokemon is now confused| 
 Weakness: Darkness x2 | Retreat: 1 | Ability: 
@@ -590,6 +619,10 @@ None | Status: Basic |
 Riolu (x4) – HP 80 | Attacks: Accelerating Stab [F] (30)During your next turn, this Pokémon cant use 
 Accelerating Stab. | Weakness: Psychic x2 | Retreat: 1 | Ability: None. | type: fighting | Evolves to: Lucario / 
 Mega Lucario EX | Evolves from: None | Status: Basic |
+
+Rowlet (x1) – HP 80 | Attacks: Find a Friend [G] Search your deck for a Pokémon, reveal it, and put it into your
+hand. Then, shuffle your deck., Tackle [C][C][C] (30) | Weakness: Fire x2 | Retreat: 2 | Ability: None. |
+Resistance: none | type: grass | Evolves to: Dartrix | Evolves from: None | Status: Basic |
 
 Sableye (x1) – HP 80 | Attacks: Cackly Claw [D] (20+)If you have any Stage 2 dark Pokémon on your Bench, this 
 attack does 70 more damage.| Weakness: Grass x2 | Retreat: 1 | Ability: None. | type: darkness | Evolves to: 
