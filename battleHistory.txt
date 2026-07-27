@@ -147,3 +147,101 @@ LEARNINGS: Three Beldum plus repeated Metallic Signal creates exceptional redund
 Ball use when the Evolution pieces are already secured, and recognise the immediate win when the opponent has
 no Benched Pokémon.
 RATING: 9/10 execution; limited matchup evidence because the opponent took no meaningful action
+
+MATCH #16 | RESULT: LOSS | OPPONENT DECK: Mega Sharpedo EX / Mega Gengar EX
+DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 0-4 | TIME: Not provided
+KEY MOMENTS: Had two Beldum, two Rare Candy and two Steven's Metagross ex available, but evolved both Beldum
+into Metang instead of using Rare Candy to establish two Metagross immediately. Boss's Orders brought Haunter
+Active without an attack prepared; Pecharunt then moved Mega Sharpedo ex back Active, allowing Haunter to
+retreat safely and evolve into Mega Gengar ex. Mega Sharpedo ex knocked out Lillie's Clefairy ex, then survived
+Metal Stomp with 200 damage and used Hungry Jaws for 310 to knock out Steven's Metagross ex. Battle Cage
+protected the Bench from Munkidori, and a replacement Metagross eventually knocked out Mega Sharpedo ex for
+2 Prizes, but Mega Gengar ex, Seviper and the opponent's remaining board closed the game 6 Prizes to 2.
+MVP CARD: Mega Sharpedo EX (converted the 200 damage from Metal Stomp into a 310-damage return knockout)
+LEARNINGS: Before evolving Beldum into Metang, always check whether Rare Candy creates an immediate Metagross,
+X-Boot activation and attack. In this match, double Rare Candy into two Metagross could have powered an attack
+on Haunter, removed the Mega Gengar evolution route and prevented Clefairy from giving up the first 2 Prizes.
+Avoid using Boss's Orders without a prepared attack, and do not place X-Boot Energy on Genesect when an Active
+or replacement attacker needs it.
+RATING: 4.5/10 (the missed double-Rare Candy turn gave away decisive tempo)
+
+MATCH #17 | RESULT: WIN | OPPONENT DECK: Mega Charizard Y EX / Reshiram / Oricorio EX
+DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 0-4 | TIME: Not provided
+KEY MOMENTS: Faced a difficult Fire matchup in which Reshiram exploited Steven's Metagross ex's Weakness and
+knocked it out for 480 damage. Energy Recycler restored three Energy, allowing Mega Skarmory ex to use Sonic
+Ripper for 220 and knock out Reshiram. Rare Candy then rebuilt the Metagross engine. Boss's Orders removed
+Charmeleon before it could evolve, and Skarmory later knocked out Oricorio ex for 2 Prizes. Judge reduced the
+opponent's 10-card hand to 4 before Mega Charizard Y ex became the main threat. The rebuilt Metagross supplied
+Energy from the Bench while Lillie's Clefairy ex attacked Mega Charizard Y ex twice for 220 damage, taking the
+final 2 Prizes.
+MVP CARD: Mega Skarmory EX (answered Reshiram immediately, recycled its Energy and removed Oricorio ex)
+LEARNINGS: Against Fire decks, keep Metagross on the Bench as the Energy engine whenever another attacker can
+take the risk. After losing Metagross, use Energy Recycler before X-Boot and rebuild the engine with Rare Candy.
+Clefairy can still be an effective attacker without exploiting Weakness when both Benches are full, and Judge
+is most valuable before the opponent can convert a very large hand into a decisive response.
+RATING: 9/10 (excellent recovery from a Weakness knockout and disciplined attacker rotation)
+
+MATCH #18 | RESULT: WIN | OPPONENT DECK: Mega Sharpedo EX / Toxtricity
+OPPONENT: fabioarduin | DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 0-1 | TIME: Not provided
+KEY MOMENTS: Genesect ex found the Metang and Metagross pieces needed to establish the first X-Boot engine,
+and Switch moved Metagross Active to knock out Toxtricity for the opening Prize. Mega Sharpedo ex then damaged
+Metagross for 270. Rather than abandoning the attack, a second Metagross was established and powered Mega
+Skarmory ex while the damaged Metagross used Metal Stomp for 200. Sharpedo knocked out that Metagross for
+2 Prizes, but Energy Recycler and X-Boot immediately powered Skarmory, whose Sonic Ripper finished Sharpedo
+for 3 Prizes and recycled four Energy. The opponent's second Mega Sharpedo ex knocked out Skarmory for
+3 Prizes, leaving the Prize race at 4-5. The surviving Metagross was promoted, Boss's Orders brought Pecharunt
+ex Active, and Metal Stomp took the exact final 2 Prizes before Sharpedo could attack again.
+MVP CARD: Boss's Orders (bypassed the second Mega Sharpedo ex and converted a one-turn window into the final
+2-Prize knockout)
+LEARNINGS: Against Mega Sharpedo ex, a damaged Metagross can be deliberately traded if a fully powered
+replacement attacker is already prepared to collect the 3-Prize knockout. Track the exact Prize map before
+attacking: after losing Skarmory, defeating the second Sharpedo was unnecessary because Boss's Orders could
+target a reachable 2-Prize Pokémon. Energy Recycler before X-Boot and Sonic Ripper preserved enough Energy to
+keep the replacement Metagross operational.
+RATING: 9/10 (excellent attacker preparation, calculated prize trading, and exact final gust)
+
+MATCH #19 | RESULT: WIN | OPPONENT DECK: Charmander / Fire
+OPPONENT: Filipadd02 | DECK USED: Steven's Metagross EX toolbox
+TURNS: 3 | PRIZE CARDS LEFT: 4-6 | TIME: Not provided
+KEY MOMENTS: Opened Mega Skarmory ex Active and used Buddy-Buddy Poffin to place two Steven's Beldum on the
+Bench. Precious Trolley then filled the remaining Bench spaces with Genesect ex, Latias ex and Lillie's
+Clefairy ex. Genesect's Metallic Signal found Steven's Metang and Steven's Metagross ex immediately. On the
+next turn, one Beldum evolved through Metang while Rare Candy evolved the other directly into Metagross.
+X-Boot completed the Active attacker, Latias allowed Mega Skarmory to retreat without discarding Energy, and
+Metal Stomp knocked out the first Charmander for 1 Prize. The following turn, the second Metagross came into
+play, two X-Boot uses expanded the powered board, and Metal Stomp knocked out the opponent's only remaining
+Charmander. With no Benched Pokémon available, the second knockout ended the game.
+MVP CARD: Steven's Metagross EX (entered play on turn two, accelerated its own Energy and took both knockouts)
+LEARNINGS: Poffin plus Precious Trolley can establish the entire engine immediately when the opening hand
+contains Beldum. Genesect converts the full setup into guaranteed evolution access, while Latias lets an
+opening Basic attacker such as Mega Skarmory step aside for free. When the opponent has no Benched Pokémon,
+prioritize the guaranteed knockout over additional setup; the final Lillie's Determination was harmless but
+unnecessary because Metal Stomp already ended the game.
+RATING: 9.5/10 (extremely fast engine setup, clean sequencing and two immediate knockouts)
+
+MATCH #20 | RANKED MATCH #1 | RESULT: WIN | OPPONENT DECK: Rampardos EX / Lunatone / Energy Disruption
+OPPONENT: Franjerezano | DECK USED: Steven's Metagross EX toolbox | MODE: Ranked
+TURNS: 12 | PRIZE CARDS LEFT: 1-2 (opponent conceded) | TIME: Not provided
+KEY MOMENTS: Opened Mega Mawile ex Active without Beldum, but Poké Pad found Beldum immediately. Precious
+Trolley then established Genesect ex, Latias ex and Lillie's Clefairy ex, while Metallic Signal supplied the
+Metang and Metagross pieces. Two Metagross were established on the same turn, and Boss's Orders removed
+Lunatone for the opening Prize, weakening the opponent's draw engine. Crushing Hammer, Rust Syndicate Grunt,
+Energy Swatter and repeated Destructive Headbutting continuously discarded Energy, but both X-Boot engines
+kept restoring the board. Clefairy dealt 200 to the first Rampardos ex and was deliberately traded; Metagross
+finished Rampardos for 2 Prizes. Energy Recycler returned five Energy, Boss's Orders trapped Fezandipiti ex,
+and Metagross took two attacks to collect another 2 Prizes. A second Rampardos ex eventually knocked out the
+damaged Metagross. With the score at 5-4, Latias was promoted safely, Meowth ex used Last-Ditch Catch to find
+Boss's Orders, and Cranidos was brought Active. The opponent conceded after Team Rocket's Petrel found another
+Energy Recycler, with the remaining Metagross engine and endgame control still intact.
+MVP CARD: Steven's Metagross EX (two X-Boot engines repeatedly overcame the opponent's dedicated Energy denial
+and sustained the deck through the longest battle so far)
+LEARNINGS: Against Energy-disruption decks, establishing two Metagross is the strongest defence because each
+X-Boot activation replaces discarded Energy. Use Energy Recycler before X-Boot whenever possible, remove the
+opponent's draw engine early, and preserve searchable gust effects for the endgame. Clefairy can be traded
+profitably when its 200 damage places a high-HP two-Prize attacker in Metal Stomp range. Meowth ex is especially
+valuable late, when Last-Ditch Catch can convert an open Bench slot into the Boss's Orders needed to control
+the final Prize race.
+RATING: 9/10 (patient resource management and strong recovery under sustained Energy denial)

@@ -1,0 +1,197 @@
+METAL POKÉMON I DO NOT OWN YET
+
+This list contains the Metal-type Pokémon card printings shown with a collection quantity of 0.
+Different printings of the same Pokémon are listed separately when their HP, attacks, Abilities, or set card differ.
+
+[C] = Colorless Energy
+[W] = Water Energy
+[L] = Lightning Energy
+[M] = Metal Energy
+
+Aegislash (x0) – HP 150 | Attacks: Slash [C][C][C] (80), Metal Slash [M][M][C][C] (230) During your next turn, this Pokémon can't attack. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Doublade | Status: stage2 |
+
+Aggron (x0) – HP 180 | Attacks: Angry Slam [M] (50+) This attack does 50 more damage for each damage counter on this Pokémon, Guard Claw [M][M][M] (120) During your opponent's next turn, this Pokémon takes 50 less damage from attacks. | Weakness: Fire x2 | Retreat: 4 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Lairon | Status: stage2 |
+
+Alolan Diglett (x0) – HP 50 | Attacks: Surprise Attack [M] (30) Flip a coin. If tails, this attack does nothing. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Alolan Dugtrio | Evolves from: None | Status: Basic |
+
+Alolan Dugtrio (x0) – HP 110 | Attacks: Trio-Cheehoo [M] (120) If you don't have exactly 3 cards in your hand, this attack does nothing. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Alolan Diglett | Status: stage1 |
+
+Archaludon (x0) – HP 180 | Attacks: Coated Attack [M][M][C] (120) During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Duraludon | Status: stage1 |
+
+Archaludon (x0) – HP 180 | Attacks: Iron Blaster [M][M][M] (160) During your next turn, this Pokémon can't attack. | Weakness: Fire x2 | Retreat: 3 | Ability: Metal Bridge – All of your Pokémon that have any Metal Energy attached have no Retreat Cost. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Duraludon | Status: stage1 |
+
+Archaludon EX (x0) – HP 300 | Attacks: Metal Defender [M][M][M] (220) During your opponent's next turn, this Pokémon has no Weakness. | Weakness: Fire x2 | Retreat: 3 | Ability: Assemble Alloy – When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Basic Metal Energy cards from your discard pile to your Metal Pokémon in any way you like. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Duraludon | Status: stage1 |
+
+Aron (x0) – HP 70 | Attacks: Double-Edge [M] (20) This Pokémon also does 10 damage to itself. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Lairon | Evolves from: None | Status: Basic |
+
+Beldum (x0) – HP 70 | Attacks: Headbutt [M] (10), Beam [M][M] (20) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Metang | Evolves from: None | Status: Basic |
+
+Beldum (x0) – HP 70 | Attacks: Dig Claws [M] (10), Iron Tackle [M][M][M] (50) This Pokémon also does 10 damage to itself. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Metang | Evolves from: None | Status: Basic |
+
+Bisharp (x0) – HP 120 | Attacks: Rapid Draw [C] (50) Draw 2 cards. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Kingambit | Evolves from: Pawniard | Status: stage1 |
+
+Bisharp (x0) – HP 120 | Attacks: Cut Up [M] (40), Finishing Blow [M][M] (60+) If your opponent's Active Pokémon already has any damage counters on it, this attack does 60 more damage. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Kingambit | Evolves from: Pawniard | Status: stage1 |
+
+Bronzong (x0) – HP 140 | Attacks: Triple Draw [C] Draw 3 cards, Tool Drop [M][C] (40x) This attack does 40 damage for each Pokémon Tool attached to all Pokémon in play. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Bronzor | Status: stage1 |
+
+Bronzong (x0) – HP 130 | Attacks: Spinning Attack [M] (50), Double Impact [M][M][M] (100x) Flip 2 coins. This attack does 100 damage for each heads. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Bronzor | Status: stage1 |
+
+Bronzor (x0) – HP 80 | Attacks: Iron Defense [C] Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks, Rollout [M][C][C] (30) | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Bronzong | Evolves from: None | Status: Basic |
+
+Bronzor (x0) – HP 60 | Attacks: Shield Attack [M] (20+) Flip a coin. If heads, this attack does 20 more damage. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Bronzong | Evolves from: None | Status: Basic |
+
+Cobalion (x0) – HP 120 | Attacks: Righteous Edge [M] (20) Discard a Special Energy from your opponent's Active Pokémon, Metal Arms [M][M][C] (80+) If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Cobalion EX (x0) – HP 210 | Attacks: Power Tackle [M][M][C] (200) During your next turn, this Pokémon can't attack. | Weakness: Fire x2 | Retreat: 2 | Ability: Metal Road – Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may move any amount of Energy from your other Pokémon to this Pokémon. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Copperajah (x0) – HP 200 | Attacks: Nasal Lariat [M][M][M][M] (130+) You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack. | Weakness: Fire x2 | Retreat: 4 | Ability: Massive Body – As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Cufant | Status: stage1 |
+
+Copperajah (x0) – HP 190 | Attacks: Ram [M][M] (100), Mega Impact [M][M][M][M] (160) | Weakness: Fire x2 | Retreat: 4 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Cufant | Status: stage1 |
+
+Cufant (x0) – HP 100 | Attacks: Tackle [M][M] (30), Confront [M][M][M] (70) | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Copperajah | Evolves from: None | Status: Basic |
+
+Cufant (x0) – HP 100 | Attacks: Rollout [M][M][M] (80) | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Copperajah | Evolves from: None | Status: Basic |
+
+Dialga (x0) – HP 140 | Attacks: Beam [M] (30), Chrono Burst [M][M][C] (80+) You may shuffle all Energy attached to this Pokémon into your deck and have this attack do 80 more damage. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Dialga EX (x0) – HP 220 | Attacks: Time Bellow [M] (20) Draw 3 cards, Metal Blast [M][M] (100+) This attack does 20 more damage for each Metal Energy attached to this Pokémon. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Doublade (x0) – HP 100 | Attacks: Weaponized Swords [M][C] (60x) Reveal any number of Honedge, Doublade, and Aegislash cards from your hand. This attack does 60 damage for each card you revealed in this way. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Aegislash | Evolves from: Honedge | Status: stage1 |
+
+Duraludon (x0) – HP 130 | Attacks: Hyper Beam [M][M][C] (70) Discard an Energy from your opponent's Active Pokémon. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Archaludon / Archaludon EX | Evolves from: None | Status: Basic |
+
+Duraludon (x0) – HP 130 | Attacks: Hammer In [M] (30), Raging Hammer [M][M][M] (80+) This attack does 10 more damage for each damage counter on this Pokémon. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Archaludon / Archaludon EX | Evolves from: None | Status: Basic |
+
+Duraludon (x0) – HP 130 | Attacks: Confront [M][M] (50), Duralubeam [M][M][M] (130) Discard 2 Energy from this Pokémon. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Archaludon / Archaludon EX | Evolves from: None | Status: Basic |
+
+Durant (x0) – HP 110 | Attacks: Bite Together [M] (20+) If Durant is on your Bench, this attack does 20 more damage for each of those Pokémon, Vise Grip [M][M] (50) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Empoleon EX (x0) – HP 320 | Attacks: Iron Feathers [W][M] (210) During your opponent's next turn, this Pokémon takes 60 less damage from attacks. | Weakness: Fire x2 | Retreat: 2 | Ability: Emperor's Stance – Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. Damage is not an effect. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Prinplup | Status: stage2 |
+
+Escavalier (x0) – HP 130 | Attacks: Wild Lances [M][M] (90) This Pokémon also does 10 damage to itself. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Karrablast | Status: stage1 |
+
+Ferroseed (x0) – HP 70 | Attacks: Rolling Tackle [M][M] (40) | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Ferrothorn | Evolves from: None | Status: Basic |
+
+Ferroseed (x0) – HP 70 | Attacks: Zzzt [M] (10), Metal Claw [M][M][M] (40) | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Ferrothorn | Evolves from: None | Status: Basic |
+
+Ferrothorn (x0) – HP 130 | Attacks: Special Whip [M][C] (70+) If this Pokémon has any Special Energy attached, this attack does 70 more damage. | Weakness: Fire x2 | Retreat: 3 | Ability: Startling Drop – During your opponent's turn, if this Pokémon is discarded from your deck by an effect of your opponent's attack, Ability, Item, or Supporter, put 4 damage counters on 1 of your opponent's Pokémon. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Ferroseed | Status: stage1 |
+
+Ferrothorn (x0) – HP 140 | Attacks: Power Whip [M] This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to this Pokémon, Metal Claw [M][M][M] (130) | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Ferroseed | Status: stage1 |
+
+Forretress (x0) – HP 130 | Attacks: Spike Cannon [M] (30x) Flip 3 coins. This attack does 30 damage for each heads, Steel Tackle [M][M] (130) This Pokémon also does 40 damage to itself. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Pineco | Status: stage1 |
+
+Galarian Stunfisk (x0) – HP 100 | Attacks: Mud-Slap [M][M] (40), Bounding Bite [M][M][M] (100) This Pokémon also does 30 damage to itself. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Genesect (x0) – HP 110 | Attacks: Magnetic Blast [M][M][M] (100) | Weakness: Fire x2 | Retreat: 2 | Ability: ACE Nullifier – If this Pokémon has a Pokémon Tool attached, your opponent can't play any ACE SPEC cards from their hand. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Gholdengo (x0) – HP 130 | Attacks: All-You-Can-Grab [C] Flip a coin until you get tails. Search your deck for a number of cards up to the number of heads and put them into your hand, Speed Attack [M][M][C] (100) | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Gimmighoul | Status: stage1 |
+
+Gholdengo (x0) – HP 130 | Attacks: Strike It Rich [M] (30+) If this Pokémon evolved from Gimmighoul during this turn, this attack does 90 more damage, Surf Back [M][M][M] (100) Shuffle this Pokémon and all attached cards into your deck. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Gimmighoul | Status: stage1 |
+
+Heatran (x0) – HP 140 | Attacks: Steel Burst [M][M] (50x) Discard all Metal Energy from this Pokémon. This attack does 50 damage for each card discarded in this way. | Weakness: Fire x2 | Retreat: 4 | Ability: Incandescent Body – If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now Burned. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Honedge (x0) – HP 70 | Attacks: Cut [M] (10) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Doublade | Evolves from: None | Status: Basic |
+
+Hop's Corviknight (x0) – HP 170 | Attacks: Shoot Through [M] (50) This attack also does 50 damage to 1 of your opponent's Benched Pokémon, Steel Wing [M][M][M] (150) During your opponent's next turn, this Pokémon takes 60 less damage from attacks. | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30 | type: metal | Evolves to: None | Evolves from: Hop's Corvisquire | Status: stage2 |
+
+Hop's Zacian EX (x0) – HP 230 | Attacks: Insta-Strike [M] (30) This attack also does 30 damage to 1 of your opponent's Benched Pokémon, Brave Slash [M][M][M] (240) During your next turn, this Pokémon can't use Brave Slash. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Iron Crown (x0) – HP 130 | Attacks: Deleting Slash [M][M] (40+) If your opponent has 3 or more Benched Pokémon, this attack does 80 more damage, Slicing Blade [M][M][M] (100) | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Iron Treads (x0) – HP 130 | Attacks: Wheel Pass [M][M][M] Move an Energy from this Pokémon to 1 of your Benched Pokémon. | Weakness: Fire x2 | Retreat: 4 | Ability: Dual Core – As long as this Pokémon has a Future Booster Energy Capsule attached, it is Grass and Metal type. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Jirachi (x0) – HP 80 | Attacks: Swelling Wish [C] Attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon, Slap [M][C] (30) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Kingambit (x0) – HP 170 | Attacks: Double-Edged Slash [M][M] (180) This Pokémon also does 50 damage to itself. | Weakness: Fire x2 | Retreat: 3 | Ability: Supreme Overlord – Attacks used by this Pokémon do 30 more damage for each Prize card your opponent has taken. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Bisharp | Status: stage2 |
+
+Klang (x0) – HP 90 | Attacks: Iron Tackle [M][M] (60) This Pokémon also does 20 damage to itself. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Klinklang | Evolves from: Klink | Status: stage1 |
+
+Klang (x0) – HP 90 | Attacks: Hard Gears [M][M] (50) During your opponent's next turn, this Pokémon takes 20 less damage from attacks. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Klinklang | Evolves from: Klink | Status: stage1 |
+
+Klefki (x0) – HP 70 | Attacks: Memory Lock [M] (30) Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Klefki (x0) – HP 70 | Attacks: Stick 'n' Draw [M] Discard a card from your hand. If you do, draw 2 cards, Hook [M] (20) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Klink (x0) – HP 60 | Attacks: Allure [C] Draw a card, Beam [M][M] (20) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Klang | Evolves from: None | Status: Basic |
+
+Klink (x0) – HP 60 | Attacks: Hard Gears [M] (10) During your opponent's next turn, this Pokémon takes 10 less damage from attacks. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Klang | Evolves from: None | Status: Basic |
+
+Klinklang (x0) – HP 140 | Attacks: Hyper Ray [M][M][M] (130) Discard all Energy from this Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: Emergency Rotation – Once during your turn, if this Pokémon is in your hand and your opponent has any Stage 2 Pokémon in play, you may put this Pokémon onto your Bench. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Klang | Status: stage2 |
+
+Klinklang (x0) – HP 150 | Attacks: Hammer In [M][M][M] (120) | Weakness: Fire x2 | Retreat: 3 | Ability: Gear Coating – All of your Metal Pokémon that have any Energy attached take 20 less damage from attacks. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Klang | Status: stage2 |
+
+Lairon (x0) – HP 110 | Attacks: Steel Tackle [M] (40) This Pokémon also does 20 damage to itself, Metal Claw [M][M][M] (60) | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Aggron | Evolves from: Aron | Status: stage1 |
+
+Magearna (x0) – HP 90 | Attacks: Spike Draw [M] (20) Draw 2 cards. | Weakness: Fire x2 | Retreat: 1 | Ability: Auto Heal – As long as this Pokémon is in the Active Spot, whenever you attach an Energy card from your hand to 1 of your Pokémon, heal 90 damage from that Pokémon. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Mawile (x0) – HP 90 | Attacks: Call for Family [C] Search your deck for up to 2 Basic Pokémon and put them onto your Bench, Bite [M][M][C] (90) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Mawile (x0) – HP 90 | Attacks: Invite and Strike [M] Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 50 damage to the new Active Pokémon, Sharp Fang [M][M][C] (100) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Melmetal (x0) – HP 160 | Attacks: Hammer In [M][M][M] (120), Iron Bash [M][M][M][M][M] (230) | Weakness: Fire x2 | Retreat: 4 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Meltan | Status: stage1 |
+
+Melmetal (x0) – HP 160 | Attacks: Wrack Down [M][M] (50), Reforged Axe [M][M][M] (250) Before doing damage, discard 2 Pokémon Tools from this Pokémon. If you can't discard any, this attack does nothing. | Weakness: Fire x2 | Retreat: 4 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Meltan | Status: stage1 |
+
+Melmetal EX (x0) – HP 280 | Attacks: Iron Swing [M][M] (100x) Flip 2 coins. This attack does 100 damage for each heads. | Weakness: Fire x2 | Retreat: 4 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Meltan | Status: stage1 |
+
+Meltan (x0) – HP 80 | Attacks: Headbutt [M][M] (50) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Melmetal / Melmetal EX | Evolves from: None | Status: Basic |
+
+Meltan (x0) – HP 60 | Attacks: Stampede [M] (10), Beam [M][M][M] (40) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Melmetal / Melmetal EX | Evolves from: None | Status: Basic |
+
+Meltan (x0) – HP 70 | Attacks: Knickknack Carrying [M] Search your deck for a Pokémon Tool card, reveal it, and put it into your hand, Ram [M][M] (30) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Melmetal / Melmetal EX | Evolves from: None | Status: Basic |
+
+Metagross (x0) – HP 180 | Attacks: Bounce Back [M] (60) Switch out your opponent's Active Pokémon to the Bench, Metallic Hammer [M][M][M][C] (150+) You may discard 3 Metal Energy from this Pokémon and have this attack do 150 more damage. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Metang | Status: stage2 |
+
+Metagross (x0) – HP 180 | Attacks: Meteor Mash [M] (60) During your next turn, this Pokémon's Meteor Mash attack does 60 more damage, Luster Blast [M][M][M] (200) Discard 2 Energy from this Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Metang | Status: stage2 |
+
+Metang (x0) – HP 100 | Attacks: Metal Claw [M] (30), Guard Press [M][M] (70) During your opponent's next turn, this Pokémon takes 30 less damage from attacks. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Metagross | Evolves from: Beldum | Status: stage1 |
+
+Metang (x0) – HP 100 | Attacks: Beam [M][M][M] (60) | Weakness: Fire x2 | Retreat: 2 | Ability: Metal Maker – Once during your turn, look at the top 4 cards of your deck. You may attach any number of Basic Metal Energy cards you find there to your Pokémon in any way you like. Put the other cards on the bottom of your deck in any order. | Resistance: Grass -30 | type: metal | Evolves to: Metagross | Evolves from: Beldum | Status: stage1 |
+
+N's Klang (x0) – HP 90 | Attacks: Spinning Gears [M] (20) Your opponent's Active Pokémon is now Confused, Confront [M][M] (40) | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: N's Klinklang | Evolves from: N's Klink | Status: stage1 |
+
+N's Klinklang (x0) – HP 160 | Attacks: Magnetic Blast [M] (50), Triple Smash [M][M][M] (120x) Flip 3 coins. This attack does 120 damage for each heads. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: N's Klang | Status: stage2 |
+
+Orthworm EX (x0) – HP 220 | Attacks: Rock Tomb [M][C][C] (150) During your opponent's next turn, the Defending Pokémon can't retreat. | Weakness: Fire x2 | Retreat: 4 | Ability: Pummeling Payback – If this Pokémon is damaged by an attack from your opponent's Pokémon, put 2 damage counters on the Attacking Pokémon for each Metal Energy attached to this Pokémon. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Pawniard (x0) – HP 70 | Attacks: Push Down [M] (10) Switch out your opponent's Active Pokémon to the Bench. Your opponent chooses the new Active Pokémon. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Bisharp | Evolves from: None | Status: Basic |
+
+Pawniard (x0) – HP 60 | Attacks: Corner [M] (10) During your opponent's next turn, the Defending Pokémon can't retreat. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Bisharp | Evolves from: None | Status: Basic |
+
+Registeel (x0) – HP 130 | Attacks: Raging Hammer [M][M] (60+) This attack does 10 more damage for each damage counter on this Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Registeel EX (x0) – HP 230 | Attacks: Regi Charge [C] Attach up to 3 Basic Metal Energy cards from your discard pile to this Pokémon, Protecting Steel [M][M][M] (140) During your opponent's next turn, this Pokémon takes 50 less damage from attacks from Pokémon ex. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Revavroom (x0) – HP 140 | Attacks: Rally Back [C] (30+) If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 90 more damage, Running Charge [M][M] (100x) Flip a coin until you get tails. This attack does 100 damage for each heads. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Varoom | Status: stage1 |
+
+Revavroom (x0) – HP 150 | Attacks: Outta-Control Dash [M][M][M] (100) | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Varoom | Status: stage1 |
+
+Scizor EX (x0) – HP 270 | Attacks: Steel Wing [M][C] (70) During your opponent's next turn, this Pokémon takes 50 less damage from attacks, Cross Breaker [M][M] (120x) Discard up to 2 Forretress from your Bench. This attack does 120 damage for each card discarded in this way. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Scyther | Status: stage1 |
+
+Skarmory (x0) – HP 110 | Attacks: Roost [C] Heal 50 damage from this Pokémon. During your next turn, this Pokémon can't retreat, Metal Claw [M][M] (60) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Skarmory (x0) – HP 120 | Attacks: Cutting Wind [M] (30), Big Storm [M][M] (90) Discard a Stadium in play. | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Skarmory (x0) – HP 110 | Attacks: Steel Wing [M][C] (50) During your opponent's next turn, this Pokémon takes 20 less damage from attacks. | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Steelix (x0) – HP 200 | Attacks: Welcoming Tail [C][C] (40+) If you have exactly 6 Prize cards remaining, this attack does 200 more damage, Skull Bash [M][M][M][C] (140) | Weakness: Fire x2 | Retreat: 4 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Onix | Status: stage1 |
+
+Steven's Skarmory (x0) – HP 120 | Attacks: Razor Wing [M][M] (30), Sonic Double [M][M][M] This attack does 50 damage to 2 of your opponent's Pokémon. | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Tinkatink (x0) – HP 70 | Attacks: Beat [M] (20) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Tinkatuff | Evolves from: None | Status: Basic |
+
+Tinkaton (x0) – HP 160 | Attacks: Windup Swing [M] (240-) This attack does 60 less damage for each Energy attached to your opponent's Active Pokémon. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Tinkatuff | Status: stage2 |
+
+Tinkatuff (x0) – HP 90 | Attacks: Light Punch [M] (30) | Weakness: Fire x2 | Retreat: 2 | Ability: Haphazard Hammer – Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, discard an Energy from your opponent's Active Pokémon. | Resistance: Grass -30 | type: metal | Evolves to: Tinkaton | Evolves from: Tinkatink | Status: stage1 |
+
+Togedemaru (x0) – HP 80 | Attacks: Find a Friend [M] Search your deck for a Pokémon, reveal it, and put it into your hand, Gnaw [M][M] (30) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Togedemaru EX (x0) – HP 190 | Attacks: Stun Needle [L] (20) Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed, Spiky Rolling [M][C][C] (80+) If this Pokémon used Spiky Rolling during your last turn, this attack does 100 more damage. | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Varoom (x0) – HP 70 | Attacks: Metal Coating [M] Attach a Basic Metal Energy card from your discard pile to this Pokémon, Ram [M][M][M] (50) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Revavroom | Evolves from: None | Status: Basic |
+
+Varoom (x0) – HP 80 | Attacks: Ram [M][M] (30) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: Revavroom | Evolves from: None | Status: Basic |
+
+Zacian EX (x0) – HP 220 | Attacks: Steel Armament [M] (20) Search your deck for a Basic Metal Energy card and attach it to this Pokémon, Slashing Strike [M][M][M] (210) During your next turn, this Pokémon can't use Slashing Strike. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
+
+Zamazenta (x0) – HP 130 | Attacks: Strong Bash [M][C] (70) During your opponent's next turn, if this Pokémon is damaged by an attack, put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
