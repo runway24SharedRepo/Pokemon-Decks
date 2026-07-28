@@ -8,14 +8,14 @@ Effect: The Retreat Cost of the Pokémon this card is attached to is Colorless C
 Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
 doesn't already have a Pokémon Tool attached.
 
-Antique Armor fossil (item) - x4 HP60
+Antique Armor fossil (item) - x6 HP60
 Effect: play this card as if it were a 60HP basic pokemon. This card can't be any special conditions and can't 
 retreat. At any time during your turn, you may discard this card from play.
 Ability: Protective Armor: As long as this Pokémon is in the Active Spot, all Of your Pokémon take IO less 
 damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance).
 
 
-Antique skull fossil (item) - x3 HP60
+Antique skull fossil (item) - x4 HP60
 Effect: play this card as if it were a 60HP basic pokemon. This card can't be any special conditions and can't 
 retreat. At any time during your turn, you may discard this card from play.
 Ability: Spiny skull | If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's 
@@ -27,7 +27,7 @@ Effect: Each player who has any Tera Pokémon in play can have up to 8 Pokémon 
 Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
 discard it if another Stadium comes into play. A Stadium with the same name can't be played.
 
-Backtrack Badge - pokemon tool - x6
+Backtrack Badge - pokemon tool - x8
 Effect: once during your turn, after you flip any coins for an attack of the colorless pokemon this card is 
 attached to, you may ignore all results of those coin flips and begin flipping those coins again
 Bottom card details: You may attach any number of pokemon tools to your pokemon during your turn. You may attach 
@@ -49,9 +49,13 @@ Effect: Attacks used by the Pokémon this card is attached to do 30 more damage 
 Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
 doesn't already have a Pokémon Tool attached.
 
-Boss's Orders (Supporter) – x6
+Boss's Orders (Supporter) – x7
 Effect: Switch in 1 of your opponent's Benched Pokémon to the Active Spot.
 Bottom Crd Details: You may play only 1 Supporter card during your turn.
+
+Brosk's Scouting (Supporter) - x1
+Search your deck for up to 2 basic pokemon or 1 evolution pokemon, reveal them, and put them into your hand.
+Then shuffle your deck.
 
 Buddy-Buddy Poffin (Item) – x4
 Effect: Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, 
@@ -95,17 +99,16 @@ Dangerous Laser (Item) – x1 ACE SPEC
 Effect: Your opponent's Active Pokémon is now Burned and Confused.
 Bottom Card Details: You may play any number of Item cards during your turn.
 
-Dark Bell (Item) - x7
+Dark Bell (Item) - x9
 Effect: both active non dark pokemon are now confused.
 Bottom card details: you may play any number of item cards during your turn.
-
 
 Dawn (Supporter) – x2
 Effect: Search your deck for a Basic Pokémon, a Stage 1 Pokémon, and a Stage 2 Pokémon, reveal them, and put 
 them into your hand. Then, shuffle your deck.
 Bottom Card Details: You may play only 1 Supporter card during your turn.
 
-Energy Recycler (Item) – x2
+Energy Recycler (Item) – x3
 Effect: Shuffle up to 5 Basic Energy cards from your discard pile into your deck.
 Bottom Card Details: You may play any number of Item cards during your turn.
 
@@ -139,7 +142,7 @@ except during their first turn.
 Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
 discard it if another Stadium comes into play. A Stadium with the same name can't be played.
 
-Fossil Quarry - (stadium) - x1
+Fossil Quarry - (stadium) - x4
 Once during each player's turn, that player may search their decl for up to 2 items cards that have "Antique" in 
 their name and put them onto their bench. Then, that player shuffles their deck.
 
@@ -149,7 +152,7 @@ opponent's Pokémon (after applying Weakness and Resistance).
 Bottom Card Details: You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and 
 discard it if another Stadium comes into play. A Stadium with the same name can't be played.
 
-Gladion's final battle (supporter) - x7
+Gladion's final battle (supporter) - x9
 Effect: you can use this card only when it is the last card in your hand.
 During this turn, attacks used by your pokemon that don't have a Rule Box do 80 more damage to your opponent's 
 active pokemon (before applying weakness and resistance). (Pokemon EX, pokemon V etc. have rule box).
@@ -177,6 +180,10 @@ Effect: Look at the top 7 cards of your deck and put a Pokémon from among them 
 other cards into your deck. You can't use this card during your first turn.
 Bottom Card Details: You may play only 1 Supporter card during your turn.
 
+Gwynn (Supporter) - x2
+Discard up to 2 pokemon that don't have a Rule box from your hand, and draw for each card you discarded in this way.
+(Pokemon EX, pokemon V etc. have rule boxes).
+
 Hero's Cape (Pokémon Tool) – x1 ACE SPEC
 Effect: The Pokémon this card is attached to gets +100 HP.
 Bottom Card Details: You may play only 1 Pokémon Tool card during your turn. Attach it to 1 of your Pokémon that 
@@ -202,7 +209,7 @@ Effect: Choose up to 2 of your Poisoned Pokémon. For each of those Pokémon, se
 card and attach it to that Pokémon. Then, shuffle your deck.
 Bottom Card Details: You may play only 1 Supporter card during your turn.
 
-Jett (Supporter) - x1
+Jett (Supporter) - x2
 Draw a card for each of your opponent's Mega evolution pokemon EX in play.
 
 Judge (Supporter) – x2
@@ -245,7 +252,7 @@ Effect: Search your deck for a Mega Evolution Pokémon ex, reveal it, and put it
 your deck.
 Bottom Card Details: You may play any number of Item cards during your turn.
 
-Misty's vitality (Supporter) -x4
+Misty's vitality (Supporter) -x6
 Effect:Search your deck for up to 4 basic water energy cards and attach them to 1 of your pokemon. Then, shuffle 
 your 
 deck. Your turn ends.
@@ -363,7 +370,7 @@ Tera Orb (Item) – x1
 Effect: Search your deck for a Tera Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
 Bottom Card Details: You may play any number of Item cards during your turn.
 
-Tremendous Bomb (pokemon tool) x6
+Tremendous Bomb (pokemon tool) x7
 Effect: If the Pokémon this card is attached to isn't a Mega Evolution Pokémon ex, is in the Active Spot, and 
 takes 240 or more damage from an attack from your opponent's Mega Evolution ex Pokémon (even if this Pokémon is 
 Knocked Out), place 1 2 damage counters on the Attacking Pokémon. If you placed any damage counters in this way, 
