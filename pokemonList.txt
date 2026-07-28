@@ -123,6 +123,11 @@ Charmander | Status: stage1 |
 Chikorita (x2) – HP 70 | Attacks: Razor Leaf [G] (20) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | type: 
 grass | Evolves to: Bayleef | Evolves from: None | Status: Basic |
 
+Chi-Yu (x1) - HP 90 | Attacks: Whirling Envy [D] (20+) If this Pokemon has 2 or more damage counters on it, 
+this attack does 90 more damage. This attack's damage isn't affected by Weakness.
+| Weakness: Grass x2 | Retreat: 1 | Ability: None. | type: grass | Evolves to:  | Evolves from: None |
+Status: Basic |
+
 Combusken (x1 HP 100) – HP 100 | Attacks: Combustion [C] (20), Double Kick [R][C] (40)x flip two
 coins. This attack does 40 damage foe each heads. | Weakness: Water x2 | Retreat: 2 | Ability: None. | type: 
 fire | Evolves to: Blaziken / Blaziken EX | Evolves from: Torchic | Status: stage1 |
