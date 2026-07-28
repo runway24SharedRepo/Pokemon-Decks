@@ -172,12 +172,12 @@ turn prevent all damage from and effects of attacks done to this pokemon | Weakn
 Ability: None. | type: colorless | Evolves to: Dudunsparce | Evolves from: None | Status: Basic |
 
 Dusclops (x2) – HP 90 | Attacks: Will-O-Wisp [P][P] (50) | Weakness: Darkness x2 | Retreat: 2 | Ability: Cursed 
-Blast – Once during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon. If you use this 
+Blast – Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this 
 Ability, this Pokémon is Knocked Out.|resistance -30 fighting | type: psychic | Evolves to: Dusknoir | Evolves 
 from: Duskull | Status: stage1 |
 
 Dusknoir (x2) – HP 160 | Attacks: Shadow Bind [P][P][C] (150) | Weakness: Darkness x2 | Retreat: 3 | Ability: 
-Cursed Blast – Once during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon. If you use 
+Cursed Blast – Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use 
 this Ability, this Pokémon is Knocked Out.|resistance -30 fighting | type: psychic | Evolves to: None | Evolves 
 from: Dusclops | Status: stage2 |
 
@@ -205,7 +205,7 @@ turn.|resistance -30 fighting | type: colorless | Evolves to: None | Evolves fro
 
 Fezandipiti EX (x2) – HP 210 | Attacks: Cruel Arrow [C][C][C] (90) | Weakness: Fighting x2 | Retreat: 1 | 
 Ability: Flip the Script – Once during your turn, if any of your Pokémon were Knocked Out during your opponent's 
-last turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. | type: 
+last turn, you may draw 3 cards. You can't use more than 1 Flip the script ability each turn.| type: 
 darkness | Evolves to: None | Evolves from: None | Status: Basic |
 
 Finizen (x2) – HP 80 | Attacks: Draining Fin [W][W] (20) Heal 20 damage from this Pokémon. | Weakness: Lightning 
@@ -466,9 +466,10 @@ Growth – Each [G] Energy attached to all of your Pokémon provides [G][G] Ener
 doesn't stack. | type: grass | Evolves to: None | Evolves from: Bayleef | Status: stage2 |
 
 Meowth EX (x2) – HP 170 | Attacks: Tackle Tail [C][C][C] (60) Put this pokemon and all attached cards into your 
-hand.| Weakness: Fighting x2 | Retreat: 1 | Ability:Last Ditch Catch – Once during your turn, if you have 4 or 
-fewer cards in your hand, you may search your deck for a Supporter card, reveal it, and put it into your hand. 
-Then, shuffle your deck. | type: colorless | Evolves to: Persian | Evolves from: None | Status: Basic |
+hand.| Weakness: Fighting x2 | Retreat: 1 | Ability:Last Ditch Catch – Once during your turn, when you play this
+pokemon from your hand onto your Bench, you may use this Ability. Search your deck for a supporter card, reveale 
+it,and put it into your hand. Then, shuffle your deck. You can't use more than 1 Ability that has
+"Last-Ditch" in its name each turn.|Type: colorless | Evolves to: Persian | Evolves from: None | Status: Basic |
 
 Miraidon (x3) – HP 120 | Attacks: Thunder [L][L] (90) This Pokémon also does 30 damage to itself. | Weakness:
 Fighting x2 | Retreat: 1 | Ability: Photon Cord – If this Pokémon is in the Active Spot and is Knocked Out by
@@ -483,7 +484,7 @@ Evolves from: None | Status: Basic |
 
 Munkidori (x3) – HP 110 | Attacks: Mind Bend [P][C] (60) Your opponent's active pokemon is now confused| 
 Weakness: Darkness x2 | Retreat: 1 | Ability: 
-Adrena-Brain – Once during your turn, if this Pokémon has any [P] Energy attached to it, you may move 1 damage 
+Adrena-Brain – Once during your turn, if this Pokémon has any [D] Energy attached to it, you may move up to 3 damage 
 counter from 1 of your Pokémon to 1 of your opponent's Pokémon. |Resistance [F] x2 | type: psychic | Evolves to: 
 None | Evolves from: None | Status: Basic |
 
