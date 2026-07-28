@@ -50,12 +50,12 @@ Arven's Maschiff (x1) – HP 70 | Attacks: Stampede [C] (10), Confront [C][C] [C
 Retreat: 2 | Ability: None. | type: darkness | Evolves to: Arven's Mabosstiff EX | Evolves from: None | Status: 
 Basic |
 
-Banette (x1) – HP 80 | Attacks: Puppet Pull [P] (80) You may search your deck for a card and put it into your 
+Banette (x2) – HP 80 | Attacks: Puppet Pull [P] (80) You may search your deck for a card and put it into your 
 hand. Then, shuffle your deck. | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' Sneak – Prevent all 
 effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.) | 
 Resistance: Fighting -30 | type: psychic | Evolves to: None | Evolves from: Shuppet | Status: stage1 |
 
-Bastiodon (x7) – HP 160 | Attacks: Hammer In [M][M][C] (160) | Weakness: Fire x2 | Retreat: 4 | Ability: Ancient 
+Bastiodon (x9) – HP 160 | Attacks: Hammer In [M][M][C] (160) | Weakness: Fire x2 | Retreat: 4 | Ability: Ancient 
 Bulwark – As long as this Pokémon is on your Bench, prevent all damage done to each of your Pokémon by attacks 
 from your opponent's Pokémon that have 2 or less Energy attached. | Resistance: Grass -30 | type: metal | 
 Evolves to: None | Evolves from: Shieldon | Status: stage2 |
@@ -83,10 +83,10 @@ Prison Panic – Once during your turn, when you play this Pokémon from your ha
 may make your opponent's Active Pokémon Confused. | type: psychic | Evolves to: None | Evolves from: Bramblin | 
 Status: stage1 |
 
-Brionne (x2) – HP 90 | Attacks: Hyper Voice [W] (40) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | 
+Brionne (x5) – HP 90 | Attacks: Hyper Voice [W] (40) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | 
 type: water | Evolves to: Primarina | Evolves from: Popplio | Status: stage1 |
 
-Bronzong (x3) – HP 130 | Attacks: Gentle Slap [M] (40), Metal Block [M][M][C] (120) During your opponent's next 
+Bronzong (x6) – HP 130 | Attacks: Gentle Slap [M] (40), Metal Block [M][M][C] (120) During your opponent's next 
 turn, this Pokémon takes 100 less damage from attacks from Evolution Pokémon (after applying Weakness and 
 Resistance). | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves 
 to: None | Evolves from: Bronzor | Status: stage1 |
@@ -105,11 +105,11 @@ Centiskorch (x4) – HP 140 | Attacks: Controlled Burn [R] Discard the top 2 car
 Tackle [R][C][C][C] (160) This Pokémon also does 30 damage to itself. | Weakness: Water x2 | Retreat: 3 | 
 Ability: None. | type: fire | Evolves to: None | Evolves from: Sizzlipede | Status: stage1 |
 
-Charcadet (x2) – HP 80 | Attacks: Best Punch [R] (40) Flip a coin. If tails, this attack does nothing. | 
+Charcadet (x3) – HP 80 | Attacks: Best Punch [R] (40) Flip a coin. If tails, this attack does nothing. | 
 Weakness: Water x2 | Retreat: 2 | Ability: None. | type: fire | Evolves to: Armarouge / Ceruledge | Evolves 
 from: None | Status: Basic |
 
-Charjabug (x6) – HP 100 | Attacks: Vise Grip [L] (30), Ram [L][L] (50) | Weakness: Fighting x2 | Retreat: 2 | 
+Charjabug (x7) – HP 100 | Attacks: Vise Grip [L] (30), Ram [L][L] (50) | Weakness: Fighting x2 | Retreat: 2 | 
 Ability: None. | type: lightning | Evolves to: Vikavolt | Evolves from: Grubbin | Status: stage1 |
 
 Charmander (x4) – HP 80 | Attacks: Live Coal [R] (20) | Weakness: Water x2 | Retreat: 2 | Ability: Agile – If 
@@ -123,21 +123,21 @@ Charmander | Status: stage1 |
 Chikorita (x2) – HP 70 | Attacks: Razor Leaf [G] (20) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | type: 
 grass | Evolves to: Bayleef | Evolves from: None | Status: Basic |
 
-Combusken (x1 HP 90) – HP 90 | Attacks: Slash [R][C] (50) | Weakness: Water x2 | Retreat: 2 | Ability: None. | 
-type: fire | Evolves to: Blaziken / Blaziken EX | Evolves from: Torchic | Status: stage1 |
-
 Combusken (x1 HP 100) – HP 100 | Attacks: Combustion [C] (20), Double Kick [R][C] (40)x flip two
 coins. This attack does 40 damage foe each heads. | Weakness: Water x2 | Retreat: 2 | Ability: None. | type: 
 fire | Evolves to: Blaziken / Blaziken EX | Evolves from: Torchic | Status: stage1 |
 
-Cranidos (x4) – HP 100 | Attacks: Push Down [F][F] (70) Switch out your opponent's Active Pokémon to the Bench. 
+Combusken (x1 HP 100) – HP 100 | Attacks: Slash [R][C] (50) | Weakness: Water x2 | Retreat: 2 | Ability: None. | 
+type: fire | Evolves to: Blaziken / Blaziken EX | Evolves from: Torchic | Status: stage1 |
+
+Cranidos (x5) – HP 100 | Attacks: Push Down [F][F] (70) Switch out your opponent's Active Pokémon to the Bench. 
 (Your opponent chooses the new Active Pokémon.) | Weakness: Grass x2 | Retreat: 2 | Ability: None. | type: 
 fighting | Evolves to: Rampardos / Rampardos EX | Evolves from: Antique Skull Fossil | Status: stage1 |
 
 Deino (x4) – HP 70 | Attacks: Stomp Off [D], Bite [D][C] (20) | Weakness: Grass x2 | Retreat: 1 | Ability: None. 
 | type: darkness | Evolves to: Zweilous | Evolves from: None | Status: Basic |
 
-Dhelmise (x4) – HP 140 | Attacks: Vengeful Anchor [P] (30+) If you have 4 or more Pokémon that have the Hide 'n' 
+Dhelmise (x5) – HP 140 | Attacks: Vengeful Anchor [P] (30+) If you have 4 or more Pokémon that have the Hide 'n' 
 Sneak Ability in your discard pile, this attack does 140 more damage. | Weakness: Darkness x2 | Retreat: 3 | 
 Ability: None. | Resistance: Fighting -30 | type: psychic | Evolves to: None | Evolves from: None | Status: 
 Basic |
@@ -228,19 +228,19 @@ Frogadier (x1) – HP 90 | Attacks: Numbing Water [W] (20) | Weakness: Lightning
 Gastly (x1) – HP 70 | Attacks: Surprise Attack [D] (30) | Weakness: Fighting x2 | Retreat: 1 | Ability: None. | 
 type: darkness | Evolves to: Haunter | Evolves from: None | Status: Basic |
 
-Genesect EX (x1) – HP 220 | Attacks: Protect Charge [M][M][C] (150) | Weakness: Fire x2 | Retreat: 2 | Ability: 
+Genesect EX (x2) – HP 220 | Attacks: Protect Charge [M][M][C] (150) | Weakness: Fire x2 | Retreat: 2 | Ability: 
 Metallic Signal – Once during your turn, you may search your deck for up to 2 Evolution Pokémon, reveal them, 
 and put them into your hand. Then, shuffle your deck. |resistance -30 [G] | type: metal | Evolves to: None | 
 Evolves from: None | Status: Basic |
 
-Goldeen (x6) – HP 70 | Attacks: Pierce [C][C] (30) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
+Goldeen (x7) – HP 70 | Attacks: Pierce [C][C] (30) | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
 type: water | Evolves to: Seaking | Evolves from: None | Status: Basic |
 
 Greninja EX (x2) – HP 310 | Attacks: Shinobi Blade [W] (170), Mirage Barrage [W][C][C] (120) | Weakness: 
 Dark x2 | Retreat: 1 | Ability: None. | type: fighting | Evolves to: None | Evolves from: Frogadier | Status: 
 stage2 |
 
-Grubbin (x7) – HP 70 | Attacks: String Shot [C] (10) Flip a coin. If heads, your opponent's Active Pokémon is 
+Grubbin (x8) – HP 70 | Attacks: String Shot [C] (10) Flip a coin. If heads, your opponent's Active Pokémon is 
 now Paralyzed. | Weakness: Fire x2 | Retreat: 2 | Ability: None. | type: grass | Evolves to: Charjabug | Evolves 
 from: None | Status: Basic |
 
@@ -252,7 +252,7 @@ fighting | Evolves to: None | Evolves from: Makuhita | Status: stage1 |
 Haunter (x1) – HP 100 | Attacks: Spooky Shot [P] (40) | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | 
 type: darkness | Evolves to: Gengar / Mega Gengar EX | Evolves from: Gastly | Status: stage1 |
 
-Heatran (x4) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
+Heatran (x5) – HP 140 | Attacks: Singe [R] Your opponent's Active Pokémon is now Burned., Lava Wall [R][R][C] 
 (120) During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Burned Pokémon. 
 | Weakness: Water x2 | Retreat: 4 | Ability: None. | type: fire | Evolves to: None | Evolves from: None | 
 Status: Basic |
@@ -286,7 +286,7 @@ Jellicent EX (x2) – HP 270 | Attacks: Power Press [P][C] (80+) | Weakness: Dar
 Ability: Oceanic Curse – As long as this Pokémon is in the Active Spot, your opponent can't play any Item cards 
 from their hand. | type: psychic | Evolves to: None | Evolves from: Frillish | Status: stage1 |
 
-Jynx (x5) – HP 100 | Attacks: Intense Kiss [P] At the end of your opponent's next turn, discard the Defending 
+Jynx (x6) – HP 100 | Attacks: Intense Kiss [P] At the end of your opponent's next turn, discard the Defending 
 Pokémon and all attached cards., Psy Bolt [P][C] (50) Flip a coin. If heads, your opponent's Active Pokémon is 
 now Paralyzed. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: psychic 
 | Evolves to: None | Evolves from: None | Status: Basic |
@@ -309,7 +309,7 @@ each Benched Pokémon (both yours and your opponent's). | Weakness: Metal x2 | R
 The Weakness of each of your opponent's Dragon Pokémon in play is now Psychic. (Apply Weakness as x2.) |
 Resistance: none | type: psychic | Evolves to: None | Evolves from: None | Status: Basic |
 
-Litwick (x2) – HP 70 | Attacks: Will-O-Wisp [P] (20) | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | 
+Litwick (x3) – HP 70 | Attacks: Will-O-Wisp [P] (20) | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | 
 Resistance: Fighting -30 | type: psychic | Evolves to: Lampent | Evolves from: None | Status: Basic |
 
 Lokix (x1) – HP 120 | Attacks: Low Kick [G] (30), Jumping Shot [C][C][C] (150) | Weakness: Fire x2 | Retreat: 1 
@@ -328,7 +328,7 @@ attack does 200 more damage., Leaf Guard [G][C] (140) During your opponent's nex
 less damage from attacks (after applying Weakness and Resistance). | Weakness: Fire x2 | Retreat: 1 | Ability: 
 None. | type: grass | Evolves to: None | Evolves from: Fomantis | Status: stage1 |
 
-Mabosstiff (x4) – HP 140 | Attacks: Bite [D][D] (60), Plunging Headbutt [D][D][D] (210) During your opponent's 
+Mabosstiff (x5) – HP 140 | Attacks: Bite [D][D] (60), Plunging Headbutt [D][D][D] (210) During your opponent's 
 next turn, this Pokémon takes 100 more damage from attacks (after applying Weakness and Resistance). | Weakness: 
 Grass x2 | Retreat: 3 | Ability: None. | type: darkness | Evolves to: None | Evolves from: Maschiff | Status: 
 stage1 |
@@ -349,19 +349,19 @@ Pokémon that has any Special Energy attached. (Don't apply Weakness and Resista
 Blasting Wind [D][D][C] (120) | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30 
 | type: darkness | Evolves to: None | Evolves from: Vullaby | Status: stage1 |
 
-Manectric (x5) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
+Manectric (x7) – HP 120 | Attacks: Flashing Barrier [L][L] (50) During your opponent's next turn, prevent all 
 damage done to this Pokémon by attacks from Evolution Pokémon., Sonic Edge [L][L][L] (110) This attack's damage 
 isn't affected by any effects on your opponent's Active Pokémon. | Weakness: Fighting x2 | Retreat: 1 | Ability: 
 None. | type: lightning | Evolves to: None | Evolves from: Electrike | Status: stage1 |
 
-Mankey (x3) – HP 50 | Attacks: Low Kick [C] (20) | Weakness: Psychic x2 | Retreat: 1 | Ability: None. | 
+Mankey (x4) – HP 50 | Attacks: Low Kick [C] (20) | Weakness: Psychic x2 | Retreat: 1 | Ability: None. | 
 Resistance: none | type: fighting | Evolves to: Primeape | Evolves from: None | Status: Basic |
 
-Marshadow (x3) – HP 90 | Attacks: Shadowy Knot [P] (30x) This attack does 30 damage for each [C] in your 
+Marshadow (x6) – HP 90 | Attacks: Shadowy Knot [P] (30x) This attack does 30 damage for each [C] in your 
 opponent's Active Pokémon's Retreat Cost. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: 
 Fighting -30 | type: psychic | Evolves to: None | Evolves from: None | Status: Basic |
 
-Maschiff (x4) – HP 70 | Attacks: Bite [D][D] (40) | Weakness: Grass x2 | Retreat: 2 | Ability: None. | 
+Maschiff (x5) – HP 70 | Attacks: Bite [D][D] (40) | Weakness: Grass x2 | Retreat: 2 | Ability: None. | 
 Resistance: 
 none | type: darkness | Evolves to: Mabosstiff | Evolves from: None | Status: Basic |
 
@@ -383,7 +383,7 @@ this attack does 280 damage to 1 of your opponent pokemon (dont apply weakness a
 pokemon) | Weakness: Water x2 | Retreat: 1 | 
 Ability: None. | type: fire | Evolves to: None | Evolves from: Charmeleon | Status: stage2 |
 
-Mega Darkrai (x8) – HP 280 | Attacks: Dusk Raid [D][D] (110+) If your Benched Pokémon have any damage counters 
+Mega Darkrai (x9) – HP 280 | Attacks: Dusk Raid [D][D] (110+) If your Benched Pokémon have any damage counters 
 on them, this attack does 110 more damage. | Weakness: Fighting x2 | Retreat: 2 | Ability: Abyss Eye [D][D][D] – 
 If your opponent's Active Pokémon is affected by a Special Condition, it is Knocked Out. | Resistance: none | 
 type: darkness | Evolves to: None | Evolves from: None | Status: Basic |
@@ -400,7 +400,7 @@ opponents pokemon (dont apply weakness and resistance for benched pokemon)| Disa
 Weakness: Fighting x2 | Retreat: 2 | Ability: None. | type: lightning | Evolves to: None | Evolves from: 
 Eelektrik | Status: stage2 |
 
-Mega Excadrill EX (x1) – HP 340 | Attacks: Undermine [M][M] (90) Discard the top 2 cards of your opponent's
+Mega Excadrill EX (x2) – HP 340 | Attacks: Undermine [M][M] (90) Discard the top 2 cards of your opponent's
 deck., Maximum Drilling [M][M][M] (200+) If this Pokémon has at least 2 extra Energy attached (in addition to
 this attack's cost), this attack does 130 more damage. | Weakness: Fire x2 | Retreat: 4 | Ability: None. |
 Resistance: Grass -30 | type: metal | Evolves to: None | Evolves from: Drilbur | Status: stage1 |
@@ -451,7 +451,7 @@ Ability: Solar Transfer – As often as you like during your turn, you may move 
 of your Pokémon to another of your Pokémon. | type: grass | Evolves to: None | Evolves from: Ivysaur | Status: 
 stage2 |
 
-Mega Zeraora EX (x1) – HP 270 | Attacks: Thunderous Fist [L] (60x) This attack does 60 damage for each [L]
+Mega Zeraora EX (x2) – HP 270 | Attacks: Thunderous Fist [L] (60x) This attack does 60 damage for each [L]
 Energy attached to this Pokémon., Zepto Turn [L][L][L] (150) Switch this Pokémon with 1 of your Benched
 Pokémon. | Weakness: Fighting x2 | Retreat: 1 | Ability: None. | Resistance: none | type: lightning | Evolves
 to: None | Evolves from: None | Status: Basic |
@@ -465,13 +465,13 @@ hand.| Weakness: Fighting x2 | Retreat: 1 | Ability:Last Ditch Catch – Once du
 fewer cards in your hand, you may search your deck for a Supporter card, reveal it, and put it into your hand. 
 Then, shuffle your deck. | type: colorless | Evolves to: Persian | Evolves from: None | Status: Basic |
 
-Miraidon (x2) – HP 120 | Attacks: Thunder [L][L] (90) This Pokémon also does 30 damage to itself. | Weakness:
+Miraidon (x3) – HP 120 | Attacks: Thunder [L][L] (90) This Pokémon also does 30 damage to itself. | Weakness:
 Fighting x2 | Retreat: 1 | Ability: Photon Cord – If this Pokémon is in the Active Spot and is Knocked Out by
 damage from an attack from your opponent's Pokémon, move up to 2 Basic [L] Energy cards from this Pokémon to 1
 of your Benched Pokémon. | Resistance: none | type: lightning | Evolves to: None | Evolves from: None | Status:
 Basic |
 
-Morpeko EX (x3) – HP 180 | Attacks: Wheely Draw [D] Shuffle your hand into your deck. Then, draw 6 cards.,
+Morpeko EX (x5) – HP 180 | Attacks: Wheely Draw [D] Shuffle your hand into your deck. Then, draw 6 cards.,
 Hangry Blaster [D][D] (40+) This attack does 40 more damage for each damage counter on this Pokémon. |
 Weakness: Grass x2 | Retreat: 1 | Ability: None. | Resistance: none | type: darkness | Evolves to: None |
 Evolves from: None | Status: Basic |
@@ -482,7 +482,7 @@ Adrena-Brain – Once during your turn, if this Pokémon has any [P] Energy atta
 counter from 1 of your Pokémon to 1 of your opponent's Pokémon. |Resistance [F] x2 | type: psychic | Evolves to: 
 None | Evolves from: None | Status: Basic |
 
-Nickit (x4) – HP 70 | Attacks: Gnaw [D] (10), Rear Kick [D][C] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: 
+Nickit (x5) – HP 70 | Attacks: Gnaw [D] (10), Rear Kick [D][C] (30) | Weakness: Grass x2 | Retreat: 1 | Ability: 
 None. | type: darkness | Evolves to: Thievul | Evolves from: None | Status: Basic |
 
 Noctowl (x3) – HP 100 | Attacks: Speed Wing [C][C] (60) | Weakness: Lightning x2 | Retreat: 1 | Ability: Jewel 
@@ -527,7 +527,7 @@ Excited Turbo – As often as you like during your turn, if you have any Mega Ev
 may use this ability. attach a basic [R] energy card from your hand to 1 of your benched [R] pokemons.  | type: 
 fire | Evolves to: None | Evolves from: None | Status: Basic |
 
-Palafin (x6) – HP 150 | Attacks: Knuckle Justice [W][W] (80+) If your opponent has exactly 1 Prize card 
+Palafin (x8) – HP 150 | Attacks: Knuckle Justice [W][W] (80+) If your opponent has exactly 1 Prize card 
 remaining, this attack does 200 more damage. | Weakness: Lightning x2 | Retreat: 2 | Ability: None. | type: 
 water | Evolves to: None | Evolves from: Finizen | Status: stage1 |
 
@@ -555,7 +555,7 @@ Fighting x2 | Retreat: 2 | Ability: Resolute Heart – if this Pokémon has full
 damagefrom an attack, it is not Knocked Out, and its remaining HP becomes 10. | type: lightning | Evolves to: 
 Raichu | Evolves from: None | Status: Basic |
 
-Pikipek (x5) – HP 70 | Attacks: Double Stab [C] (10x) Flip 2 coins. This attack does 10 damage for each heads. | 
+Pikipek (x6) – HP 70 | Attacks: Double Stab [C] (10x) Flip 2 coins. This attack does 10 damage for each heads. | 
 Weakness: Lightning x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: colorless | Evolves to: 
 Trumbeak | Evolves from: None | Status: Basic |
 
@@ -571,7 +571,7 @@ Popplio (x6) – HP 70 | Attacks: Pound [W] (20) | Weakness: Lightning x2 | Retr
 Resistance: 
 none | type: water | Evolves to: Brionne | Evolves from: None | Status: Basic |
 
-Primarina (x5) – HP 150 | Attacks: Aqua Return [W][C] (120) Shuffle this Pokémon and all attached cards into 
+Primarina (x7) – HP 150 | Attacks: Aqua Return [W][C] (120) Shuffle this Pokémon and all attached cards into 
 your deck. | Weakness: Lightning x2 | Retreat: 2 | Ability: Enriching Melody – Once during your turn, when you 
 play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Heal all damage from 1 
 of your Pokémon. | type: water | Evolves to: None | Evolves from: Brionne | Status: stage2 |
@@ -604,7 +604,7 @@ Weakness: Grass x2 | Retreat: 2 | Ability: Destructive Headbutting – Once duri
 in the Active Spot, you may use this Ability. Flip a coin. If heads, discard an Energy from your opponent's 
 Active Pokémon. | type: fighting | Evolves to: None | Evolves from: Cranidos | Status: stage2 |
 
-Relicanth (x7) – HP 100 | Attacks: Fossil Beatdown [W] (10+) This attack does 30 more damage for each of your 
+Relicanth (x8) – HP 100 | Attacks: Fossil Beatdown [W] (10+) This attack does 30 more damage for each of your 
 Benched Pokémon that has "Antique" in its name. | Weakness: Lightning x2 | Retreat: 1 | Ability: None. | 
 Resistance: 
 none | type: water | Evolves to: None | Evolves from: None | Status: Basic |
@@ -628,7 +628,7 @@ Sableye (x1) – HP 80 | Attacks: Cackly Claw [D] (20+)If you have any Stage 2 d
 attack does 70 more damage.| Weakness: Grass x2 | Retreat: 1 | Ability: None. | type: darkness | Evolves to: 
 None | Evolves from: None | Status: Basic |
 
-Seaking (x6) – HP 110 | Attacks: Hydro Jet [C][C][C] This attack does 30 damage to 1 of your opponent's Pokémon 
+Seaking (x7) – HP 110 | Attacks: Hydro Jet [C][C][C] This attack does 30 damage to 1 of your opponent's Pokémon 
 for each [W] Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) | 
 Weakness: Lightning x2 | Retreat: 1 | Ability: None. | type: water | Evolves to: None | Evolves from: Goldeen | 
 Status: stage1 |
@@ -639,16 +639,16 @@ Excited Power – If you have any darkness Mega Evolution Pokémon in play, atta
 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). | type: darkness | 
 Evolves to: None | Evolves from: None | Status: Basic |
 
-Shieldon (x3) – HP 100 | Attacks: Smithereen Smash [M][C] (50) Discard an Energy from your opponent's Active 
+Shieldon (x6) – HP 100 | Attacks: Smithereen Smash [M][C] (50) Discard an Energy from your opponent's Active 
 Pokémon. | Weakness: Fire x2 | Retreat: 3 | Ability: None. | Resistance: Grass -30 | type: metal | Evolves to: 
 Bastiodon | Evolves from: Antique Armor Fossil | Status: stage1 |
 
-Shuppet (x5) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' 
+Shuppet (x7) – HP 50 | Attacks: Hang Down [P] (10) | Weakness: Darkness x2 | Retreat: 1 | Ability: Hide 'n' 
 Sneak – Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is 
 not an effect.) | Resistance: Fighting -30 | type: psychic | Evolves to: Banette | Evolves from: None | Status: 
 Basic |
 
-Silvally (x3) – HP 140 | Attacks: Air Slash [C][C][C] (130) Discard an Energy from this Pokémon. | Weakness: 
+Silvally (x4) – HP 140 | Attacks: Air Slash [C][C][C] (130) Discard an Energy from this Pokémon. | Weakness: 
 Fighting x2 | Retreat: 2 | Ability: Call a Buddy – Once during your turn, if you have no cards in your hand, you 
 may use this Ability. Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle 
 your deck. | type: colorless | Evolves to: None | Evolves from: Type: Null | Status: stage1 |
@@ -665,16 +665,16 @@ there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into
 cards. | Weakness: Water x2 | Retreat: 2 | Ability: None. | type: fire | Evolves to: Centiskorch | Evolves from: 
 None | Status: Basic |
 
-Skarmory (x5) – HP 120 | Attacks: Steel Cutter [M] (40x) Discard up to 2 Basic [M] Energy cards from your hand, 
+Skarmory (x6) – HP 120 | Attacks: Steel Cutter [M] (40x) Discard up to 2 Basic [M] Energy cards from your hand, 
 and this attack does 40 damage for each card you discarded in this way. | Weakness: Fire x2 | Retreat: 1 | 
 Ability: None. | Resistance: Fighting -30 | type: metal | Evolves to: None | Evolves from: None | Status: Basic |
 
-Slowbro (x4) – HP 130| Evolves from Slowpoke | Attacks: All Out [P] (50+) If you have no cards in your hand, 
+Slowbro (x5) – HP 130| Evolves from Slowpoke | Attacks: All Out [P] (50+) If you have no cards in your hand, 
 this attack does 160 more 
 damage., Zen Headbutt [C][C][C] (110) | Weakness: Darkness x2 | Retreat: 3 | Ability: None. | Resistance: 
 Fighting -30 | type: psychic | Evolves to: None | Evolves from: Slowpoke | Status: stage1 |
 
-Slowpoke (x4) – HP 70 | Attacks: All-You-Can-Yeet [P] You may discard any number of cards from your hand., 
+Slowpoke (x5) – HP 70 | Attacks: All-You-Can-Yeet [P] You may discard any number of cards from your hand., 
 Headbutt [C][C] (20) | Weakness: Darkness x2 | Retreat: 2 | Ability: None. | Resistance: Fighting -30 | type: 
 psychic | Evolves to: Slowbro / Slowking | Evolves from: None | Status: Basic |
 
@@ -682,7 +682,7 @@ Solrock (x2) – HP 110 | Attacks: Cosmic Beam [F] (70) If you don't have Lunato
 nothing. This attack's damage isn't affected by VVeakness or Resistance.| Weakness: Grass x2 | Retreat: 1 | 
 Ability: None. | type: fighting | Evolves to: None | Evolves from: None | Status: Basic |
 
-Spiritomb (x4) – HP 60 | Attacks: Spiritual End [P] If you have 13 or more Pokémon that have the Hide'n Sneak 
+Spiritomb (x5) – HP 60 | Attacks: Spiritual End [P] If you have 13 or more Pokémon that have the Hide'n Sneak 
 Ability in your discard pile, choose 2 of your opponent's Pokémon and quadruple the number of damage counters on 
 each of them. | Weakness: Darkness x2 | Retreat: 1 | Ability: None. | Resistance: Fighting -30 | type: psychic | 
 Evolves to: None | Evolves from: None | Status: Basic |
@@ -764,19 +764,19 @@ and attach it to I of your Benched [D] e Pokémon. Then, shuffle your deck. If y
 in this way, place 2 damage counters on that Pokémon. | type: darkness | Evolves to: None | Evolves from: Toxel 
 | Status: stage1 |
 
-Tropius (x2) – HP 110 | Attacks: Fruity Aroma [C] Look at the top 6 cards of your deck, and you may reveal any 
+Tropius (x3) – HP 110 | Attacks: Fruity Aroma [C] Look at the top 6 cards of your deck, and you may reveal any 
 number of Pokémon you find and put them into your hand. Shuffle the other cards back into your deck., Solar Beam 
 [G][C] (60) | Weakness: Fire x2 | Retreat: 1 | Ability: None. | type: grass | Evolves to: None | Evolves from: 
 None | Status: Basic |
 
-Trumbeak (x4) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
+Trumbeak (x6) HP 90 | Attacks: Fly [C] (30) Flip a coin. If tails, this attack does nothing. If heads, during 
 your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.| Weakness [L]x2| 
 Resistance[F]-30| Retreat:1 | type: colorless | Evolves to: Toucannon | Evolves from: Pikipek | Status: stage1 |
 
 Tynamo (x4) – HP 40 | Attacks: Hold Still [C] Heal 10 damage from this Pokemon. | Weakness: Fighting x2 | 
 Retreat: 0 | Ability: None. | type: lightning | Evolves to: Eelektrik | Evolves from: None | Status: Basic |
 
-Type: Null (x5) – HP 110 | Attacks: Power Edge [C][C] (40) | Weakness: Fighting x2 | Retreat: 2 | Ability: None. 
+Type: Null (x6) – HP 110 | Attacks: Power Edge [C][C] (40) | Weakness: Fighting x2 | Retreat: 2 | Ability: None. 
 | type: colorless | Evolves to: Silvally | Evolves from: None | Status: Basic |
 
 Varoom (x2) – HP 70 | Attacks: Rigidify [M] During your opponent's next turn, this Pokémon takes 30 less damage 
@@ -784,23 +784,23 @@ from attacks (after applying Weakness and Resistance).| Headbutt Bounce [M][M] (
 Retreat: 1 | Resistance: [G]-30| Ability: None. | type: metal | Evolves to: Revavroom | Evolves from: None | 
 Status: Basic |
 
-Vikavolt (x4) – HP 160 | Attacks: Quick Dive [L] This attack does 50 damage to 1 of your opponent's Pokémon. 
+Vikavolt (x5) – HP 160 | Attacks: Quick Dive [L] This attack does 50 damage to 1 of your opponent's Pokémon. 
 (Don't apply Weakness and Resistance for Benched Pokémon.), Giga Railgun [L][L] (260) If this Pokémon has no 
 Voltaic [L] Energy attached, this attack does nothing. | Weakness: Fighting x2 | Retreat: 2 | Ability: None. | 
 type: lightning | Evolves to: None | Evolves from: Charjabug | Status: stage2 |
 
-Vullaby (x4) – HP 70 | Attacks: Flap [D] (10), Gust [D][C] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
+Vullaby (x5) – HP 70 | Attacks: Flap [D] (10), Gust [D][C] (20) | Weakness: Lightning x2 | Retreat: 1 | Ability: 
 None. | Resistance: Fighting -30 | type: darkness | Evolves to: Mandibuzz | Evolves from: None | Status: Basic |
 
 Wailmer (x2) – HP 130 | Attacks: Water Gun [W][W] (40), Wave Splash [W][W][W] (80) | Weakness: Lightning x2 |
 Retreat: 4 | Ability: None. | Resistance: none | type: water | Evolves to: Wailord | Evolves from: None | Status:
 Basic |
 
-Wailord EX (x3) – HP 380 | Attacks: Surf [W][W][W] (120), Falling Down [W][W][W][W][W] (270) This Pokémon is now 
+Wailord EX (x4) – HP 380 | Attacks: Surf [W][W][W] (120), Falling Down [W][W][W][W][W] (270) This Pokémon is now 
 Asleep. | Weakness: Lightning x2 | Retreat: 4 | Ability: None. | type: water | Evolves to: None | Evolves from: 
 Wailmer | Status: stage1 |
 
-Zarude (x5) – HP 130 | Attacks: Overhead Throw [D] (30) This attack also does 30 damage to 1 of your Benched 
+Zarude (x6) – HP 130 | Attacks: Overhead Throw [D] (30) This attack also does 30 damage to 1 of your Benched 
 Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.), Shadowy Whip [D][D][D] (100+) If your 
 Benched Pokémon have any Shadowy [D] Energy attached, this attack does 70 more damage. | Weakness: Grass x2 | 
 Retreat: 2 | Ability: None. | type: darkness | Evolves to: None | Evolves from: None | Status: Basic |
