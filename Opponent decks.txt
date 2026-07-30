@@ -1,0 +1,1029 @@
+OPPONENT DECKS
+Purpose: Reconstruct interesting opposing decks from submitted battle logs for later testing.
+
+Evidence labels:
+- CONFIRMED: directly revealed, played, discarded, searched or attached in the battle log.
+- MINIMUM: the battle proves at least this many copies were present.
+- ESTIMATED: a plausible count or deck slot inferred from the observed strategy; not a confirmed list.
+
+================================================================================
+ENTRY #1 | MIGHTYCROCS | GRENINJA EX / MEGA LOPUNNY EX / N'S ZOROARK EX
+Source: Ranked Match #33
+Result against attarus: Mightycrocs won 6-1
+STYLE: Flexible Water toolbox / mobility / Bench pressure / draw engine
+INTEREST LEVEL: HIGH — strong match for attarus's preference for dynamic decks
+
+WHY THE DECK WORKED
+- N's Zoroark ex used Trade repeatedly to discard unneeded cards and draw two.
+- Fezandipiti ex used Flip the Script after a knockout to restore momentum.
+- Greninja ex used Ignition Energy to launch Mirage Barrage immediately and knock out two developing
+  single-Prize Pokémon on the Bench.
+- Mega Lopunny ex combined Switch, free retreat through Air Balloon and Prime Catcher with Gale Thrust,
+  producing two separate 230-damage attacks and taking 4 Prizes.
+- The deck changed attackers according to the required job instead of repeatedly attacking with one Pokémon.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+1 Fezandipiti ex SFA 38
+2 Froakie
+2 Frogadier
+2 Greninja ex
+1 N's Zorua
+1 N's Zoroark ex
+2 Buneary
+1 Mega Lopunny ex
+
+COUNT EVIDENCE
+- Two Froakie were separately put into play; the first was Knocked Out and the second received Air Balloon.
+- One Frogadier evolved into the attacking Greninja ex and another Frogadier was discarded with Trade.
+- One Greninja ex was discarded with Trade before Hilda revealed a different Greninja ex for the evolution.
+- One Buneary evolved into Mega Lopunny ex and another Buneary was later discarded with Trade.
+
+CONFIRMED TRAINERS / SPECIAL ENERGY — MINIMUM COPIES PROVED BY THE LOG
+1 Buddy-Buddy Poffin
+2 Lillie's Determination
+1 Ultra Ball
+1 Poké Pad
+1 Hilda
+1 Team Rocket's Petrel
+1 Switch
+2 Air Balloon
+1 Prime Catcher [ACE SPEC]
+1 Ignition Energy
+
+CONFIRMED BASIC ENERGY
+Basic Water Energy — exact deck count unknown; multiple copies were attached during the match.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+2-3 Froakie
+2 Frogadier
+2 Greninja ex
+2 N's Zorua
+2 N's Zoroark ex
+2 Buneary
+2 Mega Lopunny ex
+1 Fezandipiti ex
+
+Trainers / Special Energy
+3-4 Buddy-Buddy Poffin
+3-4 Lillie's Determination
+3-4 Ultra Ball
+1-2 Poké Pad
+1-2 Hilda
+2-4 Team Rocket's Petrel
+2 Switch
+2 Air Balloon
+1 Prime Catcher
+2-3 Ignition Energy
+
+Energy
+Approximately 7-10 Basic Water Energy
+
+UNIDENTIFIED SLOTS
+The battle log does not reveal enough cards to reconstruct the remaining slots reliably. They are likely
+additional consistency, recovery, gust or mobility cards, but no exact names or counts should be assumed.
+
+TACTICAL ROLE MAP
+- Setup Basics: Froakie, N's Zorua, Buneary
+- Draw engine: N's Zoroark ex
+- Knockout recovery: Fezandipiti ex
+- Bench-control attacker: Greninja ex
+- Burst and pivot attacker: Mega Lopunny ex
+- Immediate acceleration: Ignition Energy
+- Mobility and target control: Air Balloon, Switch, Prime Catcher
+- Search and hand refresh: Buddy-Buddy Poffin, Poké Pad, Hilda, Petrel, Lillie's Determination
+
+OBSERVED WINNING PRIZE MAP
+1. Greninja ex knocked out Piplup and Steven's Metang together: 2 Prizes.
+2. Mega Lopunny ex knocked out Lillie's Clefairy ex: 2 Prizes.
+3. Prime Catcher exposed Latias ex; Mega Lopunny ex knocked it out: 2 Prizes.
+Total: 6 Prizes through a precise 2-2-2 route.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and role structure: HIGH
+- Confirmed cards listed above: HIGH
+- Estimated copy ranges: MEDIUM-LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Keep this deck as a candidate for a future online build. Before spending trade credits, obtain a full deck
+export or compare the skeleton with current Greninja ex / Mega Lopunny ex / N's Zoroark ex lists.
+
+================================================================================
+ENTRY #2 | REDPOKEMAN77 | DIPPLIN / THWACKEY FESTIVAL LEAD
+Source: Ranked Match #34
+Result against attarus: Redpokeman77 conceded while trailing 1-3
+STYLE: Single-Prize Festival Grounds swarm / repeatable attacks / Trainer search engine
+INTEREST LEVEL: MEDIUM — fast single-Prize setup, but it struggled into Metagross's damage and Grass Resistance
+
+WHY THE DECK WORKED
+- Festival Grounds activated Dipplin's Festival Lead Ability, allowing it to attack twice each turn.
+- A full Bench increased Do the Wave's damage, while Black Belt's Training raised its output after falling
+  behind in the Prize race.
+- Two Thwackey used Boom Boom Groove to search Trainer cards repeatedly.
+- Bug Catching Set found the Grass Pokémon required to rebuild Applin and Dipplin after knockouts.
+- Every main attacker gave up only one Prize, forcing an opponent to take six knockouts in a complete game.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+2 Applin
+2 Dipplin
+2 Grookey
+2 Thwackey
+1 Psyduck
+
+COUNT EVIDENCE
+- The opening Applin evolved into the first Dipplin and was discarded when that Dipplin was Knocked Out.
+- Bug Catching Set found a second Applin, which evolved into the second Dipplin.
+- Night Stretcher recovered the first discarded Applin while the second remained under Dipplin, proving at
+  least two Applin copies.
+- Buddy-Buddy Poffin placed two separate Grookey on the Bench and both evolved into Thwackey.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+1 Buddy-Buddy Poffin
+2 Bug Catching Set
+1 Festival Grounds
+1 Night Stretcher
+1 Black Belt's Training
+
+CONFIRMED BASIC ENERGY
+2 Basic Grass Energy minimum — separate copies were attached to the first and second Dipplin.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+4 Applin
+4 Dipplin
+3-4 Grookey
+3-4 Thwackey
+1-2 Psyduck
+Additional Festival Lead-compatible single-Prize attackers — exact identities unknown
+
+Trainers
+3-4 Buddy-Buddy Poffin
+4 Bug Catching Set
+3-4 Festival Grounds
+2-3 Night Stretcher
+1-2 Black Belt's Training
+Additional Pokémon recovery, Stadium search and consistency cards — exact identities unknown
+
+Energy
+Approximately 6-9 Basic Grass Energy
+
+UNIDENTIFIED SLOTS
+The log proves the central Applin-Dipplin and Grookey-Thwackey engines but does not reveal enough cards for an
+exact 60-card export. Psyduck's precise role and the deck's other Festival Lead attackers remain unknown.
+
+TACTICAL ROLE MAP
+- Main attacker: Dipplin
+- Attack multiplier: Festival Lead plus Festival Grounds
+- Damage scaling: Do the Wave plus a populated Bench
+- Trainer search: Thwackey's Boom Boom Groove
+- Grass Pokémon search: Bug Catching Set
+- Setup: Buddy-Buddy Poffin
+- Recovery: Night Stretcher
+- Comeback damage: Black Belt's Training
+
+OBSERVED PRIZE MAP
+1. The first Dipplin attacked twice through Festival Lead and knocked out Jynx: 1 Prize.
+2. Metagross then knocked out Dipplin, Thwackey and the second Dipplin on consecutive turns.
+3. The opponent conceded while trailing 1-3 with Applin Active.
+
+MATCHUP NOTES
+- Metagross's 200 damage cleanly removed every revealed attacker.
+- Grass Resistance reduced the Black Belt-boosted Do the Wave from 100 to 70 against Metagross.
+- The deck had no revealed answer to a high-HP Grass-resistant Stage 2 attacker.
+- Against this archetype, removing Thwackey can reduce Trainer access, but taking the Active Dipplin knockout
+  each turn is already an efficient route because all revealed attackers are single-Prize Pokémon.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and role structure: HIGH
+- Confirmed cards listed above: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Keep the reconstruction as a single-Prize Festival reference. Before building it, obtain a complete export or
+compare it with current Festival Lead lists to identify the missing Festival Pokémon, Stadium search and ACE SPEC.
+
+================================================================================
+ENTRY #3 | MOREBEFORE | MEGA DIANCIE EX / LILLIE'S CLEFAIRY EX / LATIAS EX
+Source: Ranked Match #35
+Result against attarus: morebefore conceded at a tied 4-4 Prize score with a damaged Latias ex trapped Active
+STYLE: Psychic toolbox / free-retreat rotation / burst damage / Boss's Orders target control
+INTEREST LEVEL: MEDIUM-HIGH — dynamic attacker rotation and strong gust pressure, but its revealed attackers
+could not break through the dual-Metagross engine
+
+WHY THE DECK WORKED
+- Mega Diancie ex used Garland Ray for 240 damage and took the opening 2-Prize knockout on Latias ex.
+- Latias ex gave the deck free retreat for its Basic Pokémon, allowing it to escape Jynx's Intense Kiss and
+  rotate Mega Diancie, Latias, Fezandipiti and Clefairy according to the situation.
+- Two Boss's Orders targeted an exposed Latias ex and a developing Steven's Metang instead of attacking the
+  strongest Pokémon.
+- Fezandipiti ex provided a recovery option after a knockout, although it was removed before Flip the Script
+  was used.
+- Lillie's Clefairy ex offered a secondary attacker and Fairy Zone utility, but its Metal Weakness was a major
+  liability against Metagross.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+1 Mega Diancie ex PFL 41
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+2 Lillie's Clefairy ex JTG 56
+1 Bronzong
+
+COUNT EVIDENCE
+- One Lillie's Clefairy ex was Knocked Out in the Active Spot and a second copy was already on the Bench.
+- Bronzong was discarded with Ultra Ball; no Bronzor or use of Bronzong was revealed.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+2 Lillie's Determination
+1 Ultra Ball
+1 Wondrous Patch
+2 Boss's Orders
+1 Mystery Garden
+
+CONFIRMED BASIC ENERGY
+5 Basic Psychic Energy minimum.
+
+ENERGY COUNT EVIDENCE
+- Two Psychic Energy were discarded by the first Garland Ray.
+- Two different Psychic Energy were attached afterward and discarded by the second Garland Ray.
+- A fifth Psychic Energy was attached to Mega Diancie on the Bench later in the match.
+- One of the first two Energy was initially discarded by Ultra Ball and then recovered by Wondrous Patch.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+2-3 Mega Diancie ex
+1-2 Latias ex
+1 Fezandipiti ex
+2 Lillie's Clefairy ex
+Bronzor / Bronzong line — exact purpose and counts unknown
+
+Trainers
+3-4 Lillie's Determination
+3-4 Ultra Ball
+3-4 Wondrous Patch
+3-4 Boss's Orders
+2-3 Mystery Garden
+Additional Basic-Pokémon search, Energy recovery and switching cards — exact identities unknown
+
+Energy
+Approximately 9-12 Basic Psychic Energy
+
+UNIDENTIFIED SLOTS
+The log reveals the main Psychic Basic toolbox but not enough of the deck to identify its complete Pokémon
+engine, ACE SPEC or recovery package. Bronzong was revealed only as an Ultra Ball discard, so no assumptions
+should be made about which Bronzor it uses or Bronzong's intended role.
+
+TACTICAL ROLE MAP
+- Burst attacker: Mega Diancie ex
+- Free-retreat engine: Latias ex
+- Knockout recovery: Fezandipiti ex
+- Dragon counter / secondary attacker: Lillie's Clefairy ex
+- Psychic Energy acceleration or recovery: Wondrous Patch
+- Target control: Boss's Orders
+- Hand refresh: Lillie's Determination
+- Stadium utility: Mystery Garden
+
+OBSERVED PRIZE MAP
+1. Boss's Orders exposed attarus's Latias ex; Mega Diancie ex used Garland Ray for 240: 2 Prizes.
+2. Attarus's Mega Diancie ex knocked out Fezandipiti ex: 2 Prizes.
+3. Metagross exploited Lillie's Clefairy ex's Metal Weakness for a 400-damage knockout: 2 Prizes.
+4. The final Boss's Orders trapped the already-damaged opposing Latias ex Active; morebefore conceded before
+   the forced final 2-Prize knockout.
+
+MATCHUP NOTES
+- Latias ex makes Jynx's Intense Kiss substantially easier to escape because the deck's Basic Pokémon retreat
+  for free.
+- Diamond Coat is decisive in the Mega Diancie mirror: attarus's Diancie survived Garland Ray with 210 damage.
+- Lillie's Clefairy ex is an easy 2-Prize target for Metagross because Metal Stomp deals 400 after Weakness.
+- Repeated Boss's Orders can slow Metagross development, but gusting Metang is unsafe when it can legally
+  evolve in the Active Spot and immediately activate X-Boot.
+- Garland Ray's Energy discard creates a continuing resource requirement; the deck needs reliable Wondrous
+  Patch access or enough manual attachments to attack repeatedly.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and role structure: MEDIUM-HIGH
+- Confirmed cards listed above: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Keep this as a reference for a Psychic-only dynamic toolbox. Before considering a build, obtain a complete
+deck export and confirm the Bronzong line, ACE SPEC, Wondrous Patch count and total Psychic Energy count.
+
+================================================================================
+ENTRY #4 | OPA0123456789 | TOUCANNON / FAN ROTOM / CORNERSTONE MASK OGERPON EX
+Source: Ranked Match #36
+Result against attarus: opa0123456789 conceded at a tied 4-4 Prize score
+STYLE: Area Zero Bench-scaling single-Prize deck / repeated search / ability-wall backup
+INTEREST LEVEL: HIGH — fast, unusual and tactically flexible, although the exact list is not confirmed
+
+WHY THE DECK WORKED
+- Fan Rotom's Fan Call established Hoothoot and multiple Pikipek immediately.
+- Noctowl's Jewel Seeker found Rare Candy and Fighting Gong, producing a fast Toucannon and Energy access.
+- Toucannon's Aerial Draw improved consistency while Feather Rondo converted the expanded combined Bench into
+  200-240 damage from a single-Prize attacker.
+- Sacred Ash recycled the evolution line after Jynx discarded the first Toucannon.
+- Area Zero Underdepths supported a very large Bench and increased Feather Rondo's damage ceiling.
+- Cornerstone Mask Ogerpon ex provided an alternate wall against attackers with Abilities.
+- Fezandipiti ex and the Lunatone/Solrock package rebuilt the hand after knockouts and disruption.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Fan Rotom
+1 Hoothoot
+1 Noctowl
+4 Pikipek
+3 Trumbeak
+2 Toucannon
+1 Shaymin
+1 Fezandipiti ex
+1 Lunatone
+1 Solrock
+
+COUNT EVIDENCE
+- Two Fan Rotom were separately played: one on the opening turn and another after Special Red Card.
+- At least four physical Pikipek are required: two were opened through Fan Call, a third was played before
+  the first Toucannon was discarded, and two were played late after one discarded Pikipek had been recycled
+  by Sacred Ash.
+- Three distinct Trumbeak were revealed: two evolved on the Bench and another was drawn by Dawn.
+- Two physical Toucannon are proved. One was discarded by Intense Kiss and recycled with Sacred Ash; another
+  remained in play independently. Reuse means the three observed Toucannon appearances do not prove three copies.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+3 Poké Pad
+4 Fighting Gong
+1 Rare Candy
+1 Brave Bangle
+1 Boss's Orders
+1 Sacred Ash
+1 Glass Trumpet
+1 Area Zero Underdepths
+1 Dawn
+1 Special Red Card
+1 Buddy-Buddy Poffin
+
+CONFIRMED BASIC ENERGY
+Basic Fighting Energy — exact deck count unknown; multiple separate attachments and searches were shown.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+4 Pikipek
+3-4 Trumbeak
+3-4 Toucannon
+2 Fan Rotom
+2 Hoothoot
+2 Noctowl
+1 Cornerstone Mask Ogerpon ex
+1 Fezandipiti ex
+1 Shaymin
+1 Lunatone
+1 Solrock
+
+Trainers
+3-4 Poké Pad
+4 Fighting Gong
+3-4 Rare Candy
+1-2 Brave Bangle
+2-3 Boss's Orders
+1-2 Sacred Ash
+1-2 Glass Trumpet
+2-3 Area Zero Underdepths
+1-2 Dawn
+1 Special Red Card
+2-4 Buddy-Buddy Poffin
+
+Energy
+Approximately 7-10 Basic Fighting Energy
+
+UNIDENTIFIED SLOTS
+The log proves the central Fan Rotom / Noctowl / Toucannon search-and-attack engine, but the set identities and
+full copy counts of the 2026 cards are not all visible. Additional draw, evolution search, gust and recovery
+cards should not be assigned exact names or counts without a deck export.
+
+TACTICAL ROLE MAP
+- Opening Basic search: Fan Rotom
+- Trainer search: Noctowl
+- Main single-Prize attacker: Toucannon
+- Damage amplifier: Area Zero Underdepths and a populated combined Bench
+- Energy search: Fighting Gong
+- Evolution acceleration: Rare Candy
+- Evolution recovery: Sacred Ash
+- Energy recovery/acceleration: Glass Trumpet
+- Ability-wall backup: Cornerstone Mask Ogerpon ex
+- Knockout recovery draw: Fezandipiti ex
+- Additional draw: Lunatone / Solrock and Dawn
+- Hand disruption: Special Red Card
+
+OBSERVED PRIZE MAP
+1. Toucannon used Feather Rondo to knock out Steven's Beldum: 1 Prize.
+2. Boss's Orders exposed Genesect ex and Toucannon knocked it out: 2 Prizes.
+3. Jynx's Intense Kiss then discarded that Toucannon and all attached cards without awarding a Prize.
+4. A replacement Toucannon knocked out Jynx: 1 Prize.
+5. Metagross knocked out two Toucannon and Noctowl; Mega Diancie knocked out Fan Rotom: 4 Prizes.
+6. The opponent conceded with both players on 2 remaining Prize cards.
+
+MATCHUP NOTES
+- Intense Kiss is highly effective against Toucannon because it is fully evolved and normally carries Energy
+  plus a Tool; Bossing Jynx away does not remove the effect from the affected Active Pokémon.
+- Once Metagross is ready, take the immediate single-Prize knockout instead of continuing to expose Jynx.
+- Removing Noctowl reduces Trainer access, but Toucannon remains the priority while it can reach 200-240 damage.
+- Bench size fuels Feather Rondo. Filling both Benches maximises the opponent's attack, so Precious Trolley
+  should be used deliberately rather than automatically.
+- Cornerstone Mask Ogerpon ex blocks damage from the deck's Ability-bearing attackers. Preserve Jynx, retain
+  Night Stretcher access, or save Boss's Orders to bypass Ogerpon and take the final Prizes from the Bench.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and role structure: HIGH
+- Confirmed named cards: HIGH
+- Minimum evolution-line counts: MEDIUM because Sacred Ash enabled reuse
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Keep this as a high-interest single-Prize deck reference. Before spending credits, obtain a full export or
+compare it with current Toucannon / Area Zero lists to confirm the set numbers, ACE SPEC choice and energy count.
+
+================================================================================
+ENTRY #5 | YUR1CK | MUNKIDORI / BRUTE BONNET / PECHARUNT EX DARKNESS
+Source: Ranked Match #37
+Result against attarus: Yur1cK conceded while trailing 0-2 in Prizes
+STYLE: Single-Prize Darkness pressure / poison / damage reduction / heavy Energy discard and recycling
+INTEREST LEVEL: MEDIUM — coherent resource engine, but its damage output was too low against three Metagross ex
+
+WHY THE DECK WORKED
+- Four Earthen Vessel plays repeatedly converted spare cards into Darkness Energy.
+- Four Carmine plays refreshed the hand while loading Darkness Energy and Pokémon into the discard pile.
+- Brilliant Blender and Super Rod created a deliberate discard-and-recycle Energy engine.
+- Brute Bonnet combined Binding Mochi with Toxic Powder for 70 damage plus Poison.
+- Munkidori used Vitality Vitality to reduce Metal Stomp by 10, surviving the first hit with 190 damage.
+- Pecharunt ex supplied another Darkness attacker, while Team Rocket's Meowth ex offered draw/search utility.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+2 Munkidori
+1 Pecharunt ex
+1 Brute Bonnet
+1 Team Rocket's Meowth ex
+1 Radiant Greninja
+
+COUNT EVIDENCE
+- One Munkidori began Active and later retreated to the Bench.
+- Night Stretcher recovered a separate Munkidori, which was then played and powered independently.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+4 Earthen Vessel
+4 Carmine
+1 Binding Mochi
+1 Janine's Secret Art
+1 Judge
+1 Night Stretcher
+1 Brilliant Blender
+1 Super Rod
+1 Boss's Orders
+
+CONFIRMED BASIC ENERGY
+At least 11 Basic Darkness Energy were proved simultaneously: four were attached in play when Super Rod
+returned seven Darkness Energy from the discard pile to the deck.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+3-4 Munkidori
+1-2 Pecharunt ex
+2-3 Brute Bonnet
+1 Team Rocket's Meowth ex
+1 Radiant Greninja
+
+Trainers
+4 Earthen Vessel
+4 Carmine
+2-3 Binding Mochi
+2-3 Janine's Secret Art
+1-2 Judge
+2-3 Night Stretcher
+1 Brilliant Blender
+2-3 Super Rod
+2-3 Boss's Orders
+Additional Darkness-Pokémon search and switching cards — exact identities unknown
+
+Energy
+Approximately 13-16 Basic Darkness Energy
+
+UNIDENTIFIED SLOTS
+The log reveals a high-Energy Darkness core but not enough Pokémon or Trainer cards to reconstruct an exact
+60-card list. Radiant Greninja was benched only at the end and its practical role was not demonstrated.
+
+TACTICAL ROLE MAP
+- Damage reduction / single-Prize attacker: Munkidori
+- Poison attacker: Brute Bonnet
+- Poison damage support: Binding Mochi
+- Darkness support attacker: Pecharunt ex
+- Search utility: Team Rocket's Meowth ex
+- Energy search and discard loading: Earthen Vessel
+- Hand refresh and discard loading: Carmine
+- Targeted acceleration: Janine's Secret Art
+- Mass discard setup: Brilliant Blender
+- Resource recycling: Super Rod and Night Stretcher
+- Target control: Boss's Orders
+
+OBSERVED PRIZE MAP
+1. Steven's Metagross ex knocked out Brute Bonnet with Metal Stomp: 1 Prize.
+2. Munkidori reduced the first Metal Stomp to 190, then was knocked out by the next attack: 1 Prize.
+3. Boss's Orders exposed Team Rocket's Meowth ex as an exact 200-damage, two-Prize target.
+4. Yur1cK conceded before that knockout, trailing 0-2.
+
+MATCHUP NOTES
+- Brute Bonnet's Poison plan is too slow when Metagross has multiple replacement attackers and Energy Recycler.
+- Vitality Vitality changes Metal Stomp from 200 to 190, but only delays the knockout by one turn.
+- Remove Brute Bonnet before repeated Poison damage accumulates.
+- Team Rocket's Meowth ex is the preferred Boss's Orders target because Metal Stomp reaches its 200 HP exactly.
+- Avoid unnecessary Bench liabilities: this deck showed Boss's Orders and could target Latias or Genesect ex.
+- Judge was counterproductive in this game because it supplied Rare Candy and Petrel after the Metagross engine
+  was already established.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and resource engine: MEDIUM-HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a reference for Darkness discard/recycling concepts, but do not prioritise building it without a full
+deck export; the observed version lacked enough damage to trade efficiently with Metagross ex.
+
+================================================================================
+ENTRY #6 | CONSTANCE-JIBIR | N'S ZOROARK EX / MOLTRES / N'S TOOLBOX
+Source: Ranked Match #38
+Result against attarus: Constance-Jibir won 6-5
+STYLE: Copied-attack toolbox / gust-based Prize mapping / single-Prize recycling
+INTEREST LEVEL: HIGH — N's Zoroark ex punishes damage that does not produce a knockout
+
+WHY THE DECK WORKED
+- N's Zoroark ex used Trade to improve hand quality while loading expendable cards into the discard pile.
+- Moltres exploited the Fire Weakness of Genesect ex and was later recovered through Transformation Tome.
+- Meowth ex found Boss's Orders, then became the discard cost that allowed Transformation Tome to recover
+  Moltres.
+- Two Boss's Orders converted Genesect ex and Darkness-weak Latias ex into four targeted Prizes.
+- Zoroark copied Virtuous Flame to knock out Latias and copied Powerful Rage after taking 200 damage to knock
+  out Metagross ex for the final 2 Prizes.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+1 N's Zorua
+1 N's Zoroark ex
+1 N's Reshiram
+1 N's Zekrom
+1 Budew
+1 Moltres
+1 Chi-Yu
+1 Meowth ex
+
+COUNT EVIDENCE
+- The same Moltres was knocked out, recovered from the discard pile by Transformation Tome and knocked out
+  again; the log proves one copy, not two.
+- Meowth ex was recovered by Night Stretcher before being discarded through Transformation Tome.
+- Two separate N's Castle cards were proved because the first was discarded by Battle Cage and another was
+  played later without a recovery effect.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+2 N's Castle
+2 Lillie's Determination
+2 Boss's Orders
+1 Crispin
+1 N's PP Up
+1 Night Stretcher
+1 Transformation Tome
+1 Crushing Hammer
+
+CONFIRMED BASIC ENERGY
+Basic Darkness Energy
+Basic Fire Energy
+Exact counts unknown.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+2-3 N's Zorua
+2-3 N's Zoroark ex
+1 N's Reshiram
+1 N's Zekrom
+1-2 Budew
+1-2 Moltres
+1 Chi-Yu
+1 Meowth ex
+
+Trainers
+2-3 N's Castle
+3-4 Lillie's Determination
+2-3 Boss's Orders
+1-2 Crispin
+2-4 N's PP Up
+1-2 Night Stretcher
+1 Transformation Tome
+1-2 Crushing Hammer
+Additional Pokémon search, switching and recovery cards — exact identities unknown
+
+Energy
+Mixed Basic Darkness and Basic Fire Energy — exact split unknown
+
+TACTICAL ROLE MAP
+- Main copied-attack attacker and draw engine: N's Zoroark ex
+- Fire-Weakness punish and Transformation Tome target: Moltres
+- Attack library: N's Reshiram and N's Zekrom
+- Item lock: Budew
+- Supporter search: Meowth ex
+- Target control: Boss's Orders
+- Recovery conversion: Night Stretcher plus Transformation Tome
+- Energy acceleration: Crispin and N's PP Up
+- Retreat support: N's Castle
+
+OBSERVED PRIZE MAP
+1. Steven's Metang knocked out Budew: attarus took 1 Prize.
+2. Steven's Metagross ex knocked out Meowth ex: attarus took 2 Prizes.
+3. Moltres knocked out Genesect ex through Fire Weakness: Constance-Jibir took 2 Prizes.
+4. Steven's Metagross ex knocked out Moltres: attarus took 1 Prize.
+5. N's Zoroark ex copied Virtuous Flame and knocked out Latias ex through Darkness Weakness:
+   Constance-Jibir took 2 Prizes.
+6. The recovered Moltres was knocked out by Metal Stomp: attarus took 1 Prize.
+7. N's Zoroark ex copied Powerful Rage for 400 damage and knocked out Metagross ex:
+   Constance-Jibir took the final 2 Prizes.
+
+MATCHUP NOTES
+- Do not damage N's Zoroark ex unless the attack will knock it out; Powerful Rage converts its damage counters
+  into a devastating counterattack.
+- When Zoroark cannot be knocked out, Jynx's Intense Kiss is preferable to Metal Stomp. It forces Zoroark to
+  retreat through N's Castle or accept an end-of-turn discard.
+- Limit two-Prize support exposure after Boss's Orders has been revealed. Genesect ex and Latias ex supplied
+  four of the opponent's six Prizes.
+- Removing Budew with Metang's Metal Slash was correct and avoided losing tempo under Item lock.
+- Transformation Tome means a knocked-out single-Prize attacker may return immediately; track both the
+  discard pile and the opponent's available Tome targets.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and tactical engine: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority matchup reference. The central rule is: against N's Zoroark ex, either complete the
+knockout or use Jynx to force movement; never feed Powerful Rage with a non-lethal Metal Stomp.
+
+================================================================================
+ENTRY #7 | RAYOKKZ | N'S ZOROARK EX / N'S RESHIRAM / N'S TOOLBOX
+Source: Ranked Match #39
+Result against attarus: RayokkZ won 6-3
+STYLE: Wide Trade engine / copied-attack toolbox / Powerful Rage counterattack
+INTEREST LEVEL: HIGH — four Zoroark ex and multiple copied attacks create exceptional redundancy
+
+WHY THE DECK WORKED
+- Three N's Zoroark ex were established by the second opponent turn, allowing three Trade activations per turn.
+- N's Reshiram supplied both Virtuous Flame for reliable 170 damage and Powerful Rage for knockout scaling.
+- N's Castle allowed damaged Zoroark to retreat freely and preserved the 200-damage targets for later attacks.
+- Boss's Orders twice exposed Metagross ex that could be knocked out by the selected copied attack.
+- Two different Zoroark received 200 damage without being knocked out; each later copied Powerful Rage for a
+  400-plus-damage Metagross knockout.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+4 N's Zorua
+4 N's Zoroark ex
+1 N's Reshiram
+1 N's Zekrom
+1 N's Darumaka
+1 N's Darmanitan
+1 Munkidori
+1 Budew
+1 Meowth ex
+
+COUNT EVIDENCE
+- Three N's Zorua evolved into three separate Zoroark ex in play; a fourth Zorua was discarded with Ultra Ball.
+- Three Zoroark ex were simultaneously in play; another Zoroark ex was later discarded through Trade, proving
+  a fourth copy.
+- One N's Reshiram remained on the Bench and supplied both copied attacks throughout the match.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+3 Boss's Orders
+2 Lillie's Determination
+2 Buddy-Buddy Poffin
+2 Cyrano
+2 N's PP Up
+1 Ultra Ball
+1 Janine's Secret Art
+1 N's Castle
+1 Poké Pad
+1 Transformation Tome
+
+CONFIRMED BASIC ENERGY
+Basic Darkness Energy
+Exact count unknown.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+4 N's Zorua
+4 N's Zoroark ex
+1 N's Reshiram
+1 N's Zekrom
+1 N's Darumaka
+1 N's Darmanitan
+1 Munkidori
+1 Budew
+1 Meowth ex
+
+Trainers
+3-4 Boss's Orders
+3-4 Lillie's Determination
+2-4 Buddy-Buddy Poffin
+2 Cyrano
+2-4 N's PP Up
+1-2 Ultra Ball
+1-2 Janine's Secret Art
+2-3 N's Castle
+1-2 Poké Pad
+1 Transformation Tome
+Additional switching, recovery and search cards — exact identities unknown
+
+Energy
+Basic Darkness Energy — exact count unknown
+
+TACTICAL ROLE MAP
+- Main attacker and draw engine: N's Zoroark ex
+- Primary attack library: N's Reshiram
+- Additional attack options: N's Zekrom and N's Darmanitan
+- Free retreat for N's Pokémon: N's Castle
+- Target control: Boss's Orders
+- Darkness acceleration: Janine's Secret Art and N's PP Up
+- Supplemental damage movement: Munkidori
+
+OBSERVED PRIZE MAP
+1. Steven's Metagross ex knocked out N's Zekrom: attarus took 1 Prize.
+2. N's Zoroark ex copied Virtuous Flame and knocked out damaged Metagross ex: RayokkZ took 2 Prizes.
+3. N's Zoroark ex copied Powerful Rage for 420 damage and knocked out Metagross ex: RayokkZ took 2 Prizes.
+4. Steven's Metagross ex knocked out a previously damaged N's Zoroark ex: attarus took 2 Prizes.
+5. A second damaged N's Zoroark ex copied Powerful Rage for 400 damage and knocked out Metagross ex:
+   RayokkZ took the final 2 Prizes.
+
+MATCHUP NOTES
+- N's Reshiram is the priority Boss's Orders target. Removing it removes both Virtuous Flame and Powerful Rage
+  from Night Joker's available attacks.
+- Do not use Metal Stomp or Full Moon Rondo on a fresh Zoroark unless the attack will complete the knockout.
+- If Reshiram cannot be removed, promote powered Jynx and use Intense Kiss to force Zoroark to retreat or be
+  discarded. N's Castle makes retreat easy, but forcing the rotation still prevents an immediate retaliation.
+- Track every damaged Zoroark separately. Leaving two Zoroark at 200 damage gave the opponent two independent
+  Powerful Rage attackers.
+- Boss's Orders that merely exchanges one Zoroark for another is low value; target the Benched attack source
+  or a two-Prize support Pokémon that can be knocked out immediately.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and tactical engine: HIGH
+- Confirmed Pokémon counts: HIGH
+- Confirmed Trainer minimums: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority matchup reference. Against this version, remove N's Reshiram before damaging Zoroark;
+if that is unavailable, use Jynx to force movement rather than activating Powerful Rage.
+
+================================================================================
+ENTRY #8 | JETT0903 | MEGA DARKRAI EX / TOXTRICITY / TEAM ROCKET'S SNEASEL
+Source: Ranked Match #40
+Result against attarus: jett0903 won 6-5
+STYLE: Darkness acceleration / self-damage engine / Bench punishment / Special Condition knockout
+INTEREST LEVEL: HIGH — Toxtricity powers both Darkrai attacks and creates multiple tactical threats
+
+WHY THE DECK WORKED
+- Toxtricity's Sinister Surge accelerated Darkness Energy while placing 2 damage counters on the recipient.
+- Damage on a Benched Darkness Pokémon activated Mega Darkrai ex's 220-damage Dusk Raid.
+- Team Rocket's Sneasel punished a 220-damaged Metagross after it retreated to the Bench, dealing 440 damage
+  with Strike the Sleeper.
+- Dark Bell made the Active Metagross Confused, allowing Mega Darkrai ex's Abyss Eye to knock it out
+  automatically regardless of its remaining HP.
+- A second Mega Darkrai was accelerated by two Toxtricity in one turn and Boss's Orders exposed Latias ex for
+  the final Darkness-Weakness knockout.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+2 Toxel
+2 Toxtricity
+1 Team Rocket's Sneasel
+2 Mega Darkrai ex
+2 Munkidori
+1 Brute Bonnet
+1 Fezandipiti ex
+
+COUNT EVIDENCE
+- Two Toxel were simultaneously in play and later evolved into two separate Toxtricity.
+- The first Mega Darkrai ex was knocked out by Genesect ex; a second copy was then played from hand.
+- The first Munkidori was knocked out by Metal Stomp; a second copy was later played under Risky Ruins.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+2 Ultra Ball
+1 Air Balloon
+1 Lillie's Determination
+1 Lisia's Appeal
+1 Energy Recycler
+1 Team Rocket's Watchtower
+1 Dark Bell
+1 Poké Pad
+1 Risky Ruins
+1 Boss's Orders
+
+CONFIRMED BASIC ENERGY
+Basic Darkness Energy
+Exact count unknown.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+3-4 Toxel
+3-4 Toxtricity
+1-2 Team Rocket's Sneasel
+2-3 Mega Darkrai ex
+2 Munkidori
+1 Brute Bonnet
+1 Fezandipiti ex
+
+Trainers
+3-4 Ultra Ball
+1-2 Air Balloon
+3-4 Lillie's Determination
+1-2 Lisia's Appeal
+1-2 Energy Recycler
+1 Team Rocket's Watchtower
+2-4 Dark Bell
+1-2 Poké Pad
+1-2 Risky Ruins
+2-3 Boss's Orders
+Additional Pokémon search, switching and recovery cards — exact identities unknown
+
+Energy
+Basic Darkness Energy — likely a relatively high count to support repeated Sinister Surge activations;
+exact count unknown.
+
+TACTICAL ROLE MAP
+- Main attacker and three-Prize threat: Mega Darkrai ex
+- Energy acceleration and self-damage enabler: Toxtricity
+- Damaged-Bench punishment: Team Rocket's Sneasel
+- Damage-counter utility: Munkidori
+- Knockout recovery draw: Fezandipiti ex
+- Special Condition enabler: Dark Bell
+- Ability suppression: Team Rocket's Watchtower
+- Target control: Boss's Orders
+
+OBSERVED PRIZE MAP
+1. Mega Darkrai ex used Dusk Raid through Darkness Weakness to knock out Jynx: jett0903 took 1 Prize.
+2. Steven's Metagross ex knocked out Munkidori: attarus took 1 Prize.
+3. Team Rocket's Sneasel used Strike the Sleeper for 440 Bench damage and knocked out a damaged Metagross ex:
+   jett0903 took 2 Prizes.
+4. Steven's Metagross ex knocked out Team Rocket's Sneasel: attarus took 1 Prize.
+5. Dark Bell plus Mega Darkrai ex's Abyss Eye knocked out Metagross ex: jett0903 took 2 Prizes.
+6. Genesect ex used Protect Charge to finish the 350-damage Mega Darkrai ex: attarus took 3 Prizes.
+7. The replacement Mega Darkrai ex used Boss's Orders and Dusk Raid through Weakness to knock out Latias ex:
+   jett0903 took the final Prize.
+
+MATCHUP NOTES
+- Do not retreat a heavily damaged Pokémon to the Bench while Team Rocket's Sneasel can use Strike the Sleeper.
+  Keep it Active, heal it, or remove Sneasel before moving it.
+- Battle Cage does not prevent Strike the Sleeper's direct damage; it only prevents damage counters placed by
+  attack or Ability effects.
+- A Mega Darkrai ex with 200 damage is the priority Boss target. Metal Stomp completes the 280-HP knockout for
+  3 Prizes and removes both Dusk Raid and Abyss Eye.
+- Dark Bell must be treated as an immediate knockout enabler once Darkrai has three Darkness Energy. Switching
+  or retreating clears Confusion, but the response must be available before Abyss Eye is declared.
+- Team Rocket's Watchtower disables Latias ex and Genesect ex while in play, so plan retreat and Metallic
+  Signal usage before the Stadium arrives.
+- Toxtricity is a secondary Boss target when Darkrai cannot be knocked out; removing it slows replacement
+  Darkrai setup and turns off repeated self-damage activation.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and tactical engine: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority matchup reference. Against this deck, never bench a heavily damaged attacker in front of
+Sneasel, and use Boss's Orders to finish a 200-damaged Mega Darkrai before it can combine Dark Bell with
+Abyss Eye.
+
+================================================================================
+ENTRY #9 | VITORHSOUZA250 | MEGA LUCARIO EX / LUNATONE / SOLROCK
+Source: Ranked Match #41
+Result against attarus: vitorhsouza250 won 6-0
+STYLE: Rapid Fighting evolution / Item damage amplification / two-attacker Prize sprint
+INTEREST LEVEL: HIGH — extremely fast setup and a useful reference for the Mega Lucario matchup
+
+WHY THE DECK WORKED
+- Lunatone and Solrock supplied immediate draw through Lunar Cycle.
+- Meowth ex found Lillie's Determination before the first attack.
+- Two Riolu became two Mega Lucario ex, allowing the opponent to rotate attackers after using Mega Brave.
+- Three observed Premium Power Pro supplied 90 additional damage across the first and final knockouts.
+- Boss's Orders converted the re-benched Genesect ex into the exact final two-Prize target.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+2 Riolu
+2 Mega Lucario ex
+1 Lunatone
+1 Solrock
+1 Meowth ex
+1 Fezandipiti ex
+
+COUNT EVIDENCE
+- Two Riolu were simultaneously in play and evolved into two separate Mega Lucario ex.
+- Lunatone and Solrock were both in play from the opening turn.
+- Meowth ex used Last-Ditch Catch and Fezandipiti ex was later found with Ultra Ball.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+3 Premium Power Pro
+2 Lillie's Determination
+1 Fighting Gong
+1 Night Stretcher
+1 Air Balloon
+1 Ultra Ball
+1 Switch
+1 Judge
+1 Gravity Mountain
+1 Boss's Orders
+
+CONFIRMED BASIC ENERGY
+Basic Fighting Energy
+At least three physical copies are consistent with the observed attachments, Lunar Cycle discard and Night
+Stretcher recovery; exact deck count unknown.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+3-4 Riolu
+3-4 Mega Lucario ex
+1 Lunatone
+1 Solrock
+1 Meowth ex
+1 Fezandipiti ex
+
+Trainers
+3-4 Premium Power Pro
+3-4 Lillie's Determination
+3-4 Fighting Gong
+1-2 Night Stretcher
+1-2 Air Balloon
+2-4 Ultra Ball
+1-2 Switch
+1-2 Judge
+1-2 Gravity Mountain
+2-4 Boss's Orders
+Additional search, recovery and hand-disruption cards — exact identities unknown
+
+Energy
+Basic Fighting Energy — exact count unknown.
+
+TACTICAL ROLE MAP
+- Main attacker and three-Prize threat: Mega Lucario ex
+- Draw engine: Lunatone plus Solrock
+- Supporter access: Meowth ex
+- Damage amplification: Premium Power Pro
+- Fighting Pokémon search: Fighting Gong
+- Free-retreat pivot and Mega Brave rotation: Air Balloon
+- Target control: Boss's Orders
+- Knockout-response draw: Fezandipiti ex
+
+OBSERVED PRIZE MAP
+1. Mega Lucario ex used Aura Jab plus two Premium Power Pro for 190 damage and knocked out Lillie's Clefairy
+   ex: vitorhsouza250 took 2 Prizes.
+2. Mega Lucario ex used Mega Brave for 270 damage and knocked out Genesect ex: vitorhsouza250 took 2 Prizes.
+3. Boss's Orders exposed the recovered Genesect ex; the replacement Mega Lucario used Mega Brave plus Premium
+   Power Pro for 300 damage: vitorhsouza250 took the final 2 Prizes.
+
+MATCHUP NOTES
+- Expect Mega Lucario to evolve and attack on its controller's second turn; Brock's Scouting for Beldum and
+  Jynx is more urgent than searching Boss's Orders before an attacker exists.
+- Premium Power Pro stacks. Two copies raised Aura Jab from 130 to 190, enough to remove Clefairy ex.
+- Track the second Riolu. A replacement Mega Lucario lets the opponent rotate around Mega Brave's limitation.
+- Jynx can force the Active Lucario to move, but Air Balloon makes that response free. Intense Kiss is tempo,
+  not guaranteed removal, in this matchup.
+- Once the opponent reaches 4 Prizes, do not bench or recover Genesect ex, Clefairy ex or another two-Prize
+  liability unless it immediately wins the game.
+- If Night Stretcher can recover Psychic Energy for an Active Jynx, that control line is generally stronger
+  than recovering a vulnerable two-Prize support Pokémon.
+- Gravity Mountain threatens the HP of Stage 2 Metagross, so replace the Stadium when practical.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and tactical engine: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a speed-matchup reference. Establish Beldum and a powered Jynx immediately, deny the replacement
+Riolu when possible, and remove all two-Prize Bench targets once Mega Lucario reaches 4 Prizes.
