@@ -245,3 +245,293 @@ profitably when its 200 damage places a high-HP two-Prize attacker in Metal Stom
 valuable late, when Last-Ditch Catch can convert an open Bench slot into the Boss's Orders needed to control
 the final Prize race.
 RATING: 9/10 (patient resource management and strong recovery under sustained Energy denial)
+
+MATCH #21 | RESULT: WIN | OPPONENT DECK: Mega Sharpedo EX / Pecharunt EX
+DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 0-6 | TIME: Not provided
+KEY MOMENTS: Went second and reached Rare Candy into an attacking Steven's Metagross ex on turn two. The same
+Metagross used five consecutive Metal Stomps for 200 damage and took all 6 Prizes: Munkidori for 1, Toxel for
+1, Pecharunt ex for 2, a second Toxel for 1 and Meowth ex for the final Prize. After Boss's Orders trapped
+Beldum Active, Lillie's Determination rebuilt the hand, Genesect ex was benched and powered, Metallic Signal
+found two Metang, the trapped Beldum evolved, another Beldum route was established and Switch restored
+Metagross to the Active Spot. The opponent made no attacks, Mega Sharpedo ex never became operational and the
+final action timer was missed.
+MVP CARD: Steven's Metagross EX (took every Prize through five uninterrupted Metal Stomps)
+LEARNINGS: The Active Metagross can maintain offensive pressure while the Bench builds insurance against a
+future knockout. When Boss's Orders traps a setup Pokémon Active, rebuild the hand, evolve the trapped Pokémon
+if useful and preserve Switch for the moment the main attacker can resume taking Prizes. Placing three Energy
+on Genesect was defensible replacement preparation, although the first Metagross remained safe. No deck change
+is supported by this low-resistance matchup.
+RATING: 9/10 (fast setup, strong recovery from the gust stall and a clean 6-0 finish)
+
+MATCH #22 | RESULT: WIN | OPPONENT DECK: Dhelmise / Bloodmoon Ursaluna EX / Lillie's Clefairy EX
+DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 0-4 | TIME: Not provided
+KEY MOMENTS: Went first and used turn-two Rare Candy into Steven's Metagross ex, followed by X-Boot and Team
+Rocket's Petrel into Precious Trolley. Precious Trolley established Latias ex, Genesect ex and Mega Mawile ex;
+Metallic Signal found future evolution pieces, and Latias enabled Fezandipiti ex to retreat. Metagross knocked
+out Moltres for 1 Prize and Lillie's Clefairy ex for 2 Prizes, dealing 400 through Metal Weakness. Dhelmise's
+Vengeful Anchor dealt 170 twice and knocked out Metagross for exactly 340 total damage. Mega Mawile ex then
+became Active, Fezandipiti ex used Flip the Script, Night Stretcher recovered Beldum and Boss's Orders exposed
+Bloodmoon Ursaluna ex. Huge Bite knocked out Ursaluna for 2 Prizes; Mawile survived the next 170 damage and
+knocked out Dhelmise for the final Prize.
+MVP CARD: Mega Mawile EX (replaced the lost Metagross and took the final 3 Prizes without interrupting pressure)
+LEARNINGS: The main error was leaving the damaged Metagross Active when another 170 damage was guaranteed to
+knock it out. The stronger line was to finish powering Mawile with X-Boot, use Boss's Orders on Lillie's
+Clefairy ex, retreat Metagross despite discarding three Energy, promote Mawile and take the knockout with Huge
+Bite. This would preserve Metagross and its X-Boot Ability, with Energy Recycler available to recover the
+discarded Energy. When an attacker is certain to be knocked out next turn, check whether an expensive retreat
+preserves a strategically important Ability. No deck change is recommended; the match confirms that the deck
+can rotate from Metagross to Mawile without losing offensive momentum.
+RATING: 8.5/10 (excellent opening, Prize mapping and replacement-attacker execution, with one avoidable engine loss)
+
+MATCH #23 | RESULT: WIN | OPPONENT DECK: Steven's Metagross EX / Mega Mawile EX / Jellicent EX
+OPPONENT: Itsnetrox | DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 3-6 (opponent inactive) | TIME: Not provided
+KEY MOMENTS: Went first and used Buddy-Buddy Poffin to establish two Steven's Beldum, then Precious Trolley
+filled the remaining Bench with Latias ex, Fezandipiti ex and Mega Skarmory ex. Genesect ex used Metallic
+Signal to secure Metang and Metagross ex. On turn two, Rare Candy produced an attacking Metagross, X-Boot
+powered it and Latias allowed Genesect to retreat for free. Metal Stomp dealt 200 to Mega Mawile ex. A second
+Metagross was established on the following turn, both X-Boot engines expanded the powered board, and another
+Metal Stomp knocked out Mega Mawile ex for 3 Prizes. The opponent then became inactive and lost on the timer.
+MVP CARD: Steven's Metagross EX (attacked on turn two and established a second X-Boot engine before the knockout)
+LEARNINGS: Poffin plus Precious Trolley can build the entire board on turn one, while Latias converts an opening
+Genesect into a free pivot. Establishing the second Metagross before taking the first major knockout protects
+the deck against a return knockout. Because the opponent missed a turn and timed out, this result confirms
+setup speed and redundancy but does not establish the full mirror matchup.
+RATING: 9/10 (near-ideal setup and pressure, with limited matchup evidence due to inactivity)
+
+MATCH #24 | RESULT: WIN | OPPONENT DECK: Munkidori / Lillie's Clefairy EX / Psychic toolbox
+OPPONENT: MrSquidgy | DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 6-6 (opponent conceded) | TIME: Not provided
+KEY MOMENTS: Opened Mega Skarmory ex Active with no Beldum or Genesect. Ultra Ball discarded a duplicate
+Lillie's Determination and Night Stretcher to find Genesect ex, whose Metallic Signal secured Metang and
+Metagross ex. Lillie's Determination then found Beldum and Rare Candy. On the following turn, Rare Candy
+evolved Beldum directly into Metagross, X-Boot powered it and the manually attached Energy left Mega Skarmory
+fully powered as a second attacker. The opponent conceded before either player attacked.
+MVP CARD: Genesect EX (converted a Skarmory-only opening into access to the complete Metagross engine)
+LEARNINGS: Ultra Ball for Genesect was the correct recovery from the weak opening, and preserving one Lillie's
+Determination enabled the hand rebuild. The sequencing error was using Metallic Signal immediately before
+Lillie's Determination shuffled the searched Metang and Metagross away. Play the hand reset first, then use
+Metallic Signal to retain the exact Evolution pieces still needed. The concession confirms setup recovery,
+not combat performance.
+RATING: 8.5/10 (strong recovery and Energy development, with one avoidable search-before-shuffle sequence)
+
+MATCH #25 | RESULT: WIN | OPPONENT DECK: Dragapult EX / Jellicent EX / Duskull
+OPPONENT: Drake2306 | DECK USED: Steven's Metagross EX toolbox
+TURNS: Not provided | PRIZE CARDS LEFT: 0-4 | TIME: Not provided
+KEY MOMENTS: Opened with two Steven's Beldum and Genesect ex, then used repeated Metallic Signal activations to
+evolve both Beldum through Metang into two Metagross ex. Both X-Boot engines came online together, powering the
+Active Metagross, its replacement and Mega Skarmory ex. The Active Metagross used two Metal Stomps to knock out
+Jellicent ex for 2 Prizes, then traded two attacks with Dragapult ex and was knocked out. The prepared Mega
+Skarmory immediately used Sonic Ripper for 220 to finish Dragapult ex, take 2 Prizes and recycle three Energy.
+Night Stretcher recovered Beldum to start another evolution route. After Boss's Orders and Unfair Stamp trapped
+that Beldum Active and reduced the hand to two cards, Latias ex enabled a free retreat into the surviving
+Metagross. Boss's Orders then removed an Energy-loaded Dreepy for the fifth Prize. The opponent Rare Candied
+the next Active Dreepy into Dragapult ex, but a final Boss's Orders bypassed it and brought the last Benched
+Dreepy Active for the winning Metal Stomp.
+MVP CARD: Boss's Orders (converted the final two attacks into safe one-Prize knockouts while bypassing Dragapult ex)
+LEARNINGS: Two early Metagross engines created the redundancy needed to absorb Dragapult's return knockout, and
+powering Mega Skarmory in advance produced the immediate counterattack. Precious Trolley's Latias proved
+decisive by defeating the late Boss's Orders stall without discarding Energy. The turn-two Boss's Orders on
+Dreepy was lower value than the two endgame gusts, although it forced the opponent to discard an Energy to
+retreat and delayed that evolution route. Against Dragapult, continue prioritising two Metagross, a powered
+Skarmory and Battle Cage when available; avoid exposing unnecessary low-HP support Pokémon if Phantom Dive
+damage counters can create extra Prizes.
+RATING: 9.5/10 (excellent attacker rotation, disruption recovery and exact endgame Prize mapping)
+
+MATCH #26 | RANKED MATCH #2 | RESULT: LOSS | OPPONENT DECK: Chandelure / Mega Chandelure EX / Hand Inflation
+OPPONENT: Ankorz | DECK USED: Steven's Metagross EX toolbox | MODE: Ranked
+TURNS: Not provided | PRIZE CARDS LEFT: 3-0 | TIME: Not provided
+KEY MOMENTS: Went first after a mulligan and used Precious Trolley to establish Genesect ex, Fezandipiti ex,
+Latias ex and a second Steven's Beldum. Both Beldum evolved through Metang into Metagross ex, and the two
+X-Boot engines powered both attackers immediately. Judge reduced both players to four cards before the first
+Metal Stomp knocked out Lampent for the opening Prize. The opponent then established multiple Chandelure,
+whose Alluring Light Abilities increased both hands before Mind Ruler exploited the player's hand size.
+Because Metagross was Fire Weak, six cards in hand produced a 360-damage one-hit knockout. The replacement
+Metagross knocked out Chandelure for 1 Prize, but Flip the Script and further search/recovery actions enlarged
+the hand to 11 cards; the next Mind Ruler dealt 660 after Weakness and took another 2 Prizes. Rare Candy rebuilt
+a third Metagross, which knocked out another Chandelure, but the player's hand reached 12 cards and the final
+Mind Ruler dealt 720 after Weakness for the opponent's last 2 Prizes. The final result was a 6-3 loss.
+MVP CARD: Chandelure (three single-Prize attackers each traded for a 2-Prize Metagross while Alluring Light
+forced the player's hand above Mind Ruler's knockout threshold)
+LEARNINGS: This was a severe structural counter rather than a failure to establish the engine. Mind Ruler does
+30 damage for each card in the opponent's hand, doubled by Metagross's Fire Weakness; six cards therefore reach
+360 and knock out 340-HP Metagross. With two opposing Alluring Light Abilities adding two cards before the
+attack, Metagross must end the player's turn with no more than three cards to remain below the knockout threshold.
+Avoid Flip the Script, Lillie's Determination and nonessential searches after Chandelure is operational. Use
+Judge as late as possible, spend the resulting hand aggressively, and prioritise Mega Skarmory ex as the attacker
+because it is Lightning Weak rather than Fire Weak. Sonic Ripper can knock out any 130-HP Chandelure, including
+one on the Bench, while keeping Metagross protected as the Energy engine. Preserve Boss's Orders for Elgyem,
+Litwick, Lampent or a stranded support Pokémon when that produces a safer Prize than promoting Metagross.
+RATING: 7.5/10 (excellent setup and repeated recovery, but hand growth was not controlled after Mind Ruler's
+damage condition became clear, and the Fire-neutral Skarmory route was developed too late)
+
+MATCH #27 | RANKED MATCH #3 | RESULT: LOSS | OPPONENT DECK: Mega Darkrai EX / Toxtricity / Pecharunt EX
+OPPONENT: Dhyns13 | DECK USED: Steven's Metagross EX toolbox | MODE: Ranked
+TURNS: Not provided | PRIZE CARDS LEFT: 6-0 | TIME: Not provided
+KEY MOMENTS: Went second with Mega Skarmory ex Active and Steven's Beldum on the Bench, but ended the opening
+turn without playing Lillie's Determination or attaching Energy. The opponent established two Toxel, evolved
+the first Toxtricity and used Sinister Surge plus manual attachments to prepare Mega Darkrai ex. On the next
+turn, Rare Candy produced Metagross ex, X-Boot powered it, Precious Trolley filled the Bench and Genesect ex
+secured a second evolution route. However, Skarmory remained Active and no attack was made. Dark Bell made
+Skarmory Confused, enabling Mega Darkrai ex's Abyss Eye to knock it out immediately for 3 Prizes. Flip the
+Script rebuilt the hand and a second Metagross route was powered, but Night Stretcher recovered the knocked-out
+Mega Skarmory ex and it was replayed to the Bench. The opponent then used two Sinister Surge Abilities to power
+a second Mega Darkrai ex, Pecharunt ex to rotate it Active, and Lisia's Appeal to gust the Benched Skarmory and
+make it Confused. Abyss Eye took the second 3-Prize knockout and ended the game without damage being required.
+MVP CARD: Mega Darkrai EX (Abyss Eye converted Confusion from Dark Bell and Lisia's Appeal into two automatic
+knockouts on 3-Prize Mega Skarmory ex)
+LEARNINGS: Abyss Eye automatically Knocks Out an opposing Active Pokémon affected by a Special Condition, so HP,
+Weakness and Battle Cage do not protect against this combo. The opening-turn Lillie's Determination should have
+been used to find Energy and playable setup cards; going second made the no-action turn especially costly. After
+Metagross was powered, Skarmory could retreat for free and Metagross could at least take a Prize with Metal Stomp,
+although Lisia's Appeal still made the matchup dangerous. The decisive endgame error was recovering and replaying
+Mega Skarmory after the opponent had already taken 3 Prizes: this exposed the only remaining 3-Prize Basic target,
+allowing Lisia's Appeal plus Abyss Eye to end the game immediately. Keep a knocked-out Mega Pokémon in the discard
+once the opponent reaches 3 Prizes, use Judge to disrupt access to Dark Bell or Lisia's Appeal, prioritise Boss's
+Orders on Toxtricity to slow Energy acceleration, and force Darkrai to take three separate 2-Prize knockouts from
+Metagross/support Pokémon rather than two 3-Prize knockouts from Skarmory.
+RATING: 5.5/10 (strong turn-two engine recovery, but the skipped opening Supporter, missed attack and replayed
+3-Prize target allowed the Darkrai combo to complete its fastest possible Prize route)
+
+MATCH #28 | RANKED MATCH #4 | RESULT: WIN | OPPONENT DECK: Ceruledge EX / Lunatone / Solrock
+OPPONENT: WombiClJu | DECK USED: Steven's Metagross EX toolbox | MODE: Ranked
+TURNS: Not provided | PRIZE CARDS LEFT: 4-4 (opponent inactive) | TIME: Not provided
+KEY MOMENTS: Went second after the opponent used Brilliant Blender to discard five Basic Energy and begin
+powering Ceruledge ex's Abyssal Flames. Precious Trolley established Fezandipiti ex, Mega Skarmory ex, Mega
+Mawile ex and a second Steven's Beldum, while Genesect ex used Metallic Signal to secure the evolution pieces.
+On the next turn, Rare Candy produced Metagross ex, the second Beldum evolved into Metang, X-Boot powered the
+first attacker and Lillie's Determination found Switch. Metagross moved Active and knocked out Drilbur for the
+opening Prize. The opponent then accelerated the Ceruledge plan with Carmine, Lunatone's Lunar Cycle and
+additional Energy discards; Abyssal Flames dealt 460 after Fire Weakness and knocked out Metagross for 2 Prizes.
+The surviving Metang evolved immediately into a replacement Metagross, Fezandipiti ex activated Flip the Script,
+Energy Recycler recovered the discarded Energy, Night Stretcher recovered Beldum and the third evolution route
+was restarted. Mega Mawile ex was stranded Active without enough Energy to attack, so Boss's Orders brought
+Lunatone Active and removed Ceruledge ex from immediate attacking position. After the opponent missed two turns,
+the third Metagross was established, X-Boot finished the Energy development, Mega Mawile retreated and the
+replacement Metagross knocked out Lunatone. The opponent then lost through inactivity with the Prize score 2-2.
+MVP CARD: Steven's Metagross EX (the second copy replaced the Fire-Weakness knockout, powered the rebuilt board
+and resumed attacking without the engine collapsing)
+LEARNINGS: The opening sequence was excellent: Precious Trolley created a redundant board, Metallic Signal
+found both evolution stages, and Lillie's Determination was played after the search pieces had already been
+used to evolve, avoiding the earlier search-before-shuffle mistake. After Ceruledge exposed the Fire matchup,
+the recovery sequence was disciplined: evolve the surviving Metang first, use Flip the Script only after the
+knockout, recycle Energy before subsequent turns' X-Boot activations and rebuild Beldum immediately. Boss's
+Orders on Lunatone was a strong defensive gust because Mawile could not attack; it forced the opponent to solve
+a retreat before Ceruledge could take another Fire-Weakness knockout. The main tactical improvement was the
+promotion after Metagross was knocked out: Mega Skarmory was the safer choice than Mega Mawile because Skarmory
+is not Fire Weak, can retreat for free and could be powered by X-Boot, whereas Mawile exposed a Fire-Weak
+3-Prize target and later required two Energy to retreat. The main sequencing improvement is to play the second
+Energy Recycler before the final X-Boot activations: one X-Boot attached only Psychic Energy because Metal
+Energy was unavailable, then Recycler returned Metal afterward. The final manual Psychic attachment to
+Genesect was also lower value than strengthening the second Metagross or another attacker. This result
+demonstrates excellent recovery, but the opponent's missed turns mean it does not prove the full Ceruledge
+matchup; preserving Mega Skarmory as the Fire-neutral attacker remains the safer long-game plan.
+RATING: 9/10 (fast setup, excellent post-knockout rebuild and intelligent defensive gust, with minor Energy
+sequencing inefficiency and limited evidence because the opponent became inactive)
+
+MATCH #29 | RANKED MATCH #5 | RESULT: WIN | OPPONENT DECK: Mega Chandelure EX / Jynx / Team Rocket's Chingling
+OPPONENT: Deejori | DECK USED: Steven's Metagross EX toolbox | MODE: Ranked
+TURNS: Not provided | PRIZE CARDS LEFT: 3-6 (opponent conceded) | TIME: Not provided
+KEY MOMENTS: Took one mulligan and opened Steven's Beldum Active, but turn-one Precious Trolley immediately
+established Fezandipiti ex, Genesect ex, Latias ex, Mega Skarmory ex and a second Beldum. Genesect ex used
+Metallic Signal to secure Metang and Metagross ex, while the Energy-attached Beldum retreated into Mega
+Skarmory. On the following turn, one Beldum evolved naturally into Metang and Rare Candy evolved the other
+directly into Metagross ex. X-Boot fully powered Skarmory in a single activation. The next turn produced the
+second Metagross, and both X-Boot engines expanded the powered board before Judge reduced both players to four
+cards. Mega Skarmory used Sonic Ripper for 220 to knock out the Active Lampent and recycle three Energy. Both
+Metagross then used X-Boot again, Lillie's Determination rebuilt the hand and the Active attacker rotated from
+Skarmory into Metagross, whose Metal Stomp knocked out Team Rocket's Chingling for the second Prize. After
+Crushing Hammer discarded one Metal Energy, the two X-Boot engines immediately restored and broadened the
+Energy position. Switch promoted Genesect ex, which used Protect Charge for 150 to knock out Jynx and take the
+third Prize. The opponent developed three Mega Chandelure ex but had still taken no Prizes; after another
+Lillie's Determination and Poké Pad, they conceded with Genesect Active, two Metagross engines intact and
+Mega Skarmory still available as a powered replacement attacker.
+MVP CARD: Precious Trolley (converted a mulligan opening into a complete six-Pokémon board containing both
+Metagross routes, the search engine, the free-retreat support and the first attacker)
+LEARNINGS: The turn-one sequence was exceptionally efficient: Precious Trolley established both Beldum routes
+and Genesect, Metallic Signal found both evolution stages, and the attached Active Beldum retreated into
+Skarmory without wasting the attachment. Developing one Metagross through Rare Candy and the other through
+Metang protected the deck from relying on a single evolution route. Judge was well timed before the first
+knockout, limiting the opponent after multiple Lampent setup effects while the player's board already held
+its required pieces. Attacker rotation was the main strength: Skarmory removed Lampent and recycled Energy,
+Metagross removed the disruptive Chingling, and Genesect removed Jynx while preserving both Metagross on the
+Bench. Crushing Hammer therefore failed to create meaningful disruption because two X-Boot activations were
+already available. The only minor inefficiency was that the final pair of X-Boot activations did not produce
+the maximum possible attachments, indicating that recycling or checking the remaining Energy mix before
+activating both engines could improve resource conversion. The concession occurred from a strongly winning
+position, but the match does not prove how the board would have handled repeated Mega Chandelure attacks;
+preserving Mega Skarmory as the Fire-neutral response remained important.
+RATING: 9.5/10 (complete turn-one board, two-engine acceleration, precise disruption and three-attacker rotation
+without conceding a Prize)
+
+MATCH #30 | RANKED MATCH #6 | RESULT: WIN | OPPONENT DECK: Dragapult EX / Duskull / Budew
+OPPONENT: PokeFreaksPete | DECK USED: Steven's Metagross EX toolbox | MODE: Ranked
+TURNS: 7 player turns | PRIZE CARDS LEFT: 0-2 | TIME: Not provided
+KEY MOMENTS: Went first and opened Steven's Beldum Active. Buddy-Buddy Poffin established a second Beldum,
+then Team Rocket's Petrel found Precious Trolley, which filled the Bench with Genesect ex, Lillie's Clefairy
+ex, Latias ex and Fezandipiti ex. Genesect's Metallic Signal found the evolution pieces, allowing one Beldum
+to evolve naturally through Metang while Rare Candy produced the first Metagross ex. On the next turn, the
+second Metagross evolved and the two X-Boot engines powered Lillie's Clefairy ex. Clefairy's Full Moon Rondo
+used Fairy Zone to deal 280 through Psychic Weakness and knock out the Active Drakloak before it could become
+Dragapult ex. Clefairy then knocked out Meowth ex for 2 Prizes and Budew for another Prize, taking 4 Prizes
+in total. The opponent finally established Dragapult ex and Phantom Dive knocked out the 190-HP Clefairy for
+2 Prizes while distributing six damage counters across the Bench. Metagross responded with Metal Stomp for
+200 damage. Night Stretcher then recovered Clefairy and it was replayed to the Bench, allowing the opponent's
+second Dragapult ex to use Boss's Orders and Phantom Dive for an easy second 2-Prize Clefairy knockout. On the
+final turn, Boss's Orders brought the already-damaged first Dragapult ex back Active and Metagross's second
+Metal Stomp completed the 320-damage knockout for the last 2 Prizes. The final result was a 6-4 victory.
+MVP CARD: Lillie's Clefairy EX (took the first 4 Prizes by removing Drakloak before it evolved, then knocking
+out Meowth ex and Budew; its first life created the winning Prize lead)
+LEARNINGS: Lillie's Clefairy ex was highly effective in this Dragapult matchup, but its correct role is an
+anti-Dragon tempo attacker rather than a durable anti-Dragon wall. Fairy Zone gives opposing Dragon Pokémon
+Psychic Weakness and Full Moon Rondo can reach 220 base damage with ten combined Benched Pokémon, becoming
+440 after Weakness and therefore knocking out a 320-HP Dragapult ex. However, Clefairy has only 190 HP, so
+Phantom Dive's 200 damage always knocks it out. The ideal exchange is to power Clefairy only when it can remove
+Drakloak before evolution or immediately answer an established Dragapult for an even 2-Prize trade. Once the
+first Clefairy had taken 4 Prizes and been knocked out, recovering and replaying it was unnecessary and gave
+Boss's Orders a fragile 2-Prize target; leaving it in the discard would have forced the opponent to attack a
+Metagross or another target and made the endgame safer. Preserve the single Clefairy deck slot, but do not
+automatically bench or recover it. Against Dragapult, use it early to interrupt the evolution chain or as a
+one-turn knockout response, then finish damaged Dragapult with Metagross, Mega Skarmory or Boss's Orders.
+The battle log again attributes Phantom Dive's Bench counters to the opponent's Pokémon, but the named targets
+were the player's Genesect, Latias, Metagross and Fezandipiti and are interpreted accordingly.
+RATING: 8.5/10 (excellent two-engine setup, four-Prize Clefairy run and exact final Boss's Orders knockout,
+reduced by unnecessarily recovering and exposing Clefairy as a second easy 2-Prize target)
+
+MATCH #31 | RANKED MATCH #7 | RESULT: LOSS | OPPONENT DECK: Dhelmise / Banette / Discarded-Pokémon Engine
+OPPONENT: Finnder24 | DECK USED: Steven's Metagross EX toolbox | MODE: Ranked
+TURNS: 7 player turns | PRIZE CARDS LEFT: 2-0 | TIME: Not provided
+KEY MOMENTS: Went first after a mulligan and opened Mega Kangaskhan ex Active. Run Errand found Buddy-Buddy
+Poffin, which established two Steven's Beldum. Brock's Scouting added Latias ex and Genesect ex, then Metallic
+Signal, Rare Candy and natural evolution produced two Metagross ex engines by turn three. The first Active
+Metagross knocked out Banette for the opening Prize. The opponent then used Boss's Orders to return Mega
+Kangaskhan ex Active, and Dhelmise's Vengeful Anchor dealt 170 damage after six Pokémon had been discarded.
+Kangaskhan already had 90 damage from Shuppet and Banette, leaving it at 260 total damage. Rather than retreating
+the three-Prize Pokémon, Boss's Orders brought Lillie's Clefairy ex Active and Rapid-Fire Combo knocked it out
+for 2 Prizes. Dhelmise attacked again for 170 and knocked out Kangaskhan for 3 Prizes. Metagross responded by
+knocking out Dhelmise, giving the player a 4-3 Prize lead. Mega Skarmory ex was then played to the Bench.
+The next Dhelmise attached Legacy Energy, used Boss's Orders to hit Skarmory for 170 and survived the turn only
+because Skarmory retreated into Metagross. Metal Stomp knocked out that Dhelmise, but Legacy Energy reduced the
+Prize award by one, so no Prize was taken. The opponent replaced it with another Dhelmise, replaced Battle Cage
+with Prism Tower, used Boss's Orders to bring the damaged Skarmory Active again and dealt the second 170 damage
+for a 3-Prize knockout and the game. The final result was a 6-4 loss.
+MVP CARD: Dhelmise (four Vengeful Anchor attacks converted the opponent's discarded-Pokémon setup into two
+three-Prize knockouts, while Legacy Energy denied the Prize that would otherwise have moved the player to five)
+LEARNINGS: The Metagross engine performed extremely well and established two X-Boot Abilities without delay;
+this loss was caused by Prize mapping rather than setup. After the first Vengeful Anchor, Mega Kangaskhan had
+260 total damage and three attached Psychic Energy. Manually retreating it by discarding those Energy, then
+promoting Metagross to knock out the Active Dhelmise, would have taken 1 Prize, removed the opponent's attacker
+and preserved the three-Prize Kangaskhan. Bossing Lillie's Clefairy ex instead gained 2 Prizes but guaranteed
+that the damaged Kangaskhan would remain Active for a 3-Prize return knockout, producing a losing 2-for-3 trade.
+The second decisive mistake was playing Mega Skarmory ex after the opponent had taken exactly 3 Prizes. Once
+Skarmory absorbed the first 170 damage, retreating it did not make it safe because Boss's Orders could bring it
+back for the second hit. With no Mega Pokémon on the Bench, the opponent would have needed at least two more
+knockouts rather than one. Against this Dhelmise build, remove Dhelmise before chasing support Pokémon, respect
+Legacy Energy's Prize denial, and stop benching Mega Pokémon once the opponent reaches 3 Prizes unless that Mega
+can attack immediately and decisively. Battle Cage did not affect the damage race and was easily replaced by
+Prism Tower. Preserve the two Metagross engines, force the opponent to take two-Prize or one-Prize knockouts,
+and treat any damaged three-Prize Mega as a target that must be denied rather than merely retreated.
+RATING: 7/10 (excellent two-engine development and a temporary 4-3 Prize lead, but two avoidable three-Prize
+targets allowed Dhelmise to win through exactly two knockouts)
