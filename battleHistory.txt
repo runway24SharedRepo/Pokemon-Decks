@@ -1076,3 +1076,233 @@ attacker redundancy. Keep the current 60-card list unchanged: it has now demonst
 recovery from Judge, healing, full Prize conversion and parallel attacker development.
 RATING: 9.5/10 (complete six-Prize control, excellent healing and a prepared replacement attacker; reduced only
 for two missed third-Metal-Maker activations that could have finished powering the backup sooner)
+
+MATCH #49 | NON-RANKED | RESULT: LOSS | OPPONENT DECK: DRAGAPULT EX / DUSKNOIR / MUNKIDORI
+OPPONENT: strongbelieves | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Non-ranked
+TURNS: 4 player turns | PRIZE CARDS LEFT: 4-1 | TIME: Not provided
+KEY MOMENTS: Attarus went first after two mulligans and opened with Beldum Active plus a second Beldum on the
+Bench. The first turn ended without development because Supporters could not be played. Drilbur was Benched on
+the following turn and received a manual Metal Energy. Lillie's Determination refreshed the hand, Ultra Ball
+found Metang and the Benched Beldum evolved. Metal Maker attached a second Energy to Drilbur. The opponent
+established two Drakloak, Fezandipiti ex, Munkidori, Meowth ex and the Duskull line; all three Crushing Hammer
+flips landed tails. On attarus's third turn Drilbur evolved into Mega Excadrill ex, received a third manual
+Energy, and Petrel found Switch. Excadrill moved Active and Maximum Drilling knocked out the first Drakloak for
+1 Prize. The second Drakloak evolved into Dragapult ex. Phantom Dive dealt 200 to Excadrill and placed six
+damage counters on the remaining Benched Beldum, knocking it out. Attarus then manually attached a fourth
+Energy, Metal Maker supplied the fifth, and Maximum Drilling dealt 200 to Dragapult. Dusknoir used Cursed Blast
+to knock out the only Benched Metang for 1 Prize while also knocking itself out, giving attarus a second Prize.
+Munkidori moved three damage counters from Dragapult to Excadrill. Dragapult's second Phantom Dive knocked out
+Mega Excadrill ex for 3 Prizes. Strongbelieves had taken only 5 Prizes, but won immediately because attarus had
+no Benched Pokemon.
+MVP CARD: Dusknoir (Cursed Blast removed the last Benched Pokemon immediately before Dragapult knocked out the
+Active Mega Excadrill, converting a five-Prize position into a board-out victory)
+LEARNINGS: This loss exposed a specific weakness rather than an Energy failure. The Excadrill reached five
+Energy on schedule despite one Metal Maker whiff, and all three Crushing Hammer attempts failed. The opponent's
+60-damage Phantom Dive placement removed the spare 60-HP Beldum, then Cursed Blast removed the only Metang;
+the second Phantom Dive therefore ended the game without requiring the final Prize. Switching into Excadrill
+and taking the Drakloak knockout was correct, but Switch was not required. Excadrill already had the two Energy
+needed for Undermine. The stronger sequence was Petrel for Precious Trolley, play Trolley to widen the Bench,
+manually attach Metal Energy to the Active Beldum, retreat it for one Energy, promote Mega Excadrill and use
+Undermine for the exact 90-damage Drakloak knockout. This preserves the same Prize while denying the immediate
+board-out route. Team Rocket's Transceiver also unnecessarily fetched another Petrel immediately before one
+Petrel was discarded with Ultra Ball; holding Transceiver would have preserved flexible Trainer access. A
+secondary board-safe option was Ultra Ball for Genesect ex, then Metallic Signal for Metang and Mega Excadrill,
+but Trolley plus manual retreat was the cleanest line. Against Dragapult/Dusknoir, establish at least four
+Pokemon before committing the only attacker, preserve multiple Beldum/Metang engines, and expect 60 spread plus
+130 Cursed Blast to remove two small Benched Pokemon in one opponent turn. This match does not justify replacing
+a Basic Energy or a searchable Switch with Magnetic Metal Energy; the better solution was using the available
+Basic Energy to retreat while Petrel found Trolley.
+RATING: 6/10 (the deck powered Excadrill on time, but Petrel-for-Switch missed an exact Trolley plus manual-retreat
+line that would have widened the Bench while taking the same knockout; the narrow board enabled the loss)
+
+MATCH #50 | RANKED MATCH #18 | RESULT: WIN | OPPONENT DECK: MEGA EXCADRILL EX / METANG MIRROR
+OPPONENT: Popscan | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Ranked
+TURNS: 6 player turns | PRIZE CARDS LEFT: 0-3 | TIME: Not provided
+KEY MOMENTS: Attarus went second after one mulligan and opened Drilbur Active against two Genesect ex. Team
+Rocket's Transceiver found Petrel, which found Precious Trolley and established two Beldum, a second Drilbur,
+Genesect ex and Fezandipiti ex. Metallic Signal found Metang plus Mega Excadrill ex. Popscan used Boss's Orders
+to strand Fezandipiti ex Active, but attarus evolved both Beldum into Metang and both Drilbur into Mega
+Excadrill ex. Two Metal Maker activations supplied three Energy, Lillie's Determination refreshed the hand and
+Switch promoted the five-Energy Mega Excadrill. Maximum Drilling knocked out the opponent's Active Genesect ex
+for 2 Prizes. Popscan promoted Mega Excadrill ex, attached Hero's Cape to raise its HP beyond 330 and established
+Metang. Attarus dealt 330 damage to the caped Excadrill, but Wally's Compassion healed all 330 damage. Metal
+Maker plus a manual attachment then supplied two more Energy, allowing
+Undermine for 90 damage. Jumbo Ice Cream erased 80 of that damage. Rather than continue attacking the healed
+440-HP Excadrill, attarus used Boss's Orders to bring the second Genesect ex Active and Maximum Drilling took
+another 2 Prizes. Popscan used Special Red Card to reduce an eight-card hand to three, rebuilt through Petrel
+and hit the Active Excadrill for 200. Attarus used Energy Recycler, placed three Metal Energy onto Fezandipiti
+ex as an emergency attacker and used Petrel to recover Boss's Orders, then dealt another 330 to the opponent's
+Excadrill. A second Special Red Card disrupted the hand again. Popscan searched Jumbo Ice Cream with Petrel,
+healed 80 and returned a 330-damage Maximum Drilling to knock out attarus's first Excadrill for 3 Prizes. The
+fully powered replacement Mega Excadrill promoted immediately and used Maximum Drilling for the final 330,
+knocking out Popscan's Mega Excadrill ex and taking the last 2 Prizes.
+MVP CARD: Mega Excadrill EX (the first copy took 4 Prizes and forced the opponent's full healing sequence; the
+parallel second copy delivered the immediate return knockout for the ranked win)
+LEARNINGS: This was the strongest test of the deck so far: a complete mirror Prize race against Hero's Cape,
+Wally's Compassion, Jumbo Ice Cream and two Special Red Card disruptions. The opening Petrel-to-Trolley line
+and simultaneous two-Metang/two-Excadrill development were excellent. Boss's Orders was decisive because it
+bypassed the fully healed 440-HP Excadrill and converted the second Genesect ex into an efficient 2-Prize
+target. Building the replacement Excadrill to five Energy before the first attacker fell won the game; after
+Popscan finally took 3 Prizes there was no recovery turn available. Attaching three spare Energy to Fezandipiti
+ex was reasonable because the replacement Excadrill was already fully powered and it created an emergency
+three-Colorless attacker. The opponent demonstrated that Wally's Compassion fits the Metang engine: it erased
+330 damage that Jumbo Ice Cream could not, although returning all attached Energy reduced the healed Excadrill
+to Undermine on that turn. Wally and Jumbo are complementary rather than a same-turn combo. Jumbo provides
+tempo-efficient 80-damage healing while preserving all Energy; Wally is an emergency full reset after a Mega
+Excadrill survives 330 damage, and works best when a second attacker is ready or Switch is already available.
+At the time of this match attarus had not added Wally; the opponent's use merely demonstrated a possible future
+one-copy test. Petrel can search Wally in advance, but because both cards are Supporters Wally cannot be played
+until a later turn. Boss's Orders proved essential in this mirror and should not be removed.
+RATING: 9.5/10 (excellent board development, correct Boss targeting, recovery through two hand disruptions and
+a fully powered replacement attacker; Wally was used by the opponent, not by attarus)
+
+MATCH #51 | RANKED MATCH #19 | RESULT: WIN | OPPONENT DECK: FESTIVAL LEAD DIPPLIN / THWACKEY / SEAKING
+OPPONENT: carlosgalk | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Ranked
+TURNS: 8 player turns | PRIZE CARDS LEFT: 0-2 | TIME: Not provided
+KEY MOMENTS: Carlosgalk went first after one mulligan and established three Applin plus two Grookey. Attarus
+opened Drilbur Active, then Petrel found Precious Trolley to establish two Beldum, a second Drilbur and Genesect
+ex; Call for Family added a third Beldum. The opponent evolved into Dipplin and Thwackey, then Do the Wave dealt
+160 through Drilbur's Grass Weakness for the first Prize. Attarus responded by evolving three Metang and Mega
+Excadrill ex. The three Metal Maker activations supplied four Energy after one whiff, the manual attachment
+provided the fifth and Petrel found Switch. Maximum Drilling knocked out Dipplin. Festival Grounds then enabled
+Festival Lead, allowing Dipplin to attack twice per turn. Grass Resistance reduced each Brave Bangle-boosted Do
+the Wave from 130 to 100. Attarus used Jumbo Ice Cream, rebuilt the discarded Drilbur with Night Stretcher and
+four Metal Energy, and took a second Dipplin knockout. Seaking then used Festival Lead to attack twice for 120
+total and draw four cards. A second Mega Excadrill was fully prepared; the damaged first attacker retreated by
+discarding four Energy and the replacement knocked out Seaking. Carlosgalk used Boss's Orders to bring the first
+Excadrill back Active and Do the Wave knocked it out for 3 Prizes, moving the opponent to four Prizes taken.
+Fezandipiti ex activated Flip the Script, Jumbo Ice Cream healed the surviving Excadrill and Maximum Drilling
+removed another Dipplin. After the next Dipplin attacked twice with Kieran for 200 total, another Jumbo Ice Cream
+healed 80. Attarus then used Petrel for Special Red Card, reduced the opponent's nine-card hand to three,
+retreated the damaged Mega Excadrill and promoted a three-Energy Genesect ex. Protect Charge knocked out Dipplin
+for the fifth Prize, and after the opponent timed out, a second Protect Charge knocked out Thwackey for the final
+Prize.
+MVP CARD: Genesect EX (Metallic Signal supplied the Evolutions early, then three Metal Energy converted Genesect
+into the 150-damage secondary attacker that took the final 2 Prizes while protecting the remaining Mega Excadrill)
+LEARNINGS: This was a difficult 6-4 Prize race in which the opponent forced attarus to take six single-Prize
+knockouts while attarus could not afford to expose another three-Prize Mega unnecessarily. The opening Trolley, three Metang and parallel
+Excadrill construction were excellent. Grass Resistance was crucial: Festival Lead Dipplin attacked twice for
+only 200 total instead of 260, and Seaking dealt 120 total. Rotating the heavily damaged first Excadrill to the
+Bench was correct even though Boss's Orders eventually collected its 3 Prizes, because the fully powered second
+attacker remained healthy enough to continue the race. The decisive late-game line was preparing Genesect with
+three Energy, using Special Red Card against a nine-card hand, and retreating the surviving Mega before Protect
+Charge took the last two single-Prize knockouts. Wally's Compassion was not in attarus's deck, so this was not a
+Wally test. It did provide a possible use case: the first Excadrill had accumulated 240 damage, paid four Energy
+to retreat and retained one. If Wally had already been in hand, it could have healed that Benched Excadrill and
+potentially denied the Boss knockout. Petrel could not search and play Wally on that same turn because both are
+Supporters, so Wally would need to be drawn or prepared a turn ahead. The repeated Jumbo Ice Cream healing was
+valuable for controlling damage while preserving the Supporter action and confirms that Jumbo remains the primary
+tempo-healing card. No Wally deck change was made after this match.
+RATING: 9.5/10 (excellent recovery from the opening Weakness knockout, correct two-attacker development, strong
+damage management and a creative Genesect finish; the opponent's Boss line prevented the wounded Mega from being
+saved, but no clear sequencing error created that loss)
+
+MATCH #52 | NON-RANKED | RESULT: WIN | OPPONENT DECK: MEGA VENUSAUR EX / MEGA MEGANIUM EX / TEAL MASK OGERPON EX
+OPPONENT: Kv-0018 | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Non-ranked
+TURNS: 6 player turns | PRIZE CARDS LEFT AT CONCESSION: 3-4 | TIME: Not provided
+KEY MOMENTS: Attarus went first after one mulligan and opened Beldum Active. Genesect ex was Benched, Metallic
+Signal found Metang plus Mega Excadrill ex, and Team Rocket's Petrel found Boss's Orders. On the next turn
+Precious Trolley established a second Beldum, two Drilbur and Fezandipiti ex. The Active Beldum evolved into
+Metang, while a manual attachment and Metal Maker placed two Energy on the first Drilbur. Genesect found two
+more Evolutions. Kv-0018 used Grand Tree to evolve the Active Bulbasaur through Ivysaur into Mega Venusaur ex,
+Solar Transfer supplied two additional Grass Energy and Jungle Dump knocked out Metang for 210 after Resistance.
+Attarus promoted Drilbur, evolved both Drilbur into Mega Excadrill ex and the remaining Beldum into Metang, then
+used Flip the Script to draw three cards. A manual attachment plus Metal Maker brought the Active Excadrill to
+four Energy. Petrel found Boss's Orders, but Switch moved Mega Excadrill to the Bench and promoted Metang, which
+was knocked out by Jungle Dump for the opponent's second Prize. Mega Excadrill returned Active, received its
+fifth Energy and used Maximum Drilling for 330 damage. Venusaur returned 210 and healed 30. Jumbo Ice Cream
+healed 80, Maximum Drilling dealt another 330 and knocked out Mega Venusaur ex for 3 Prizes. Kv-0018 rebuilt a
+second Mega Venusaur ex Active and evolved Chikorita through Bayleef into Mega Meganium ex on the Bench. Attarus
+continued powering the replacement Excadrill, used a second Jumbo Ice Cream, then Boss's Orders brought Mega
+Meganium ex Active. Maximum Drilling dealt 330, after which Kv-0018 conceded.
+MVP CARD: Mega Excadrill EX (survived Jungle Dump with help from Jumbo Ice Cream, removed the first three-Prize
+Mega Venusaur and forced the concession after dealing 330 to Mega Meganium)
+LEARNINGS: The deck won the difficult Grass matchup through Resistance, healing and parallel attacker
+development. Precious Trolley and Genesect established the full board, while Flip the Script repaired the hand
+after the first knockout. The best later sequence was Jumbo Ice Cream plus Boss's Orders: because Jumbo is an
+Item, attarus could heal and gust Mega Meganium in the same turn. Wally's Compassion was present as a one-copy
+test but was not drawn or used; it would have competed with Boss's Orders on that turn, so the match directly
+validated Jumbo's tempo without resolving whether Wally deserves its slot. The main missed line came after the
+first Metang was knocked out. Mega
+Excadrill already had four Energy and could use Undermine for 90, survive Venusaur's Resistance-reduced 210 and
+then be healed by Jumbo Ice Cream. Switching the healthy Excadrill out and sacrificing the only remaining Metang
+gave away a Prize and removed the final Metal Maker engine. Petrel's first-turn search for Boss's Orders also
+depended on top-decking Precious Trolley; searching Trolley directly would have guaranteed the setup. The topdeck
+made that risk harmless, and Boss's Orders later helped force the concession.
+RATING: 8.5/10 (strong recovery, healing and correct final gust pressure; reduced for unnecessarily sacrificing
+the second Metang instead of attacking with the four-Energy Excadrill)
+
+MATCH #53 | NON-RANKED | RESULT: WIN | OPPONENT DECK: DHELMISE / DISCARDED-POKEMON ENGINE / LATIAS EX
+OPPONENT: Huxusuggx | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Non-ranked
+TURNS: 6 player turns | PRIZE CARDS LEFT AT CONCESSION: 1-1 | TIME: Not provided
+KEY MOMENTS: Attarus went first with Genesect ex Active and used Buddy-Buddy Poffin to establish two Beldum
+plus Drilbur. Genesect's Metallic Signal found two Metang. Huxusuggx used Brilliant Blender and Explorer's
+Guidance to put six Pokemon into the discard immediately, allowing Dhelmise's Vengeful Anchor to hit Genesect
+ex for 170 on the first attacking turn. Attarus evolved both Beldum into Metang and Drilbur into Mega Excadrill
+ex. Two Metal Maker activations supplied three Energy in addition to two manual attachments, Switch promoted
+Excadrill, and Maximum Drilling knocked out the first Dhelmise for 1 Prize. After the next Dhelmise dealt 170,
+Petrel found Jumbo Ice Cream to heal 80 and Maximum Drilling took a second Dhelmise knockout. The opponent
+continued recycling Dhelmise with Night Stretcher while Prism Tower and Gwynn increased the discarded-Pokemon
+count to twelve. With the first Excadrill at 260 damage, attarus used Boss's Orders to bypass the Active
+Dhelmise and knock out Latias ex for 2 Prizes. The next Vengeful Anchor knocked out Mega Excadrill ex for 3
+Prizes. Crucially, the replacement Drilbur had already received two Energy from the two Metang. It promoted,
+evolved into Mega Excadrill ex, and Special Red Card reduced both players to three cards immediately after the
+opponent's three-Prize draw. Two Metal Maker activations supplied the remaining three Energy, and Maximum
+Drilling knocked out another Dhelmise for the fifth Prize. Huxusuggx then used Boss's Orders to knock out the
+damaged Genesect ex for 2 Prizes, tying the race at five Prizes each. The fully powered second Excadrill
+returned Active, and Huxusuggx conceded before the available final Dhelmise knockout.
+MVP CARD: Mega Excadrill EX (the first copy converted four Prizes, including the essential two-Prize Latias
+target, while the prepared replacement immediately answered after the three-Prize knockout and forced the win)
+LEARNINGS: This was difficult because Dhelmise traded a single Prize for repeated 170-damage attacks and was
+recycled with Night Stretcher. The opponent reached the attack's effective damage ceiling almost immediately
+by discarding six Pokemon, so further discards increased consistency rather than damage. Boss's Orders on
+Latias ex was the pivotal Prize-map decision: taking two Prizes from Latias prevented attarus from needing to
+knock out six separate Dhelmise. Choosing Boss over Petrel on the 260-damage Excadrill turn was correct even
+though the attacker fell next turn; another Jumbo heal would have traded for only one Prize and still left the
+Excadrill vulnerable to the following 170 damage. Preparing the second Drilbur before the first Excadrill was
+knocked out was equally decisive. It already had two Energy, so the two surviving Metang could accelerate the
+new Excadrill from two to five Energy in one turn. Special Red Card was well timed after the opponent took 3
+Prizes and had gained cards from Lucky Helmet, although it also surrendered attarus's eleven-card hand; the
+established board made that symmetrical reset safe. Genesect absorbed the opening 170 damage and later gave up
+2 Prizes to Boss's Orders, but by then its Metallic Signal work was complete and the final Excadrill was ready.
+Wally's Compassion was not drawn or used, so this match neither proves nor disproves the one-copy test. Keep
+the current list unchanged: the two-Excadrill plan, two Metang and Boss's Orders solved a hostile single-Prize
+trade without requiring a deck edit.
+RATING: 9/10 (excellent early acceleration, correct Latias target and immediate replacement attacker; the game
+reached 5-5 because the opponent's one-Prize Dhelmise loop and late Boss's Orders created a very tight race)
+
+MATCH #54 | RANKED MATCH #20 | RESULT: LOSS | OPPONENT DECK: DHELMISE / BANETTE / DUDUNSPARCE DISCARD ENGINE
+OPPONENT: Caleb1994 | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Ranked
+TURNS: 8 player turns | PRIZE CARDS LEFT: 1-0 | TIME: Not provided
+KEY MOMENTS: Attarus went first with two Beldum and used Precious Trolley to establish three Beldum, two Drilbur
+and Genesect ex. Metallic Signal found Metang plus Mega Excadrill ex. Caleb1994 opened Dhelmise and used
+Telepathic Psychic Energy to place two more Dhelmise on the Bench. Its first two Vengeful Anchor attacks dealt
+only 30 because few Pokemon were discarded. Attarus evolved all three Beldum into Metang, developed both
+Drilbur and used the three Metal Maker engines to power the first Mega Excadrill while preparing the second.
+The first Maximum Drilling knocked out Dhelmise for 1 Prize. Banette then used Puppet Pull for 80 damage, which
+Jumbo Ice Cream completely healed before Excadrill knocked it out. Caleb1994 repeatedly cycled Dudunsparce for
+draw, used Prism Tower, Gwynn and Ultra Ball to discard Pokemon, and recycled Dhelmise with Night Stretcher.
+Boss's Orders exposed Genesect ex, and Vengeful Anchor knocked it out for 2 Prizes. Attarus recovered Genesect
+with Night Stretcher, used Energy Recycler to return four Metal Energy, and continued taking single-Prize
+Dhelmise knockouts. The first Excadrill took four Prizes in total before two 170-damage Vengeful Anchor attacks
+knocked it out for 3 Prizes. The fully powered replacement Excadrill immediately took the fifth Prize, but the
+opponent's second Boss's Orders exposed Metang and Vengeful Anchor took the final Prize, ending the race 6-5.
+MVP CARD: Boss's Orders (Caleb1994 converted Genesect ex into 2 Prizes and later bypassed the healthy Mega
+Excadrill to knock out Metang for the exact final Prize)
+LEARNINGS: The setup and attacker development were strong: three Metang accelerated two Mega Excadrill, Energy
+Recycler repaired the Energy supply, and the replacement attacker was ready when the first fell. The matchup
+was structurally difficult because every opposing attacker gave up only one Prize and no multi-Prize target was
+available, unlike Match #53 where Latias ex supplied the decisive extra Prize. The clearest inefficiency was
+Kieran on a turn when the Active Dhelmise was neither Pokemon ex nor Pokemon V; its 30-damage effect did nothing.
+More importantly, the first Excadrill had 170 damage and the replacement was already powered before the next
+Vengeful Anchor. A rotation into the healthy replacement was worth considering, but it would not guarantee
+safety because Boss's Orders could still return the damaged three-Prize Excadrill Active. The opening Switch
+into Genesect was also unnecessary for Metallic Signal, which works from the Bench; preserving Switch would
+have created more late-game rotation flexibility. Jumbo Ice Cream performed well by erasing Banette's full 80
+damage. Wally's Compassion was not drawn or used, so the one-copy test remains unresolved; if available while
+the first Excadrill held 170 damage, a full heal would have denied the immediate two-hit knockout. No deck edit
+is justified from this single narrow loss. Against this archetype, preserve Switch, avoid Bench liabilities once
+their search role is complete, prepare two attackers, and expect Boss's Orders to determine the final Prize.
+RATING: 8/10 (excellent setup, Energy recovery and replacement-attacker preparation; reduced for an unnecessary
+opening Switch and a zero-value Kieran, while the opponent's all-single-Prize field and two precise Boss plays
+decided the 6-5 race)

@@ -1198,3 +1198,377 @@ RECONSTRUCTION CONFIDENCE
 NEXT ACTION
 Retain as a model Metal deck and priority matchup reference. Disrupt Drilbur or Metang before committing
 Mega Darkrai, and force the opponent to take multiple single-Prize knockouts after the first Darkrai falls.
+
+================================================================================
+ENTRY #12 | WHEELERJER | MEGA SKARMORY EX / MEGA EXCADRILL EX / METANG TOOLBOX
+Source: Non-ranked Match #45
+Result against attarus: Wheelerjer won 6-3
+STYLE: Dual-Mega Metal toolbox / Energy recycling / parallel attacker development
+INTEREST LEVEL: VERY HIGH — a broader and more resilient version of the Mega Excadrill acceleration strategy
+
+WHY THE DECK WORKED
+- Precious Trolley established both Beldum, Drilbur, Genesect ex and Mega Skarmory ex immediately.
+- Two Metang supplied continuous acceleration while Genesect ex repeatedly searched Metal Pokémon.
+- Mega Skarmory's Sonic Ripper dealt 220 while recycling its attached Energy back into the deck for Metal Maker.
+- Mega Excadrill ex provided a separate 330-damage-capable threat and forced attarus to spend Dark Bell plus
+  Abyss Eye to remove it.
+- Judge disrupted an eleven-card hand immediately before Mega Skarmory knocked out Mega Darkrai for 3 Prizes.
+- A second Drilbur and at least two replacement Mega Excadrill cards preserved the attack line after the first
+  Excadrill was knocked out.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+1 Meowth ex
+2 Beldum
+3 Metang
+2 Drilbur
+3 Mega Excadrill ex
+1 Genesect ex
+1 Mega Skarmory ex
+
+COUNT EVIDENCE
+- Two Beldum were simultaneously in play and evolved into two separate Metang; a third Metang was later drawn
+  by Metallic Signal.
+- The opening Drilbur evolved into the first Mega Excadrill ex. A later Poké Pad found a different Drilbur,
+  which evolved into a replacement.
+- One Mega Excadrill ex was drawn before the first evolution. After it was knocked out, Metallic Signal drew
+  two Mega Excadrill ex simultaneously, proving at least three copies in the deck. A later single Excadrill draw
+  occurred after Judge and may have been one of those reshuffled copies, so it does not prove a fourth.
+- Meowth ex opened Active, Genesect ex used Metallic Signal repeatedly and Mega Skarmory ex used Sonic Ripper
+  three times.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+1 Precious Trolley
+1 Team Rocket's Petrel
+1 Emma
+2 Lillie's Determination
+1 Boss's Orders
+1 Poké Pad
+1 Judge
+1 Team Rocket's Factory
+
+CONFIRMED ENERGY — MINIMUM COPIES PROVED BY THE LOG
+2 Magnetic Metal Energy
+4 Basic Metal Energy
+
+ENERGY EVIDENCE
+- Two Magnetic Metal Energy were proved because one was discarded when Meowth ex retreated while another had
+  already been recycled by Mega Skarmory's first Sonic Ripper.
+- Mega Skarmory later held four Basic Metal Energy simultaneously before Sonic Ripper returned them, proving
+  at least four physical copies. The exact Basic Metal Energy count is higher or equal but cannot be recovered
+  from the log because Sonic Ripper repeatedly recycled Energy.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+2-3 Beldum
+3-4 Metang
+2 Drilbur
+3 Mega Excadrill ex
+1-2 Genesect ex
+1 Mega Skarmory ex
+1 Meowth ex
+
+Trainers
+1 Precious Trolley
+2-4 Team Rocket's Petrel
+1-2 Emma
+3-4 Lillie's Determination
+2-3 Boss's Orders
+1-2 Poké Pad
+1-2 Judge
+1 Team Rocket's Factory
+Additional search, recovery and switching cards — exact identities unknown
+
+Energy
+2-4 Magnetic Metal Energy
+Approximately 9-13 Basic Metal Energy to support repeated Metal Maker activations; exact count unknown
+
+TACTICAL ROLE MAP
+- Sustained main attacker and Energy recycler: Mega Skarmory ex
+- Burst attacker and three-Prize knockout threat: Mega Excadrill ex
+- Energy acceleration: Metang
+- Metal Pokémon search: Genesect ex
+- Opening board setup: Precious Trolley
+- Supporter search: Team Rocket's Petrel and Meowth ex
+- Hand disruption: Judge
+- Energy supply and Stadium control: Team Rocket's Factory
+
+OBSERVED PRIZE MAP
+1. Mega Excadrill ex used Maximum Drilling for 200 and knocked out Munkidori: Wheelerjer took 1 Prize.
+2. Mega Excadrill ex used Undermine for 90 and knocked out Team Rocket's Sneasel: Wheelerjer took 1 Prize.
+3. Dark Bell Confused Mega Excadrill and Mega Darkrai ex used Abyss Eye: attarus took 3 Prizes.
+4. Mega Skarmory ex used Sonic Ripper for 220 and knocked out Mega Darkrai ex: Wheelerjer took 3 Prizes.
+5. Mega Skarmory ex used Sonic Ripper for 220 and knocked out Munkidori: Wheelerjer took the final Prize.
+
+MATCHUP NOTES
+- This is not merely an Excadrill deck. Removing Excadrill still leaves a fully functional 220-damage Skarmory
+  plan, so identify which attacker is already powered before committing Mega Darkrai.
+- Disrupting one Metang is insufficient when two are in play. Remove both acceleration engines or disable
+  Genesect before relying on Energy denial.
+- Sonic Ripper recycles its own Energy, which feeds later Metal Maker activations and makes ordinary Energy
+  depletion ineffective.
+- Dark Bell plus Abyss Eye is the cleanest answer to Mega Excadrill, but it must be timed around the powered
+  Skarmory response; a damaged Darkrai is an easy three-Prize return knockout.
+- Adrena-Brain can place initial counters on Benched Mega Skarmory so Sneasel can target it. However, one moved
+  set produces only 60 damage; Sneasel needs substantially more existing damage to become a real knockout threat.
+- Judge is a demonstrated endgame disruption card. Use important search and recovery cards before giving the
+  opponent a chance to reduce a large hand to four.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and dual-attacker engine: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority build candidate. Compared with Slowzyuu's narrower Mega Excadrill list, this version has
+a stronger fallback attacker and better Energy recycling. If recreating it, preserve the proved core of two
+Beldum, at least three Metang, two Drilbur, three Mega Excadrill ex, one Genesect ex and one Mega Skarmory ex;
+test uncertain Trainer and Energy counts rather than treating the estimated ranges as confirmed.
+
+================================================================================
+ENTRY #13 | STRONGBELIEVES | DRAGAPULT EX / DUSKNOIR / MUNKIDORI
+Source: Non-ranked Match #49
+Result against attarus: strongbelieves won by board-out after taking 5 Prizes (attarus took 2)
+STYLE: Bench spread / self-KO damage placement / damage-counter transfer / board collapse
+INTEREST LEVEL: HIGH — directly pressures the low-HP Beldum and Metang acceleration engine
+
+WHY THE DECK WORKED
+- Two Drakloak supplied Recon Directive draw while preparing Dragapult ex.
+- Dragapult ex combined 200 Active damage with six counters on a 60-HP Benched Beldum.
+- Dusknoir's Cursed Blast sacrificed itself to remove the remaining Benched Metang.
+- Munkidori moved three counters off Dragapult and onto Mega Excadrill ex.
+- The second Phantom Dive knocked out Excadrill for 3 Prizes and won by board-out with one Prize remaining.
+- Three Crushing Hammer flips all failed, proving that Energy denial was not required for the win.
+
+CONFIRMED POKEMON — MINIMUM COPIES PROVED BY THE LOG
+2 Dreepy
+2 Drakloak
+1 Dragapult ex
+1 Duskull
+1 Dusclops
+1 Dusknoir
+1 Fezandipiti ex
+1 Munkidori
+1 Meowth ex
+
+COUNT EVIDENCE
+- Two Dreepy were simultaneously in play and evolved into two separate Drakloak.
+- One Drakloak was knocked out before the surviving Drakloak evolved into Dragapult ex.
+- The Duskull evolved naturally through Dusclops into Dusknoir.
+- Fezandipiti ex, Munkidori and Meowth ex were all simultaneously on the Bench.
+- One Ultra Ball was played while two additional Ultra Ball were discarded, proving at least three copies.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+3 Ultra Ball
+3 Crushing Hammer
+1 Poke Pad
+1 Buddy-Buddy Poffin
+1 Lillie's Determination
+1 Handheld Fan
+1 Jamming Tower
+1 Crispin
+1 Night Stretcher
+
+CONFIRMED ENERGY — MINIMUM COPIES PROVED BY THE LOG
+2 Basic Psychic Energy
+1 Basic Fire Energy
+1 Basic Darkness Energy
+
+ENERGY EVIDENCE
+- One Psychic Energy was attached to the first Dreepy and later discarded when Drakloak was knocked out.
+- Crispin found another Psychic Energy from the deck while attaching Fire Energy to the surviving Drakloak,
+  proving that the discarded and deck-search Psychic Energy were separate physical copies.
+- Darkness Energy was attached to Munkidori to activate Adrena-Brain.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokemon
+3-4 Dreepy
+3-4 Drakloak
+2-3 Dragapult ex
+1-2 Duskull
+1-2 Dusclops
+1-2 Dusknoir
+1 Fezandipiti ex
+1 Munkidori
+1 Meowth ex
+
+Trainers
+3-4 Ultra Ball
+3-4 Crushing Hammer
+1-2 Poke Pad
+1-2 Buddy-Buddy Poffin
+3-4 Lillie's Determination
+1-2 Handheld Fan
+1-2 Jamming Tower
+1-2 Crispin
+1-2 Night Stretcher
+Additional search, switching and recovery cards — exact identities unknown
+
+Energy
+Mixed Basic Psychic, Fire and Darkness Energy — exact counts unknown
+
+TACTICAL ROLE MAP
+- Main attacker and Bench spread: Dragapult ex
+- Evolution draw engine: Drakloak
+- Targeted 130-counter burst: Dusknoir
+- Damage-counter healing and transfer: Munkidori
+- Knockout-response draw: Fezandipiti ex
+- Supporter search: Meowth ex
+- Energy disruption: Crushing Hammer
+- Tool suppression: Jamming Tower
+
+OBSERVED PRIZE MAP
+1. Mega Excadrill ex knocked out Drakloak: attarus took 1 Prize.
+2. Dragapult ex used Phantom Dive and knocked out Benched Beldum with six counters: strongbelieves took 1 Prize.
+3. Dusknoir used Cursed Blast to knock out Metang and then knocked itself out: each player took 1 Prize.
+4. Dragapult ex used Phantom Dive to knock out Mega Excadrill ex: strongbelieves took 3 Prizes and won by
+   board-out, 5 Prizes to 2.
+
+MATCHUP NOTES
+- Count surviving Benched Pokemon, not only remaining Prizes. Dragapult plus Dusknoir can remove two small
+  Benched Pokemon before the Active knockout resolves.
+- A 60-HP Beldum is an exact Phantom Dive counter target.
+- Keep at least two evolution engines and a replacement Drilbur whenever the setup cards permit.
+- Removing one Drakloak is useful but does not stop Dragapult if a second Drakloak is already in play.
+- Crushing Hammer was not decisive in this match; do not overreact by increasing Energy beyond the working
+  16-Basic-Energy engine.
+- On the decisive turn, Petrel for Precious Trolley plus a manual Energy on Active Beldum enabled a normal
+  retreat into the two-Energy Excadrill; Undermine could still take the Drakloak knockout while Trolley widened
+  the Bench. Magnetic Metal Energy was unnecessary and could not be found by Petrel.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and demonstrated board-out route: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority counter-matchup for Mega Excadrill/Metang. Build a wider Bench, protect multiple Metang
+engines and deny the opponent an exact Phantom Dive plus Cursed Blast board-clear sequence.
+
+================================================================================
+ENTRY #14 | CALEB1994 | DHELMISE / BANETTE / DUDUNSPARCE DISCARD ENGINE
+Source: Ranked Match #54
+Result against attarus: Caleb1994 won 6-5
+STYLE: Single-Prize discard engine / recursive attacker loop / draw cycling / precision gust
+INTEREST LEVEL: HIGH — forces an unfavorable six-knockout race while attacking for one Energy
+
+WHY THE DECK WORKED
+- Four Dhelmise provided a continuous stream of single-Prize attackers using Vengeful Anchor.
+- Gwynn, Ultra Ball and repeated Prism Tower activations loaded Pokemon into the discard pile.
+- Vengeful Anchor reached 170 damage for one Energy once four Pokemon had been discarded.
+- Dudunsparce repeatedly used Run Away Draw, recycling itself and Dunsparce while drawing three cards.
+- Night Stretcher recovered knocked-out Dhelmise and maintained the attacker loop.
+- Two Boss's Orders converted Genesect ex into 2 Prizes and Metang into the exact final Prize.
+- The deck presented no multi-Prize Pokemon, forcing attarus to take five separate knockouts and still fall short.
+
+CONFIRMED POKEMON — MINIMUM COPIES PROVED BY THE LOG
+4 Dhelmise
+2 Shuppet
+4 Banette
+2 Dunsparce
+2 Dudunsparce
+1 Shaymin
+
+COUNT EVIDENCE
+- Three Dhelmise were simultaneously in play after the first Telepathic Psychic Energy resolved. After the
+  Active copy was knocked out, another Telepathic Psychic Energy found a Dhelmise still in the deck, proving a
+  fourth physical copy. Night Stretcher then recycled knocked-out copies repeatedly.
+- One Shuppet evolved into the attacking Banette while another Shuppet was discarded by Gwynn.
+- One Banette evolved from the opening Shuppet, a second was discarded by Gwynn, and two more Banette were
+  discarded together by Prism Tower, proving four copies.
+- Two Dunsparce and two Dudunsparce were shown in the repeated Run Away Draw engine; recycled cards do not prove
+  additional physical copies.
+- Shaymin was discarded with Ultra Ball.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+2 Team Rocket's Petrel
+3 Poke Pad
+1 Ultra Ball
+1 Gwynn
+2 Lillie's Determination
+2 Night Stretcher
+2 Boss's Orders
+1 Buddy-Buddy Poffin
+1 Prism Tower
+
+CONFIRMED ENERGY — MINIMUM COPIES PROVED BY THE LOG
+4 Telepathic Psychic Energy
+1 Basic Psychic Energy
+
+ENERGY EVIDENCE
+- Three separate Telepathic Psychic Energy were discarded with the opening Dhelmise, Banette and a later
+  Dhelmise. A fourth was then attached to the final attacking Dhelmise and remained in play when the game ended.
+  No observed effect recovered Special Energy.
+- Basic Psychic Energy was recovered with Night Stretcher and reused, so the log proves only one physical copy.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokemon
+4 Dhelmise
+2-3 Shuppet
+4 Banette
+2-4 Dunsparce
+2-4 Dudunsparce
+1 Shaymin
+
+Trainers
+2-4 Team Rocket's Petrel
+3-4 Poke Pad
+2-4 Ultra Ball
+1-2 Gwynn
+3-4 Lillie's Determination
+2-4 Night Stretcher
+2-3 Boss's Orders
+1-2 Buddy-Buddy Poffin
+1-2 Prism Tower
+Additional discard, recovery and consistency cards — exact identities unknown
+
+Energy
+4 Telepathic Psychic Energy
+Approximately 2-5 Basic Psychic Energy; exact count unknown
+
+TACTICAL ROLE MAP
+- Main recursive attacker: Dhelmise
+- Secondary attacker and draw: Banette
+- Renewable draw engine: Dunsparce and Dudunsparce
+- Discard loading: Gwynn, Ultra Ball and Prism Tower
+- Attacker recovery: Night Stretcher
+- Setup and Supporter access: Telepathic Psychic Energy, Poke Pad and Team Rocket's Petrel
+- Prize-map control: Boss's Orders
+
+OBSERVED WINNING PRIZE MAP
+1. Mega Excadrill ex knocked out Dhelmise, Banette and two more Dhelmise: attarus took 4 Prizes.
+2. Boss's Orders exposed Genesect ex; Dhelmise used Vengeful Anchor for 170: Caleb1994 took 2 Prizes.
+3. Two Vengeful Anchor attacks knocked out the first Mega Excadrill ex: Caleb1994 took 3 Prizes.
+4. The replacement Mega Excadrill ex knocked out another Dhelmise: attarus took a fifth Prize.
+5. Boss's Orders exposed Metang; Dhelmise used Vengeful Anchor for 170: Caleb1994 took the final Prize.
+
+MATCHUP NOTES
+- Do not expect a two-Prize shortcut: this observed list revealed no Pokemon ex or Pokemon V.
+- Vengeful Anchor reaches its effective 170-damage ceiling once four Pokemon are discarded; additional discarded
+  Pokemon improve engine consistency but do not increase damage further.
+- Preserve Switch during the opening. Metallic Signal works from the Bench, and late attacker rotation is more
+  valuable than moving Genesect Active before it is required.
+- Track both Boss's Orders. A developed Genesect ex is an exact 2-Prize target, and Metang can become the final
+  single-Prize target after the opponent removes Mega Excadrill.
+- Kieran's damage option does not increase attacks against Dhelmise because Dhelmise is not Pokemon ex or V.
+- Disrupting Dudunsparce reduces draw consistency, but removing Dhelmise and Night Stretcher is what breaks the
+  repeating attack loop.
+- Wally's Compassion can deny the second 170-damage attack on a wounded Mega Excadrill if already available;
+  Jumbo Ice Cream remains more flexible because it does not consume the Supporter action.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and tactical engine: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority single-Prize matchup reference. Test whether conserving Switch and rotating two powered
+Mega Excadrill can force the opponent to spend Boss's Orders early; do not change the deck after one 6-5 loss.
