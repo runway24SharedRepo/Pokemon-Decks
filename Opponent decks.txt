@@ -1027,3 +1027,174 @@ RECONSTRUCTION CONFIDENCE
 NEXT ACTION
 Retain as a speed-matchup reference. Establish Beldum and a powered Jynx immediately, deny the replacement
 Riolu when possible, and remove all two-Prize Bench targets once Mega Lucario reaches 4 Prizes.
+
+================================================================================
+ENTRY #10 | RODRIGOBICHO | SINISTCHA / SPIRITOMB HIDE 'N' SNEAK
+Source: Non-ranked Match #42
+Result against attarus: RodrigoBicho won by taking all 6 Prizes
+STYLE: Full-board damage spread / discard-pile setup / simultaneous multi-Mega knockout
+INTEREST LEVEL: HIGH — a direct counter to self-damage decks and multiple three-Prize Pokémon
+
+WHY THE DECK WORKED
+- Sinistcha's Matcha Spin repeatedly placed 4 damage counters on every opposing Pokémon.
+- Hide 'n' Sneak Pokémon were deliberately discarded through Gwynn, Prism Tower, Secret Box and Ultra Ball.
+- Spiritomb's Spiritual End multiplied the existing damage on both Mega Darkrai ex at once.
+- The two simultaneous Mega Darkrai knockouts produced all 6 Prizes in a single attack.
+- Lucky Helmet and Lillie's Determination kept the deck supplied while it assembled the discard condition.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+3 Poltchageist
+2 Sinistcha
+3 Shuppet
+3 Banette
+1 Spiritomb
+1 Dhelmise
+1 Shaymin
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+1 Gwynn
+1 Secret Box
+3 Prism Tower
+2 Lucky Helmet
+2 Lillie's Determination
+2 Poké Pad
+1 Night Stretcher
+1 Ultra Ball
+2 Buddy-Buddy Poffin
+1 Air Balloon
+
+CONFIRMED ENERGY
+2 Telepathic Psychic Energy
+2 Basic Psychic Energy
+Exact counts unknown.
+
+TACTICAL ROLE MAP
+- Full-board damage spread: Sinistcha
+- Six-Prize finisher against two damaged Mega Pokémon: Spiritomb
+- Hide 'n' Sneak discard fuel: Poltchageist, Sinistcha, Shuppet and Banette
+- Draw/discard engine: Gwynn, Prism Tower, Secret Box and Lillie's Determination
+- Recovery: Night Stretcher
+- Pivot: Dhelmise with Air Balloon
+
+OBSERVED PRIZE MAP
+1. Mega Darkrai ex knocked out the first Sinistcha: attarus took 1 Prize.
+2. Mega Darkrai ex knocked out the second Sinistcha: attarus took 1 Prize.
+3. Spiritomb used Spiritual End after the Hide 'n' Sneak discard condition was met and knocked out two
+   damaged Mega Darkrai ex simultaneously: RodrigoBicho took all 6 Prizes.
+
+MATCHUP NOTES
+- Boss's Orders should target Spiritomb as soon as it appears; it is the real win condition.
+- Do not bench two three-Prize Mega Pokémon against Spiritual End.
+- Power Munkidori early and move damage off the lone Darkrai before the Spiritomb turn.
+- Removing the Active Sinistcha can promote Spiritomb or another prepared pivot, so assess the opponent's
+  complete board before taking an easy one-Prize knockout.
+- Matcha Spin makes Sinister Surge self-damage much more dangerous because every Pokémon accumulates counters.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and tactical engine: HIGH
+- Confirmed minimum copies: HIGH
+- Exact Hide 'n' Sneak count and complete 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority counter-matchup. Use one Darkrai at a time, power Munkidori, and remove Spiritomb before
+the opponent reaches the Spiritual End discard threshold.
+
+================================================================================
+ENTRY #11 | SLOWZYUU | MEGA EXCADRILL EX / METANG METAL ACCELERATION
+Source: Non-ranked Match #44
+Result against attarus: Slowzyuu won 6-1
+STYLE: Parallel Metal acceleration / two-attacker rotation / three-Prize knockout sprint
+INTEREST LEVEL: VERY HIGH — fast, redundant and closely aligned with the Metal Toolbox play style
+
+WHY THE DECK WORKED
+- Precious Trolley established three Beldum, two Drilbur and Genesect ex immediately.
+- Two Metang used Metal Maker to attach four Metal Energy to the first Mega Excadrill in one turn.
+- Maximum Drilling reached 330 damage and knocked out Mega Darkrai ex in one attack.
+- A second Drilbur was powered in parallel and evolved into a replacement Mega Excadrill ex.
+- Jumbo Ice Cream healed the damaged attacker; retreat cleared Confusion and promoted the fresh attacker.
+- Two Mega Darkrai knockouts supplied exactly 6 Prizes.
+
+CONFIRMED POKÉMON — MINIMUM COPIES PROVED BY THE LOG
+3 Beldum
+3 Metang
+2 Drilbur
+2 Mega Excadrill ex
+1 Genesect ex
+1 Fezandipiti ex
+2 Metagross
+
+COUNT EVIDENCE
+- Three Beldum were simultaneously in play.
+- Two Metang were simultaneously active as Metal Maker engines; a third Metang was drawn.
+- Two Drilbur were simultaneously in play and evolved into two different Mega Excadrill ex.
+- Two Metagross were discarded with Ultra Ball; their exact version was not revealed.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+1 Full Metal Lab
+1 Team Rocket's Petrel
+1 Precious Trolley
+1 Ultra Ball
+1 Jumbo Ice Cream
+
+CONFIRMED ENERGY
+At least 9 Basic Metal Energy were observed through manual attachments and Metal Maker activations.
+The exact deck count is unknown.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokémon
+3-4 Beldum
+3-4 Metang
+2-3 Metagross or Steven's Metagross ex
+2-3 Drilbur
+2-3 Mega Excadrill ex
+1-2 Genesect ex
+1 Fezandipiti ex
+
+Trainers
+1 Precious Trolley
+3-4 Team Rocket's Petrel
+2-4 Ultra Ball
+1-2 Full Metal Lab
+1-2 Jumbo Ice Cream
+Additional search, recovery, switching and draw cards — exact identities unknown
+
+Energy
+Basic Metal Energy — likely a high count to maximise repeated Metal Maker activations; exact count unknown.
+
+TACTICAL ROLE MAP
+- Main three-Prize attacker: Mega Excadrill ex
+- Energy acceleration: Metang
+- Metal Pokémon search: Genesect ex
+- Opening board setup: Precious Trolley
+- Damage reduction: Full Metal Lab
+- Healing and attacker preservation: Jumbo Ice Cream
+- Replacement attacker plan: second Drilbur / Mega Excadrill ex
+
+OBSERVED PRIZE MAP
+1. Mega Darkrai ex knocked out Beldum through Full Metal Lab for 80 damage: attarus took 1 Prize.
+2. The first Mega Excadrill ex used Maximum Drilling for 330 and knocked out Mega Darkrai ex:
+   Slowzyuu took 3 Prizes.
+3. The second Mega Excadrill ex used Maximum Drilling for 330 and knocked out the recovered Mega Darkrai ex:
+   Slowzyuu took the final 3 Prizes.
+
+MATCHUP NOTES
+- Do not knock out a trapped Active Beldum if doing so gives a powered Drilbur a free promotion and evolution.
+- Target Drilbur or remove a Metang before exposing a three-Prize attacker.
+- After losing one Mega Darkrai, do not immediately bench another when the opponent needs exactly 3 Prizes.
+- Dark Bell only delayed the first Excadrill. The opponent correctly cleared Confusion by retreating and
+  promoted a fully powered replacement.
+- Sneasel is a viable response after an Excadrill retreats damaged, but it must be Active with two Darkness
+  Energy and the damaged target must remain on the opponent's Bench.
+- Replace Full Metal Lab before attacking when possible; it reduced Dusk Raid from 110 to 80 in this match.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and tactical engine: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a model Metal deck and priority matchup reference. Disrupt Drilbur or Metang before committing
+Mega Darkrai, and force the opponent to take multiple single-Prize knockouts after the first Darkrai falls.
