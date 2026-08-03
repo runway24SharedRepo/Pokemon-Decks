@@ -1572,3 +1572,141 @@ RECONSTRUCTION CONFIDENCE
 NEXT ACTION
 Retain as a priority single-Prize matchup reference. Test whether conserving Switch and rotating two powered
 Mega Excadrill can force the opponent to spend Boss's Orders early; do not change the deck after one 6-5 loss.
+
+================================================================================
+ENTRY #15 | LETJAR | ALAKAZAM / KADABRA HAND-SIZE ENGINE / TOUCANNON
+Source: Ranked Match #56
+Result against attarus: letjAr won 6-3
+STYLE: Hand-size combo / damage-counter knockout / renewable draw / Bench-count secondary attacker
+INTEREST LEVEL: VERY HIGH — unusual strategy that bypasses damage reduction and converts draw into direct KOs
+
+WHY THE DECK WORKED
+- Three Kadabra used Psychic Draw to build the hand while preparing multiple Alakazam attackers.
+- Dudunsparce repeatedly used its self-recycling draw effect, returning itself and Dunsparce to the deck.
+- Dawn, Fezandipiti ex and Enriching Energy added further burst draw.
+- Toucannon exploited ten total Benched Pokemon to deal 230 through Full Metal Lab.
+- Alakazam's Powerful Hand placed four damage counters per card in hand, producing 36 counters from nine cards
+  and 56 counters from fourteen cards.
+- Damage-counter placement bypassed Full Metal Lab because it was not attack damage.
+- Boss's Orders selected the underpowered Benched Mega Excadrill ex for the first 3-Prize knockout.
+
+CONFIRMED POKEMON — MINIMUM COPIES PROVED BY THE LOG
+3 Abra
+3 Kadabra
+2 Alakazam
+2 Pikipek
+1 Trumbeak
+1 Toucannon
+1 Dunsparce
+1 Dudunsparce
+1 Shaymin
+1 Fezandipiti ex
+
+COUNT EVIDENCE
+- Three Abra were simultaneously in play and evolved into three separate Kadabra.
+- One Alakazam was knocked out before a different Kadabra evolved into the second attacking Alakazam.
+- The first Pikipek evolved directly into Toucannon and was discarded with it; a second Pikipek was later
+  found by Buddy-Buddy Poffin and evolved into Trumbeak.
+- Dunsparce and Dudunsparce were shuffled back into the deck and reused, so the log proves only one physical
+  copy of each.
+
+CONFIRMED TRAINERS — MINIMUM COPIES PROVED BY THE LOG
+3 Rare Candy
+2 Buddy-Buddy Poffin
+2 Dawn
+1 Boss's Orders
+1 Hilda
+1 Wondrous Patch
+1 Battle Cage
+
+TRAINER COUNT EVIDENCE
+- Three Rare Candy were simultaneously revealed in the opening mulligan, proving three physical copies even
+  though only one was later played.
+- The first Buddy-Buddy Poffin established Dunsparce and Pikipek; a separate second copy later found another
+  Pikipek.
+- Dawn was played on two different turns, proving two copies.
+- Battle Cage appeared in the mulligan and was later milled by Undermine, but those events can refer to the
+  same physical card after the mulligan was shuffled back, so only one copy is proved.
+
+CONFIRMED ENERGY — MINIMUM COPIES PROVED BY THE LOG
+2 Telepathic Psychic Energy
+1 Enriching Energy
+1 Basic Psychic Energy
+
+ENERGY EVIDENCE
+- The opening Telepathic Psychic Energy was discarded when Abra retreated. A later separate copy was attached
+  to the first Alakazam and discarded when it was knocked out.
+- Enriching Energy was attached to Toucannon and drew four cards before being discarded at its knockout.
+- Basic Psychic Energy was attached to the second Alakazam and remained in play at the end.
+
+ESTIMATED FUNCTIONAL DECK SKELETON
+The following ranges form a plausible reconstruction, not a verified 60-card export:
+
+Pokemon
+3-4 Abra
+3-4 Kadabra
+2-3 Alakazam
+2-3 Pikipek
+1-2 Trumbeak
+1-2 Toucannon
+2-3 Dunsparce
+2-3 Dudunsparce
+1 Shaymin
+1 Fezandipiti ex
+
+Trainers
+3-4 Rare Candy
+2-4 Buddy-Buddy Poffin
+2-4 Dawn
+1-2 Boss's Orders
+1-2 Hilda
+1 Wondrous Patch [ACE SPEC]
+1-2 Battle Cage
+Additional Pokemon search, recovery and switching cards — exact identities unknown
+
+Energy
+2-4 Telepathic Psychic Energy
+1-2 Enriching Energy
+Approximately 2-5 Basic Psychic Energy; exact count unknown
+
+TACTICAL ROLE MAP
+- Main finisher: Alakazam
+- Evolution draw and secondary attacker preparation: Kadabra
+- Renewable draw loop: Dunsparce and Dudunsparce
+- Bench-count attacker and draw: Toucannon
+- Knockout-response draw: Fezandipiti ex
+- Opening pivot: Shaymin
+- Burst draw: Dawn and Enriching Energy
+- Multi-Basic setup: Buddy-Buddy Poffin and Telepathic Psychic Energy
+- Three-Prize target selection: Boss's Orders
+
+OBSERVED WINNING PRIZE MAP
+1. Mega Excadrill ex knocked out Shaymin: attarus took 1 Prize.
+2. Mega Excadrill ex knocked out Toucannon: attarus took a second Prize.
+3. Boss's Orders exposed the Benched two-Energy Mega Excadrill ex; Alakazam placed 36 counters and letjAr took
+   3 Prizes.
+4. The surviving Mega Excadrill ex knocked out the first Alakazam: attarus took a third Prize.
+5. The second Alakazam placed 56 counters on the Active Mega Excadrill ex and letjAr took the final 3 Prizes.
+
+MATCHUP NOTES
+- Count the opponent's hand before choosing Petrel's target. Powerful Hand scales directly with hand size.
+- Special Red Card is the strongest existing counter in attarus's list; search it before the first Alakazam
+  attacks, not after the hand-size engine has already converted its cards into a knockout.
+- Full Metal Lab and ordinary healing do not stop damage-counter placement.
+- Removing Kadabra before it evolves interrupts both Psychic Draw and the next Powerful Hand attacker.
+- Avoid leaving an underpowered Mega Excadrill ex on the Bench when Boss's Orders can turn it into 3 Prizes.
+- Toucannon becomes stronger when both players fill their Benches, but it is the secondary pressure card; the
+  primary threat remains Alakazam's hand conversion.
+- Dudunsparce can recycle itself, so one observed copy can power repeated draw turns.
+- Wally's Compassion is not a meaningful answer to a fresh Excadrill being knocked out in one Powerful Hand.
+
+RECONSTRUCTION CONFIDENCE
+- Archetype and demonstrated hand-size combo: HIGH
+- Confirmed cards and minimum counts: HIGH
+- Estimated copy ranges: LOW
+- Exact 60-card list: UNKNOWN
+
+NEXT ACTION
+Retain as a priority unfamiliar-matchup reference. In a rematch, use Petrel for Special Red Card before the
+first Alakazam attack, target Kadabra whenever possible and do not change the deck after one loss because the
+current list already contains the correct disruption card.

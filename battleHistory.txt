@@ -1306,3 +1306,84 @@ their search role is complete, prepare two attackers, and expect Boss's Orders t
 RATING: 8/10 (excellent setup, Energy recovery and replacement-attacker preparation; reduced for an unnecessary
 opening Switch and a zero-value Kieran, while the opponent's all-single-Prize field and two precise Boss plays
 decided the 6-5 race)
+
+MATCH #55 | RANKED MATCH #21 | RESULT: WIN | OPPONENT DECK: DRAGAPULT EX / DUSKNOIR / MEOWTH EX
+OPPONENT: Bombastik97 | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Ranked
+TURNS: 5 player turns | PRIZE CARDS LEFT AT CONCESSION: 1-5 | TIME: Not provided
+KEY MOMENTS: Bombastik97 chose to go second. Attarus opened Fezandipiti ex Active with Beldum and two Drilbur
+on the Bench, then attached Metal Energy to the first Drilbur. The opponent established Dreepy Active with
+Dreepy, Duskull and Meowth ex on the Bench. On attarus's second turn Genesect ex joined the Bench, Drilbur
+evolved into Mega Excadrill ex, Beldum evolved into Metang, and Metallic Signal found two Metang. A manual
+attachment plus Metal Maker brought the first Excadrill to three Energy. Drakloak then used Dragon Headbutt for
+70 damage on Fezandipiti ex. Attarus attached Metal Energy to Fezandipiti ex, retreated it, promoted Excadrill
+and used Undermine for the exact 90-damage knockout on Drakloak while milling Dusknoir and Buddy-Buddy Poffin.
+The opponent rebuilt another Active Drakloak, but attarus manually attached to Excadrill, Metal Maker supplied
+the fifth Energy, and Lillie's Determination plus Metallic Signal refreshed the hand. A second Undermine took
+another exact 90-damage Drakloak knockout and milled Buddy-Buddy Poffin plus Switch. Dragapult ex promoted and
+Boss's Orders brought the damaged Fezandipiti ex Active; Jet Headbutt dealt another 70 damage. Attarus evolved
+a second Metang, manually attached to the remaining Drilbur, and the two Metal Maker activations supplied two
+more Energy to Drilbur plus the retreat Energy for Fezandipiti ex. Drilbur evolved into a second Mega Excadrill
+ex, Fezandipiti retreated, and the fully powered first Excadrill used Maximum Drilling for 330 to knock out
+Dragapult ex for 2 Prizes. Bombastik97 used Judge, evolved Dusknoir and used Cursed Blast to knock out one
+Metang; Dusknoir also knocked itself out, giving each player 1 Prize. Jamming Tower entered play, then
+Bombastik97 conceded with attarus having taken 5 Prizes to 1.
+MVP CARD: Mega Excadrill EX (the first copy took two exact Drakloak knockouts with Undermine, removed Dragapult
+ex with Maximum Drilling and remained fully powered and undamaged when the opponent conceded)
+LEARNINGS: The two Undermine attacks were excellent tempo plays. Each dealt exactly the 90 damage required to
+knock out Drakloak while also removing two cards from the opponent's deck, denying repeated Recon Directive
+draw and slowing the Dragapult engine. Using Undermine rather than Maximum Drilling for the second Drakloak was
+especially efficient even though Excadrill had reached five Energy. The opening development was also strong:
+Genesect found the Evolutions, Metang accelerated the first attacker, and the second Drilbur remained available
+for parallel development. When Boss's Orders stranded the 140-damage Fezandipiti ex Active, the two-Metang
+sequence solved both problems at once by placing three Energy on the second Drilbur and one on Fezandipiti for
+retreat. Maximum Drilling then converted Dragapult ex into 2 Prizes before it could use Phantom Dive. The only
+minor alternative was to plan Petrel for Switch on the final attacking turn, switch Fezandipiti out without
+discarding Energy and direct the second Metal Maker activation to the backup Excadrill. Searching Jumbo Ice
+Cream was still reasonable protection against a future Dragapult attack, so this was an optimisation rather
+than a meaningful error. Wally's Compassion was not drawn or used, and the Active Excadrill took no damage, so
+the match provides no new evidence for or against the one-copy test. Keep the current 60-card list unchanged.
+RATING: 9.5/10 (two exact Undermine knockouts dismantled the opponent's draw engine, Maximum Drilling removed
+Dragapult before Phantom Dive, and a second Excadrill was already prepared; only a small Switch-versus-Jumbo
+sequencing alternative remained)
+
+MATCH #56 | RANKED MATCH #22 | RESULT: LOSS | OPPONENT DECK: ALAKAZAM / KADABRA HAND-SIZE ENGINE / TOUCANNON
+OPPONENT: letjAr | DECK USED: Mega Excadrill EX / Metang Metal Maker | MODE: Ranked
+TURNS: 4 player turns | PRIZE CARDS LEFT: 3-0 | TIME: Not provided
+KEY MOMENTS: Both players took one mulligan. Attarus opened Beldum Active with Drilbur on the Bench, manually
+attached to Drilbur and used Team Rocket's Transceiver to find Petrel. LetjAr opened Abra with Shaymin and used
+Buddy-Buddy Poffin plus Telepathic Psychic Energy to establish Dunsparce, Pikipek and two more Abra. Shaymin
+was promoted after Teleportation Attack. Attarus evolved into Metang, Metal Maker supplied two more Energy to
+Drilbur, and Drilbur evolved into Mega Excadrill ex. Petrel found Precious Trolley, which filled the Bench with
+two Beldum, a second Drilbur and Genesect ex. Switch promoted Excadrill and Undermine knocked out Shaymin while
+milling Hilda and Battle Cage. LetjAr used Rare Candy to evolve Pikipek directly into Toucannon, attached
+Enriching Energy and drew four cards. Three Abra evolved into three Kadabra, each Kadabra used Psychic Draw,
+Dawn drew three, Fezandipiti ex used Flip the Script and Dudunsparce added another three-card cycle. With ten
+total Benched Pokemon in play, Toucannon's Feather Rondo dealt 230 after Full Metal Lab reduced the damage by
+30. Attarus healed 80 with the Jumbo Ice Cream found by Petrel, used three Metal Maker activations to finish
+the Active Excadrill and prepare the second Drilbur, and Maximum Drilling knocked out Toucannon. A Kadabra then
+evolved into Alakazam. More Psychic Draw, Dudunsparce and Flip the Script effects rebuilt a large hand. Boss's
+Orders brought the two-Energy Benched Mega Excadrill ex Active, and Powerful Hand placed 36 damage counters on
+it for a 3-Prize knockout. The original five-Energy Excadrill returned Active and knocked out Alakazam, but the
+opponent immediately evolved another Kadabra into a second Alakazam. Psychic Draw, Dudunsparce, Flip the Script
+and Dawn expanded the hand again, and Powerful Hand placed 56 damage counters on the Active Mega Excadrill for
+the final 3 Prizes.
+MVP CARD: Alakazam (two separate copies converted nine-card and fourteen-card hands into 36 and 56 damage
+counters, taking both three-Prize Mega Excadrill knockouts while bypassing Full Metal Lab)
+LEARNINGS: This was an unusual hand-size combo deck rather than a conventional damage attacker. Kadabra,
+Alakazam, Dudunsparce, Dawn, Fezandipiti ex and Enriching Energy were deliberately layered to create very large
+hands; Powerful Hand then placed four damage counters per card in hand. Damage-counter placement is not attack
+damage, so Full Metal Lab could not reduce either knockout. Boss's Orders was critical because it bypassed the
+healed five-Energy Active Excadrill and selected the undamaged two-Energy backup for the first 3 Prizes. The
+clearest counter was the Petrel decision after Feather Rondo. Attarus searched Jumbo Ice Cream and healed 80,
+but the opponent never attacked that healed Pokemon. Petrel could instead have found Special Red Card and
+reduced the opponent's already enlarged hand before the first Alakazam turn. The draw engine could rebuild, but
+starting from three cards would materially reduce Powerful Hand and was the only available action that attacked
+the deck's actual resource. Filling both Benches also enabled Toucannon's ten-Benched-Pokemon Feather Rondo, but
+Precious Trolley still created three Metang and two Excadrill lines, so the wide Bench was a reasonable setup
+cost rather than the decisive mistake. Wally's Compassion and Jumbo Ice Cream cannot prevent a fresh Excadrill
+from being knocked out by damage-counter placement; hand disruption, removing Kadabra before it evolves and
+avoiding a vulnerable three-Prize backup are the relevant answers. Keep the current 60-card list unchanged:
+Special Red Card is already present as the matchup-specific counter, and this single unfamiliar loss does not
+justify another deck edit.
+RATING: 7.5/10 (excellent acceleration and three clean knockouts, but Petrel-for-Jumbo addressed Toucannon's
+damage rather than the rapidly growing hand that powered both decisive Alakazam knockouts)
